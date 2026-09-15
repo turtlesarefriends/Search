@@ -1,0 +1,9266 @@
+{
+  "count": 1323,
+  "branches": [
+    {
+      "name": "Andalusia Branch",
+      "city": "Andalusia",
+      "state": "AL",
+      "lat": 31.317,
+      "lng": -86.496
+    },
+    {
+      "name": "Cullman Branch",
+      "city": "Cullman",
+      "state": "AL",
+      "lat": 34.16,
+      "lng": -86.837
+    },
+    {
+      "name": "Bessemer Branch",
+      "city": "Bessemer",
+      "state": "AL",
+      "lat": 33.358,
+      "lng": -86.999
+    },
+    {
+      "name": "Daphne Branch",
+      "city": "Daphne",
+      "state": "AL",
+      "lat": 30.599,
+      "lng": -87.897
+    },
+    {
+      "name": "Alexander City Branch",
+      "city": "Alexander City",
+      "state": "AL",
+      "lat": 32.936,
+      "lng": -85.97
+    },
+    {
+      "name": "Dothan Branch",
+      "city": "Dothan",
+      "state": "AL",
+      "lat": 31.249,
+      "lng": -85.428
+    },
+    {
+      "name": "Fultondale Branch",
+      "city": "Fultondale",
+      "state": "AL",
+      "lat": 33.605,
+      "lng": -86.805
+    },
+    {
+      "name": "Decatur Branch",
+      "city": "Decatur",
+      "state": "AL",
+      "lat": 34.566,
+      "lng": -87.01
+    },
+    {
+      "name": "Gadsden Branch",
+      "city": "Gadsden",
+      "state": "AL",
+      "lat": 34.003,
+      "lng": -85.997
+    },
+    {
+      "name": "Enterprise Branch",
+      "city": "Enterprise",
+      "state": "AL",
+      "lat": 31.33,
+      "lng": -85.84
+    },
+    {
+      "name": "University Dr NW Branch",
+      "city": "Huntsville",
+      "state": "AL",
+      "lat": 34.736,
+      "lng": -86.656
+    },
+    {
+      "name": "Gardendale Branch",
+      "city": "Gardendale",
+      "state": "AL",
+      "lat": 33.655,
+      "lng": -86.812
+    },
+    {
+      "name": "Homewood Branch",
+      "city": "Homewood",
+      "state": "AL",
+      "lat": 33.463,
+      "lng": -86.821
+    },
+    {
+      "name": "Airport Rd SW Branch",
+      "city": "Huntsville",
+      "state": "AL",
+      "lat": 34.691,
+      "lng": -86.575
+    },
+    {
+      "name": "Jasper Branch",
+      "city": "Jasper",
+      "state": "AL",
+      "lat": 33.842,
+      "lng": -87.246
+    },
+    {
+      "name": "E I-65 Service Rd Branch",
+      "city": "Mobile",
+      "state": "AL",
+      "lat": 30.698,
+      "lng": -88.125
+    },
+    {
+      "name": "Madison Branch",
+      "city": "Madison",
+      "state": "AL",
+      "lat": 34.688,
+      "lng": -86.721
+    },
+    {
+      "name": "Schillinger Rd S Branch",
+      "city": "Mobile",
+      "state": "AL",
+      "lat": 30.669,
+      "lng": -88.226
+    },
+    {
+      "name": "Vaughn Rd Branch",
+      "city": "Montgomery",
+      "state": "AL",
+      "lat": 32.337,
+      "lng": -86.182
+    },
+    {
+      "name": "Perry Hill Rd Branch",
+      "city": "Montgomery",
+      "state": "AL",
+      "lat": 32.355,
+      "lng": -86.243
+    },
+    {
+      "name": "Opelika Branch",
+      "city": "Opelika",
+      "state": "AL",
+      "lat": 32.632,
+      "lng": -85.436
+    },
+    {
+      "name": "Muscle Shoals Branch",
+      "city": "Muscle Shoals",
+      "state": "AL",
+      "lat": 34.732,
+      "lng": -87.668
+    },
+    {
+      "name": "Northport Branch",
+      "city": "Northport",
+      "state": "AL",
+      "lat": 33.237,
+      "lng": -87.553
+    },
+    {
+      "name": "Oxford Branch",
+      "city": "Oxford",
+      "state": "AL",
+      "lat": 33.616,
+      "lng": -85.826
+    },
+    {
+      "name": "Pelham Branch",
+      "city": "Pelham",
+      "state": "AL",
+      "lat": 33.268,
+      "lng": -86.81
+    },
+    {
+      "name": "Sylacauga Branch",
+      "city": "Sylacauga",
+      "state": "AL",
+      "lat": 33.177,
+      "lng": -86.288
+    },
+    {
+      "name": "Prattville Branch",
+      "city": "Prattville",
+      "state": "AL",
+      "lat": 32.46,
+      "lng": -86.408
+    },
+    {
+      "name": "Phenix City Branch",
+      "city": "Phenix City",
+      "state": "AL",
+      "lat": 32.464,
+      "lng": -85.023
+    },
+    {
+      "name": "Scottsboro Branch",
+      "city": "Scottsboro",
+      "state": "AL",
+      "lat": 34.652,
+      "lng": -86.034
+    },
+    {
+      "name": "Saraland Branch",
+      "city": "Saraland",
+      "state": "AL",
+      "lat": 30.822,
+      "lng": -88.071
+    },
+    {
+      "name": "Thomasville Branch",
+      "city": "Thomasville",
+      "state": "AL",
+      "lat": 31.916,
+      "lng": -87.736
+    },
+    {
+      "name": "Chandler Branch",
+      "city": "Chandler",
+      "state": "AZ",
+      "lat": 33.319,
+      "lng": -111.943
+    },
+    {
+      "name": "Flagstaff Branch",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "lat": 35.207,
+      "lng": -111.646
+    },
+    {
+      "name": "Gilbert Branch",
+      "city": "Gilbert",
+      "state": "AZ",
+      "lat": 33.304,
+      "lng": -111.757
+    },
+    {
+      "name": "CASA GRANDE Branch",
+      "city": "Casa Grande",
+      "state": "AZ",
+      "lat": 32.886,
+      "lng": -111.685
+    },
+    {
+      "name": "Kingman Branch",
+      "city": "Kingman",
+      "state": "AZ",
+      "lat": 35.237,
+      "lng": -114.036
+    },
+    {
+      "name": "Laveen Branch",
+      "city": "Laveen",
+      "state": "AZ",
+      "lat": 33.391,
+      "lng": -112.169
+    },
+    {
+      "name": "E Baseline Rd Branch",
+      "city": "Mesa",
+      "state": "AZ",
+      "lat": 33.379,
+      "lng": -111.68
+    },
+    {
+      "name": "N Lindsay Rd Branch",
+      "city": "Mesa",
+      "state": "AZ",
+      "lat": 33.424,
+      "lng": -111.771
+    },
+    {
+      "name": "W Greenway Rd Branch",
+      "city": "Phoenix",
+      "state": "AZ",
+      "lat": 33.626,
+      "lng": -112.133
+    },
+    {
+      "name": "E Bell Rd Branch",
+      "city": "Phoenix",
+      "state": "AZ",
+      "lat": 33.639,
+      "lng": -112.068
+    },
+    {
+      "name": "E Thomas Rd Branch",
+      "city": "Phoenix",
+      "state": "AZ",
+      "lat": 33.48,
+      "lng": -111.984
+    },
+    {
+      "name": "Prescott Valley Branch",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "lat": 34.586,
+      "lng": -112.338
+    },
+    {
+      "name": "Surprise Branch",
+      "city": "Surprise",
+      "state": "AZ",
+      "lat": 33.625,
+      "lng": -112.414
+    },
+    {
+      "name": "Sierra Vista Branch",
+      "city": "Sierra Vista",
+      "state": "AZ",
+      "lat": 31.54,
+      "lng": -110.258
+    },
+    {
+      "name": "Tolleson Branch",
+      "city": "Tolleson",
+      "state": "AZ",
+      "lat": 33.464,
+      "lng": -112.271
+    },
+    {
+      "name": "Tempe Branch",
+      "city": "Tempe",
+      "state": "AZ",
+      "lat": 33.35,
+      "lng": -111.954
+    },
+    {
+      "name": "E Golf Links Rd Branch",
+      "city": "Tucson",
+      "state": "AZ",
+      "lat": 32.19,
+      "lng": -110.857
+    },
+    {
+      "name": "E Speedway Blvd Branch",
+      "city": "Tucson",
+      "state": "AZ",
+      "lat": 32.236,
+      "lng": -110.921
+    },
+    {
+      "name": "W Irvington Rd Branch",
+      "city": "Tucson",
+      "state": "AZ",
+      "lat": 32.162,
+      "lng": -110.991
+    },
+    {
+      "name": "N Thornydale Rd Branch",
+      "city": "Tucson",
+      "state": "AZ",
+      "lat": 32.33,
+      "lng": -111.047
+    },
+    {
+      "name": "Yuma Branch",
+      "city": "Yuma",
+      "state": "AZ",
+      "lat": 32.701,
+      "lng": -114.601
+    },
+    {
+      "name": "Alameda Branch",
+      "city": "Alameda",
+      "state": "CA",
+      "lat": 37.769,
+      "lng": -122.232
+    },
+    {
+      "name": "Anaheim Branch",
+      "city": "Anaheim",
+      "state": "CA",
+      "lat": 33.802,
+      "lng": -117.941
+    },
+    {
+      "name": "Antelope Branch",
+      "city": "Antelope",
+      "state": "CA",
+      "lat": 38.713,
+      "lng": -121.362
+    },
+    {
+      "name": "Antioch Branch",
+      "city": "Antioch",
+      "state": "CA",
+      "lat": 37.962,
+      "lng": -121.758
+    },
+    {
+      "name": "Azusa Branch",
+      "city": "Azusa",
+      "state": "CA",
+      "lat": 34.129,
+      "lng": -117.883
+    },
+    {
+      "name": "W Alameda Ave Branch",
+      "city": "Burbank",
+      "state": "CA",
+      "lat": 34.152,
+      "lng": -118.345
+    },
+    {
+      "name": "Mall View Rd Branch",
+      "city": "Bakersfield",
+      "state": "CA",
+      "lat": 35.394,
+      "lng": -118.951
+    },
+    {
+      "name": "Hageman Rd Branch",
+      "city": "Bakersfield",
+      "state": "CA",
+      "lat": 35.4,
+      "lng": -119.109
+    },
+    {
+      "name": "Truxtun Avenue Ste 100 Branch",
+      "city": "Bakersfield",
+      "state": "CA",
+      "lat": 35.373,
+      "lng": -119.048
+    },
+    {
+      "name": "Bell Branch",
+      "city": "Bell",
+      "state": "CA",
+      "lat": 33.98,
+      "lng": -118.187
+    },
+    {
+      "name": "Canoga Park Branch",
+      "city": "Canoga Park",
+      "state": "CA",
+      "lat": 34.222,
+      "lng": -118.607
+    },
+    {
+      "name": "Carlsbad Branch",
+      "city": "Carlsbad",
+      "state": "CA",
+      "lat": 33.133,
+      "lng": -117.272
+    },
+    {
+      "name": "Cathedral City Branch",
+      "city": "Cathedral City",
+      "state": "CA",
+      "lat": 33.798,
+      "lng": -116.459
+    },
+    {
+      "name": "Carson Branch",
+      "city": "Carson",
+      "state": "CA",
+      "lat": 33.873,
+      "lng": -118.266
+    },
+    {
+      "name": "Chico Branch",
+      "city": "Chico",
+      "state": "CA",
+      "lat": 39.715,
+      "lng": -121.794
+    },
+    {
+      "name": "Corona Branch",
+      "city": "Corona",
+      "state": "CA",
+      "lat": 33.886,
+      "lng": -117.52
+    },
+    {
+      "name": "Chula Vista Branch",
+      "city": "Chula Vista",
+      "state": "CA",
+      "lat": 32.63,
+      "lng": -117.09
+    },
+    {
+      "name": "Downey Branch",
+      "city": "Downey",
+      "state": "CA",
+      "lat": 33.931,
+      "lng": -118.116
+    },
+    {
+      "name": "Culver City Branch",
+      "city": "Culver City",
+      "state": "CA",
+      "lat": 33.992,
+      "lng": -118.395
+    },
+    {
+      "name": "Folsom Branch",
+      "city": "Folsom",
+      "state": "CA",
+      "lat": 38.671,
+      "lng": -121.163
+    },
+    {
+      "name": "El Cajon Branch",
+      "city": "El Cajon",
+      "state": "CA",
+      "lat": 32.799,
+      "lng": -117.003
+    },
+    {
+      "name": "Escondido Branch",
+      "city": "Escondido",
+      "state": "CA",
+      "lat": 33.113,
+      "lng": -117.099
+    },
+    {
+      "name": "Elk Grove Branch",
+      "city": "Elk Grove",
+      "state": "CA",
+      "lat": 38.426,
+      "lng": -121.395
+    },
+    {
+      "name": "Fairfield Branch",
+      "city": "Fairfield",
+      "state": "CA",
+      "lat": 38.288,
+      "lng": -122.034
+    },
+    {
+      "name": "Fontana Branch",
+      "city": "Fontana",
+      "state": "CA",
+      "lat": 34.139,
+      "lng": -117.439
+    },
+    {
+      "name": "E Kings Canyon Rd Branch",
+      "city": "Fresno",
+      "state": "CA",
+      "lat": 36.736,
+      "lng": -119.681
+    },
+    {
+      "name": "N Fresno St Branch",
+      "city": "Fresno",
+      "state": "CA",
+      "lat": 36.845,
+      "lng": -119.784
+    },
+    {
+      "name": "W Shaw Ave Branch",
+      "city": "Fresno",
+      "state": "CA",
+      "lat": 36.808,
+      "lng": -119.853
+    },
+    {
+      "name": "Fullerton Branch",
+      "city": "Fullerton",
+      "state": "CA",
+      "lat": 33.856,
+      "lng": -117.925
+    },
+    {
+      "name": "Hanford Branch",
+      "city": "Hanford",
+      "state": "CA",
+      "lat": 36.329,
+      "lng": -119.656
+    },
+    {
+      "name": "Hemet Branch",
+      "city": "Hemet",
+      "state": "CA",
+      "lat": 33.746,
+      "lng": -117.011
+    },
+    {
+      "name": "Hayward Branch",
+      "city": "Hayward",
+      "state": "CA",
+      "lat": 37.684,
+      "lng": -122.091
+    },
+    {
+      "name": "Hollister Branch",
+      "city": "Hollister",
+      "state": "CA",
+      "lat": 36.851,
+      "lng": -121.402
+    },
+    {
+      "name": "La Habra Branch",
+      "city": "La Habra",
+      "state": "CA",
+      "lat": 33.94,
+      "lng": -117.963
+    },
+    {
+      "name": "La Verne Branch",
+      "city": "La Verne",
+      "state": "CA",
+      "lat": 34.111,
+      "lng": -117.763
+    },
+    {
+      "name": "La Puente Branch",
+      "city": "La Puente",
+      "state": "CA",
+      "lat": 34.051,
+      "lng": -117.945
+    },
+    {
+      "name": "Lake Forest Branch",
+      "city": "Lake Forest",
+      "state": "CA",
+      "lat": 33.616,
+      "lng": -117.705
+    },
+    {
+      "name": "Lake Elsinore Branch",
+      "city": "Lake Elsinore",
+      "state": "CA",
+      "lat": 33.655,
+      "lng": -117.299
+    },
+    {
+      "name": "Lakewood Branch",
+      "city": "Lakewood",
+      "state": "CA",
+      "lat": 33.859,
+      "lng": -118.117
+    },
+    {
+      "name": "Lancaster Branch",
+      "city": "Lancaster",
+      "state": "CA",
+      "lat": 34.675,
+      "lng": -118.148
+    },
+    {
+      "name": "Lawndale Branch",
+      "city": "Lawndale",
+      "state": "CA",
+      "lat": 33.888,
+      "lng": -118.351
+    },
+    {
+      "name": "Lodi Branch",
+      "city": "Lodi",
+      "state": "CA",
+      "lat": 38.117,
+      "lng": -121.307
+    },
+    {
+      "name": "Long Beach Branch",
+      "city": "Long Beach",
+      "state": "CA",
+      "lat": 33.768,
+      "lng": -118.2
+    },
+    {
+      "name": "Eagle Rock Blvd Branch",
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 34.136,
+      "lng": -118.216
+    },
+    {
+      "name": "S Sepulveda Blvd Branch",
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 33.955,
+      "lng": -118.397
+    },
+    {
+      "name": "W Sunset Blvd Branch",
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 34.099,
+      "lng": -118.326
+    },
+    {
+      "name": "Madera Branch",
+      "city": "Madera",
+      "state": "CA",
+      "lat": 36.977,
+      "lng": -120.082
+    },
+    {
+      "name": "Manteca Branch",
+      "city": "Manteca",
+      "state": "CA",
+      "lat": 37.798,
+      "lng": -121.24
+    },
+    {
+      "name": "Merced Branch",
+      "city": "Merced",
+      "state": "CA",
+      "lat": 37.327,
+      "lng": -120.47
+    },
+    {
+      "name": "Monterey Park Branch",
+      "city": "Monterey Park",
+      "state": "CA",
+      "lat": 34.039,
+      "lng": -118.142
+    },
+    {
+      "name": "Moreno Valley Branch",
+      "city": "Moreno Valley",
+      "state": "CA",
+      "lat": 33.939,
+      "lng": -117.246
+    },
+    {
+      "name": "Modesto Branch",
+      "city": "Modesto",
+      "state": "CA",
+      "lat": 37.684,
+      "lng": -121.049
+    },
+    {
+      "name": "National City Branch",
+      "city": "National City",
+      "state": "CA",
+      "lat": 32.66,
+      "lng": -117.081
+    },
+    {
+      "name": "Newark Branch",
+      "city": "Newark",
+      "state": "CA",
+      "lat": 37.55,
+      "lng": -122.051
+    },
+    {
+      "name": "E Guasti Rd Branch",
+      "city": "Ontario",
+      "state": "CA",
+      "lat": 34.065,
+      "lng": -117.579
+    },
+    {
+      "name": "S Euclid Ave Branch",
+      "city": "Ontario",
+      "state": "CA",
+      "lat": 34.032,
+      "lng": -117.652
+    },
+    {
+      "name": "Oroville Branch",
+      "city": "Oroville",
+      "state": "CA",
+      "lat": 39.498,
+      "lng": -121.57
+    },
+    {
+      "name": "Oxnard Branch",
+      "city": "Oxnard",
+      "state": "CA",
+      "lat": 34.22,
+      "lng": -119.175
+    },
+    {
+      "name": "Palmdale Branch",
+      "city": "Palmdale",
+      "state": "CA",
+      "lat": 34.595,
+      "lng": -118.146
+    },
+    {
+      "name": "Panorama City Branch",
+      "city": "Panorama City",
+      "state": "CA",
+      "lat": 34.222,
+      "lng": -118.447
+    },
+    {
+      "name": "Porterville Branch",
+      "city": "Porterville",
+      "state": "CA",
+      "lat": 36.072,
+      "lng": -119.015
+    },
+    {
+      "name": "Redding Branch",
+      "city": "Redding",
+      "state": "CA",
+      "lat": 40.587,
+      "lng": -122.349
+    },
+    {
+      "name": "Redlands Branch",
+      "city": "Redlands",
+      "state": "CA",
+      "lat": 34.059,
+      "lng": -117.181
+    },
+    {
+      "name": "Riverbank Branch",
+      "city": "Riverbank",
+      "state": "CA",
+      "lat": 37.711,
+      "lng": -120.954
+    },
+    {
+      "name": "Riverside Branch",
+      "city": "Riverside",
+      "state": "CA",
+      "lat": 33.958,
+      "lng": -117.394
+    },
+    {
+      "name": "Roseville Branch",
+      "city": "Roseville",
+      "state": "CA",
+      "lat": 38.745,
+      "lng": -121.26
+    },
+    {
+      "name": "N Freeway Blvd Branch",
+      "city": "Sacramento",
+      "state": "CA",
+      "lat": 38.641,
+      "lng": -121.501
+    },
+    {
+      "name": "Bradshaw Rd Branch",
+      "city": "Sacramento",
+      "state": "CA",
+      "lat": 38.563,
+      "lng": -121.337
+    },
+    {
+      "name": "Salinas Branch",
+      "city": "Salinas",
+      "state": "CA",
+      "lat": 36.692,
+      "lng": -121.653
+    },
+    {
+      "name": "E Hospitality Ln Branch",
+      "city": "San Bernardino",
+      "state": "CA",
+      "lat": 34.069,
+      "lng": -117.266
+    },
+    {
+      "name": "Kendall Dr Branch",
+      "city": "San Bernardino",
+      "state": "CA",
+      "lat": 34.188,
+      "lng": -117.355
+    },
+    {
+      "name": "San Bruno Branch",
+      "city": "San Bruno",
+      "state": "CA",
+      "lat": 37.614,
+      "lng": -122.404
+    },
+    {
+      "name": "Rio San Diego Dr Branch",
+      "city": "San Diego",
+      "state": "CA",
+      "lat": 32.775,
+      "lng": -117.136
+    },
+    {
+      "name": "El Cajon Blvd Branch",
+      "city": "San Diego",
+      "state": "CA",
+      "lat": 32.762,
+      "lng": -117.065
+    },
+    {
+      "name": "San Francisco Branch",
+      "city": "San Francisco",
+      "state": "CA",
+      "lat": 37.78,
+      "lng": -122.475
+    },
+    {
+      "name": "San Gabriel Branch",
+      "city": "San Gabriel",
+      "state": "CA",
+      "lat": 34.098,
+      "lng": -118.074
+    },
+    {
+      "name": "Curtner Ave Branch",
+      "city": "San Jose",
+      "state": "CA",
+      "lat": 37.301,
+      "lng": -121.866
+    },
+    {
+      "name": "Blossom Hill Rd Branch",
+      "city": "San Jose",
+      "state": "CA",
+      "lat": 37.25,
+      "lng": -121.87
+    },
+    {
+      "name": "Stevens Creek Blvd Branch",
+      "city": "San Jose",
+      "state": "CA",
+      "lat": 37.322,
+      "lng": -121.993
+    },
+    {
+      "name": "San Leandro Branch",
+      "city": "San Leandro",
+      "state": "CA",
+      "lat": 37.705,
+      "lng": -122.181
+    },
+    {
+      "name": "San Luis Obispo Branch",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "lat": 35.25,
+      "lng": -120.642
+    },
+    {
+      "name": "Santa Ana Branch",
+      "city": "Santa Ana",
+      "state": "CA",
+      "lat": 33.698,
+      "lng": -117.886
+    },
+    {
+      "name": "Santa Maria Branch",
+      "city": "Santa Maria",
+      "state": "CA",
+      "lat": 34.921,
+      "lng": -120.433
+    },
+    {
+      "name": "Santa Rosa Branch",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "lat": 38.429,
+      "lng": -122.743
+    },
+    {
+      "name": "Simi Valley Branch",
+      "city": "Simi Valley",
+      "state": "CA",
+      "lat": 34.272,
+      "lng": -118.774
+    },
+    {
+      "name": "Santa Clarita Branch",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "lat": 34.378,
+      "lng": -118.557
+    },
+    {
+      "name": "Selma Branch",
+      "city": "Selma",
+      "state": "CA",
+      "lat": 36.574,
+      "lng": -119.629
+    },
+    {
+      "name": "San Pablo Branch",
+      "city": "San Pablo",
+      "state": "CA",
+      "lat": 37.961,
+      "lng": -122.326
+    },
+    {
+      "name": "South Gate Branch",
+      "city": "South Gate",
+      "state": "CA",
+      "lat": 33.951,
+      "lng": -118.163
+    },
+    {
+      "name": "Sylmar Branch",
+      "city": "Sylmar",
+      "state": "CA",
+      "lat": 34.3,
+      "lng": -118.441
+    },
+    {
+      "name": "Stockton Branch",
+      "city": "Stockton",
+      "state": "CA",
+      "lat": 37.987,
+      "lng": -121.342
+    },
+    {
+      "name": "Temecula Branch",
+      "city": "Temecula",
+      "state": "CA",
+      "lat": 33.52,
+      "lng": -117.16
+    },
+    {
+      "name": "Torrance Branch",
+      "city": "Torrance",
+      "state": "CA",
+      "lat": 33.839,
+      "lng": -118.355
+    },
+    {
+      "name": "Tulare Branch",
+      "city": "Tulare",
+      "state": "CA",
+      "lat": 36.228,
+      "lng": -119.333
+    },
+    {
+      "name": "Turlock Branch",
+      "city": "Turlock",
+      "state": "CA",
+      "lat": 37.5,
+      "lng": -120.852
+    },
+    {
+      "name": "Tustin Branch",
+      "city": "Tustin",
+      "state": "CA",
+      "lat": 33.735,
+      "lng": -117.813
+    },
+    {
+      "name": "Vallejo Branch",
+      "city": "Vallejo",
+      "state": "CA",
+      "lat": 38.132,
+      "lng": -122.219
+    },
+    {
+      "name": "Ventura Branch",
+      "city": "Ventura",
+      "state": "CA",
+      "lat": 34.263,
+      "lng": -119.238
+    },
+    {
+      "name": "Roy Rogers Dr Branch",
+      "city": "Victorville",
+      "state": "CA",
+      "lat": 34.521,
+      "lng": -117.325
+    },
+    {
+      "name": "Visalia Branch",
+      "city": "Visalia",
+      "state": "CA",
+      "lat": 36.313,
+      "lng": -119.347
+    },
+    {
+      "name": "Bear Valley Rd Ste C Branch",
+      "city": "Victorville",
+      "state": "CA",
+      "lat": 34.471,
+      "lng": -117.353
+    },
+    {
+      "name": "Walnut Creek Branch",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "lat": 37.931,
+      "lng": -122.016
+    },
+    {
+      "name": "West Sacramento Branch",
+      "city": "West Sacramento",
+      "state": "CA",
+      "lat": 38.556,
+      "lng": -121.54
+    },
+    {
+      "name": "Westminster Branch",
+      "city": "Westminster",
+      "state": "CA",
+      "lat": 33.723,
+      "lng": -117.989
+    },
+    {
+      "name": "Alamosa Branch",
+      "city": "Alamosa",
+      "state": "CO",
+      "lat": 37.468,
+      "lng": -105.877
+    },
+    {
+      "name": "Whittier Branch",
+      "city": "Whittier",
+      "state": "CA",
+      "lat": 33.982,
+      "lng": -118.051
+    },
+    {
+      "name": "Yuba City Branch",
+      "city": "Yuba City",
+      "state": "CA",
+      "lat": 39.142,
+      "lng": -121.652
+    },
+    {
+      "name": "Centennial Branch",
+      "city": "Centennial",
+      "state": "CO",
+      "lat": 39.572,
+      "lng": -104.884
+    },
+    {
+      "name": "Austin Bluffs Pkwy Branch",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "lat": 38.893,
+      "lng": -104.756
+    },
+    {
+      "name": "S Colorado Blvd Branch",
+      "city": "Denver",
+      "state": "CO",
+      "lat": 39.688,
+      "lng": -104.941
+    },
+    {
+      "name": "Scarborough Dr Branch",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "lat": 38.956,
+      "lng": -104.731
+    },
+    {
+      "name": "DENVER Branch",
+      "city": "Denver",
+      "state": "CO",
+      "lat": 39.78,
+      "lng": -104.849
+    },
+    {
+      "name": "W Uintah St Branch",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "lat": 38.849,
+      "lng": -104.847
+    },
+    {
+      "name": "Fort Collins Branch",
+      "city": "Fort Collins",
+      "state": "CO",
+      "lat": 40.567,
+      "lng": -105.035
+    },
+    {
+      "name": "Grand Junction Branch",
+      "city": "Grand Junction",
+      "state": "CO",
+      "lat": 39.088,
+      "lng": -108.49
+    },
+    {
+      "name": "Greeley Branch",
+      "city": "Greeley",
+      "state": "CO",
+      "lat": 40.403,
+      "lng": -104.734
+    },
+    {
+      "name": "Lamar Branch",
+      "city": "Lamar",
+      "state": "CO",
+      "lat": 38.075,
+      "lng": -102.618
+    },
+    {
+      "name": "Longmont Branch",
+      "city": "Longmont",
+      "state": "CO",
+      "lat": 40.191,
+      "lng": -105.101
+    },
+    {
+      "name": "Westminster Branch",
+      "city": "Westminster",
+      "state": "CO",
+      "lat": 39.863,
+      "lng": -105.064
+    },
+    {
+      "name": "Pueblo Branch",
+      "city": "Pueblo",
+      "state": "CO",
+      "lat": 38.333,
+      "lng": -104.621
+    },
+    {
+      "name": "E 84th Ave Branch",
+      "city": "Thornton",
+      "state": "CO",
+      "lat": 39.847,
+      "lng": -104.982
+    },
+    {
+      "name": "Bear Branch",
+      "city": "Bear",
+      "state": "DE",
+      "lat": 39.607,
+      "lng": -75.715
+    },
+    {
+      "name": "Dover Branch",
+      "city": "Dover",
+      "state": "DE",
+      "lat": 39.147,
+      "lng": -75.524
+    },
+    {
+      "name": "Milford Branch",
+      "city": "Milford",
+      "state": "DE",
+      "lat": 38.917,
+      "lng": -75.439
+    },
+    {
+      "name": "Newark Branch",
+      "city": "Newark",
+      "state": "DE",
+      "lat": 39.667,
+      "lng": -75.778
+    },
+    {
+      "name": "Seaford Branch",
+      "city": "Seaford",
+      "state": "DE",
+      "lat": 38.658,
+      "lng": -75.597
+    },
+    {
+      "name": "Wilmington Branch",
+      "city": "Wilmington",
+      "state": "DE",
+      "lat": 39.814,
+      "lng": -75.547
+    },
+    {
+      "name": "Boynton Beach Branch",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "lat": 26.536,
+      "lng": -80.089
+    },
+    {
+      "name": "Apopka Branch",
+      "city": "Apopka",
+      "state": "FL",
+      "lat": 28.669,
+      "lng": -81.453
+    },
+    {
+      "name": "Bradenton Branch",
+      "city": "Bradenton",
+      "state": "FL",
+      "lat": 27.498,
+      "lng": -82.499
+    },
+    {
+      "name": "Cape Coral Branch",
+      "city": "Cape Coral",
+      "state": "FL",
+      "lat": 26.672,
+      "lng": -81.937
+    },
+    {
+      "name": "Brooksville Branch",
+      "city": "Brooksville",
+      "state": "FL",
+      "lat": 28.534,
+      "lng": -82.508
+    },
+    {
+      "name": "Clearwater Branch",
+      "city": "Clearwater",
+      "state": "FL",
+      "lat": 28.008,
+      "lng": -82.728
+    },
+    {
+      "name": "Cocoa Branch",
+      "city": "Cocoa",
+      "state": "FL",
+      "lat": 28.422,
+      "lng": -80.758
+    },
+    {
+      "name": "Casselberry Branch",
+      "city": "Casselberry",
+      "state": "FL",
+      "lat": 28.661,
+      "lng": -81.339
+    },
+    {
+      "name": "Coconut Creek Branch",
+      "city": "Coconut Creek",
+      "state": "FL",
+      "lat": 26.314,
+      "lng": -80.191
+    },
+    {
+      "name": "Coral Springs Branch",
+      "city": "Coral Springs",
+      "state": "FL",
+      "lat": 26.246,
+      "lng": -80.253
+    },
+    {
+      "name": "Cutler Bay Branch",
+      "city": "Cutler Bay",
+      "state": "FL",
+      "lat": 25.576,
+      "lng": -80.339
+    },
+    {
+      "name": "Fort Lauderdale Branch",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "lat": 26.208,
+      "lng": -80.148
+    },
+    {
+      "name": "Fort Myers Branch",
+      "city": "Fort Myers",
+      "state": "FL",
+      "lat": 26.599,
+      "lng": -81.812
+    },
+    {
+      "name": "Fort Walton Beach Branch",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "lat": 30.417,
+      "lng": -86.609
+    },
+    {
+      "name": "SW 34th St Branch",
+      "city": "Gainesville",
+      "state": "FL",
+      "lat": 29.605,
+      "lng": -82.371
+    },
+    {
+      "name": "NW 76th Blvd Branch",
+      "city": "Gainesville",
+      "state": "FL",
+      "lat": 29.663,
+      "lng": -82.425
+    },
+    {
+      "name": "Hialeah Branch",
+      "city": "Hialeah",
+      "state": "FL",
+      "lat": 25.866,
+      "lng": -80.305
+    },
+    {
+      "name": "Hallandale Beach Branch",
+      "city": "Hallandale Beach",
+      "state": "FL",
+      "lat": 25.986,
+      "lng": -80.162
+    },
+    {
+      "name": "Southside Blvd Branch",
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.275,
+      "lng": -81.56
+    },
+    {
+      "name": "Blanding Blvd Branch",
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.201,
+      "lng": -81.741
+    },
+    {
+      "name": "Kernan Blvd S Branch",
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.316,
+      "lng": -81.488
+    },
+    {
+      "name": "Riverplace Blvd Branch",
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.318,
+      "lng": -81.657
+    },
+    {
+      "name": "Nautica Dr Branch",
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.48,
+      "lng": -81.639
+    },
+    {
+      "name": "E Vine St Branch",
+      "city": "Kissimmee",
+      "state": "FL",
+      "lat": 28.305,
+      "lng": -81.391
+    },
+    {
+      "name": "W Irlo Bronson Hwy Branch",
+      "city": "Kissimmee",
+      "state": "FL",
+      "lat": 28.328,
+      "lng": -81.47
+    },
+    {
+      "name": "LAKELAND Branch",
+      "city": "Lakeland",
+      "state": "FL",
+      "lat": 28.095,
+      "lng": -81.971
+    },
+    {
+      "name": "Lake Wales Branch",
+      "city": "Lake Wales",
+      "state": "FL",
+      "lat": 27.959,
+      "lng": -81.621
+    },
+    {
+      "name": "Lake City Branch",
+      "city": "Lake City",
+      "state": "FL",
+      "lat": 30.181,
+      "lng": -82.663
+    },
+    {
+      "name": "Lakeland Branch",
+      "city": "Lakeland",
+      "state": "FL",
+      "lat": 27.998,
+      "lng": -81.959
+    },
+    {
+      "name": "Lauderhill Branch",
+      "city": "Lauderhill",
+      "state": "FL",
+      "lat": 26.178,
+      "lng": -80.251
+    },
+    {
+      "name": "Leesburg Branch",
+      "city": "Leesburg",
+      "state": "FL",
+      "lat": 28.819,
+      "lng": -81.888
+    },
+    {
+      "name": "Lynn Haven Branch",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "lat": 30.224,
+      "lng": -85.651
+    },
+    {
+      "name": "Marianna Branch",
+      "city": "Marianna",
+      "state": "FL",
+      "lat": 30.726,
+      "lng": -85.187
+    },
+    {
+      "name": "N Kendall Dr Branch",
+      "city": "Miami",
+      "state": "FL",
+      "lat": 25.687,
+      "lng": -80.403
+    },
+    {
+      "name": "W Flagler St Branch",
+      "city": "Miami",
+      "state": "FL",
+      "lat": 25.772,
+      "lng": -80.329
+    },
+    {
+      "name": "Miami Gardens Branch",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "lat": 25.941,
+      "lng": -80.293
+    },
+    {
+      "name": "NEW PORT RICHEY Branch",
+      "city": "New Port Richey",
+      "state": "FL",
+      "lat": 28.268,
+      "lng": -82.675
+    },
+    {
+      "name": "Naples Branch",
+      "city": "Naples",
+      "state": "FL",
+      "lat": 26.211,
+      "lng": -81.793
+    },
+    {
+      "name": "Milton Branch",
+      "city": "Milton",
+      "state": "FL",
+      "lat": 30.613,
+      "lng": -87.054
+    },
+    {
+      "name": "ORLANDO Branch",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.458,
+      "lng": -81.455
+    },
+    {
+      "name": "E Silver Springs Blvd Branch",
+      "city": "Ocala",
+      "state": "FL",
+      "lat": 29.21,
+      "lng": -82.071
+    },
+    {
+      "name": "SW 24th Ave Branch",
+      "city": "Ocala",
+      "state": "FL",
+      "lat": 29.16,
+      "lng": -82.164
+    },
+    {
+      "name": "Orange City Branch",
+      "city": "Orange City",
+      "state": "FL",
+      "lat": 28.919,
+      "lng": -81.289
+    },
+    {
+      "name": "Orange Park Branch",
+      "city": "Orange Park",
+      "state": "FL",
+      "lat": 30.143,
+      "lng": -81.766
+    },
+    {
+      "name": "W Colonial Dr Branch",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.553,
+      "lng": -81.48
+    },
+    {
+      "name": "Town Center Blvd Branch",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.368,
+      "lng": -81.408
+    },
+    {
+      "name": "E Colonial Dr Branch",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.553,
+      "lng": -81.325
+    },
+    {
+      "name": "E Colonial Dr Branch",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.566,
+      "lng": -81.195
+    },
+    {
+      "name": "North University Drive Branch",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "lat": 26.014,
+      "lng": -80.249
+    },
+    {
+      "name": "Palatka Branch",
+      "city": "Palatka",
+      "state": "FL",
+      "lat": 29.64,
+      "lng": -81.676
+    },
+    {
+      "name": "N University Dr Branch",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "lat": 26.015,
+      "lng": -80.248
+    },
+    {
+      "name": "N Davis Hwy Branch",
+      "city": "Pensacola",
+      "state": "FL",
+      "lat": 30.488,
+      "lng": -87.225
+    },
+    {
+      "name": "E Nine Mile Rd Branch",
+      "city": "Pensacola",
+      "state": "FL",
+      "lat": 30.529,
+      "lng": -87.224
+    },
+    {
+      "name": "Pinellas Park Branch",
+      "city": "Pinellas Park",
+      "state": "FL",
+      "lat": 27.859,
+      "lng": -82.73
+    },
+    {
+      "name": "Port Charlotte Branch",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "lat": 27.002,
+      "lng": -82.126
+    },
+    {
+      "name": "Port Orange Branch",
+      "city": "Port Orange",
+      "state": "FL",
+      "lat": 29.13,
+      "lng": -81.005
+    },
+    {
+      "name": "Port Saint Lucie Branch",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "lat": 27.316,
+      "lng": -80.391
+    },
+    {
+      "name": "Riverview Branch",
+      "city": "Riverview",
+      "state": "FL",
+      "lat": 27.86,
+      "lng": -82.325
+    },
+    {
+      "name": "Saint Augustine Branch",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "lat": 29.868,
+      "lng": -81.32
+    },
+    {
+      "name": "Royal Palm Beach Branch",
+      "city": "Royal Palm Beach",
+      "state": "FL",
+      "lat": 26.683,
+      "lng": -80.223
+    },
+    {
+      "name": "Sarasota Branch",
+      "city": "Sarasota",
+      "state": "FL",
+      "lat": 27.299,
+      "lng": -82.483
+    },
+    {
+      "name": "St. Petersburg Branch",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "lat": 27.806,
+      "lng": -82.7
+    },
+    {
+      "name": "Stuart Branch",
+      "city": "Stuart",
+      "state": "FL",
+      "lat": 27.224,
+      "lng": -80.263
+    },
+    {
+      "name": "Village Square Blvd Branch",
+      "city": "Tallahassee",
+      "state": "FL",
+      "lat": 30.512,
+      "lng": -84.251
+    },
+    {
+      "name": "Apalachee Pkwy Branch",
+      "city": "Tallahassee",
+      "state": "FL",
+      "lat": 30.427,
+      "lng": -84.221
+    },
+    {
+      "name": "W Waters Ave Branch",
+      "city": "Tampa",
+      "state": "FL",
+      "lat": 28.027,
+      "lng": -82.502
+    },
+    {
+      "name": "Oak Fair Blvd Branch",
+      "city": "Tampa",
+      "state": "FL",
+      "lat": 27.988,
+      "lng": -82.356
+    },
+    {
+      "name": "Winter Garden Branch",
+      "city": "Winter Garden",
+      "state": "FL",
+      "lat": 28.549,
+      "lng": -81.588
+    },
+    {
+      "name": "West Palm Beach Branch",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "lat": 26.705,
+      "lng": -80.114
+    },
+    {
+      "name": "Zephyrhills Branch",
+      "city": "Zephyrhills",
+      "state": "FL",
+      "lat": 28.273,
+      "lng": -82.188
+    },
+    {
+      "name": "Winter Haven Branch",
+      "city": "Winter Haven",
+      "state": "FL",
+      "lat": 28.006,
+      "lng": -81.724
+    },
+    {
+      "name": "Athens Branch",
+      "city": "Athens",
+      "state": "GA",
+      "lat": 33.925,
+      "lng": -83.341
+    },
+    {
+      "name": "Albany Branch",
+      "city": "Albany",
+      "state": "GA",
+      "lat": 31.61,
+      "lng": -84.213
+    },
+    {
+      "name": "West Melbourne Branch",
+      "city": "West Melbourne",
+      "state": "FL",
+      "lat": 28.079,
+      "lng": -80.645
+    },
+    {
+      "name": "Glenridge Drive Branch",
+      "city": "Atlanta",
+      "state": "GA",
+      "lat": 33.916,
+      "lng": -84.36
+    },
+    {
+      "name": "Blue Ridge Branch",
+      "city": "Blue Ridge",
+      "state": "GA",
+      "lat": 34.874,
+      "lng": -84.3
+    },
+    {
+      "name": "Augusta Branch",
+      "city": "Augusta",
+      "state": "GA",
+      "lat": 33.469,
+      "lng": -82.082
+    },
+    {
+      "name": "Bainbridge Branch",
+      "city": "Bainbridge",
+      "state": "GA",
+      "lat": 30.901,
+      "lng": -84.568
+    },
+    {
+      "name": "Bethlehem Branch",
+      "city": "Bethlehem",
+      "state": "GA",
+      "lat": 33.943,
+      "lng": -83.753
+    },
+    {
+      "name": "Brunswick Branch",
+      "city": "Brunswick",
+      "state": "GA",
+      "lat": 31.194,
+      "lng": -81.48
+    },
+    {
+      "name": "Carrollton Branch",
+      "city": "Carrollton",
+      "state": "GA",
+      "lat": 33.593,
+      "lng": -85.037
+    },
+    {
+      "name": "Cartersville Branch",
+      "city": "Cartersville",
+      "state": "GA",
+      "lat": 34.194,
+      "lng": -84.791
+    },
+    {
+      "name": "Macon Rd Branch",
+      "city": "Columbus",
+      "state": "GA",
+      "lat": 32.491,
+      "lng": -84.93
+    },
+    {
+      "name": "Airport Thruway Branch",
+      "city": "Columbus",
+      "state": "GA",
+      "lat": 32.52,
+      "lng": -84.957
+    },
+    {
+      "name": "Covington Branch",
+      "city": "Covington",
+      "state": "GA",
+      "lat": 33.607,
+      "lng": -83.828
+    },
+    {
+      "name": "Conyers Branch",
+      "city": "Conyers",
+      "state": "GA",
+      "lat": 33.632,
+      "lng": -84.015
+    },
+    {
+      "name": "Decatur Branch",
+      "city": "Decatur",
+      "state": "GA",
+      "lat": 33.812,
+      "lng": -84.274
+    },
+    {
+      "name": "Cumming Branch",
+      "city": "Cumming",
+      "state": "GA",
+      "lat": 34.189,
+      "lng": -84.133
+    },
+    {
+      "name": "Dalton Branch",
+      "city": "Dalton",
+      "state": "GA",
+      "lat": 34.772,
+      "lng": -84.968
+    },
+    {
+      "name": "Duluth Branch",
+      "city": "Duluth",
+      "state": "GA",
+      "lat": 33.945,
+      "lng": -84.127
+    },
+    {
+      "name": "Douglas Branch",
+      "city": "Douglas",
+      "state": "GA",
+      "lat": 31.499,
+      "lng": -82.87
+    },
+    {
+      "name": "Douglasville Branch",
+      "city": "Douglasville",
+      "state": "GA",
+      "lat": 33.725,
+      "lng": -84.733
+    },
+    {
+      "name": "Dublin Branch",
+      "city": "Dublin",
+      "state": "GA",
+      "lat": 32.536,
+      "lng": -82.932
+    },
+    {
+      "name": "East Point Branch",
+      "city": "East Point",
+      "state": "GA",
+      "lat": 33.658,
+      "lng": -84.504
+    },
+    {
+      "name": "Evans Branch",
+      "city": "Evans",
+      "state": "GA",
+      "lat": 33.533,
+      "lng": -82.127
+    },
+    {
+      "name": "Gainesville Branch",
+      "city": "Gainesville",
+      "state": "GA",
+      "lat": 34.313,
+      "lng": -83.796
+    },
+    {
+      "name": "Grayson Branch",
+      "city": "Grayson",
+      "state": "GA",
+      "lat": 33.897,
+      "lng": -83.962
+    },
+    {
+      "name": "Hiram Branch",
+      "city": "Hiram",
+      "state": "GA",
+      "lat": 33.882,
+      "lng": -84.731
+    },
+    {
+      "name": "Hartwell Branch",
+      "city": "Hartwell",
+      "state": "GA",
+      "lat": 34.355,
+      "lng": -82.91
+    },
+    {
+      "name": "Griffin Branch",
+      "city": "Griffin",
+      "state": "GA",
+      "lat": 33.274,
+      "lng": -84.291
+    },
+    {
+      "name": "Hinesville Branch",
+      "city": "Hinesville",
+      "state": "GA",
+      "lat": 31.836,
+      "lng": -81.597
+    },
+    {
+      "name": "Jonesboro Branch",
+      "city": "Jonesboro",
+      "state": "GA",
+      "lat": 33.476,
+      "lng": -84.338
+    },
+    {
+      "name": "Jesup Branch",
+      "city": "Jesup",
+      "state": "GA",
+      "lat": 31.604,
+      "lng": -81.907
+    },
+    {
+      "name": "Lagrange Branch",
+      "city": "Lagrange",
+      "state": "GA",
+      "lat": 33.043,
+      "lng": -85.031
+    },
+    {
+      "name": "Lawrenceville Branch",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "lat": 33.968,
+      "lng": -84.033
+    },
+    {
+      "name": "Leesburg Branch",
+      "city": "Leesburg",
+      "state": "GA",
+      "lat": 31.655,
+      "lng": -84.173
+    },
+    {
+      "name": "Lithonia Branch",
+      "city": "Lithonia",
+      "state": "GA",
+      "lat": 33.693,
+      "lng": -84.094
+    },
+    {
+      "name": "MORROW Branch",
+      "city": "Morrow",
+      "state": "GA",
+      "lat": 33.574,
+      "lng": -84.338
+    },
+    {
+      "name": "Mableton Branch",
+      "city": "Mableton",
+      "state": "GA",
+      "lat": 33.832,
+      "lng": -84.576
+    },
+    {
+      "name": "Macon Branch",
+      "city": "Macon",
+      "state": "GA",
+      "lat": 32.897,
+      "lng": -83.688
+    },
+    {
+      "name": "Chastain Meadows Pkwy NW Branch",
+      "city": "Marietta",
+      "state": "GA",
+      "lat": 34.016,
+      "lng": -84.556
+    },
+    {
+      "name": "Roswell Rd Branch",
+      "city": "Marietta",
+      "state": "GA",
+      "lat": 33.968,
+      "lng": -84.491
+    },
+    {
+      "name": "McDonough Branch",
+      "city": "Mcdonough",
+      "state": "GA",
+      "lat": 33.464,
+      "lng": -84.223
+    },
+    {
+      "name": "Milledgeville Branch",
+      "city": "Milledgeville",
+      "state": "GA",
+      "lat": 33.151,
+      "lng": -83.273
+    },
+    {
+      "name": "Newnan Branch",
+      "city": "Newnan",
+      "state": "GA",
+      "lat": 33.408,
+      "lng": -84.68
+    },
+    {
+      "name": "Pooler Branch",
+      "city": "Pooler",
+      "state": "GA",
+      "lat": 32.133,
+      "lng": -81.254
+    },
+    {
+      "name": "Rome Branch",
+      "city": "Rome",
+      "state": "GA",
+      "lat": 34.264,
+      "lng": -85.186
+    },
+    {
+      "name": "Roswell Branch",
+      "city": "Roswell",
+      "state": "GA",
+      "lat": 34.018,
+      "lng": -84.312
+    },
+    {
+      "name": "Savannah Branch",
+      "city": "Savannah",
+      "state": "GA",
+      "lat": 32.005,
+      "lng": -81.119
+    },
+    {
+      "name": "Statesboro Branch",
+      "city": "Statesboro",
+      "state": "GA",
+      "lat": 32.438,
+      "lng": -81.762
+    },
+    {
+      "name": "Thomasville Branch",
+      "city": "Thomasville",
+      "state": "GA",
+      "lat": 30.852,
+      "lng": -83.949
+    },
+    {
+      "name": "Tifton Branch",
+      "city": "Tifton",
+      "state": "GA",
+      "lat": 31.459,
+      "lng": -83.525
+    },
+    {
+      "name": "Tucker Branch",
+      "city": "Tucker",
+      "state": "GA",
+      "lat": 33.852,
+      "lng": -84.206
+    },
+    {
+      "name": "Valdosta Branch",
+      "city": "Valdosta",
+      "state": "GA",
+      "lat": 30.846,
+      "lng": -83.317
+    },
+    {
+      "name": "Vidalia Branch",
+      "city": "Vidalia",
+      "state": "GA",
+      "lat": 32.206,
+      "lng": -82.376
+    },
+    {
+      "name": "Margie Dr Branch",
+      "city": "Warner Robins",
+      "state": "GA",
+      "lat": 32.621,
+      "lng": -83.69
+    },
+    {
+      "name": "Watson Blvd Branch",
+      "city": "Warner Robins",
+      "state": "GA",
+      "lat": 32.615,
+      "lng": -83.698
+    },
+    {
+      "name": "Waycross Branch",
+      "city": "Waycross",
+      "state": "GA",
+      "lat": 31.208,
+      "lng": -82.332
+    },
+    {
+      "name": "Woodstock Branch",
+      "city": "Woodstock",
+      "state": "GA",
+      "lat": 34.087,
+      "lng": -84.53
+    },
+    {
+      "name": "Aiea Branch",
+      "city": "Aiea",
+      "state": "HI",
+      "lat": 21.381,
+      "lng": -157.941
+    },
+    {
+      "name": "Honolulu Branch",
+      "city": "Honolulu",
+      "state": "HI",
+      "lat": 21.294,
+      "lng": -157.826
+    },
+    {
+      "name": "Hilo Branch",
+      "city": "Hilo",
+      "state": "HI",
+      "lat": 19.699,
+      "lng": -155.064
+    },
+    {
+      "name": "Kahului Branch",
+      "city": "Kahului",
+      "state": "HI",
+      "lat": 20.884,
+      "lng": -156.455
+    },
+    {
+      "name": "Kailua Kona Branch",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "lat": 19.643,
+      "lng": -155.995
+    },
+    {
+      "name": "Kaneohe Branch",
+      "city": "Kaneohe",
+      "state": "HI",
+      "lat": 21.417,
+      "lng": -157.801
+    },
+    {
+      "name": "Lihue Branch",
+      "city": "Lihue",
+      "state": "HI",
+      "lat": 21.972,
+      "lng": -159.378
+    },
+    {
+      "name": "Mililani Branch",
+      "city": "Mililani",
+      "state": "HI",
+      "lat": 21.453,
+      "lng": -158.008
+    },
+    {
+      "name": "Idaho Falls Branch",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "lat": 43.483,
+      "lng": -111.989
+    },
+    {
+      "name": "Waipahu Branch",
+      "city": "Waipahu",
+      "state": "HI",
+      "lat": 21.385,
+      "lng": -158.002
+    },
+    {
+      "name": "Hayden Branch",
+      "city": "Hayden",
+      "state": "ID",
+      "lat": 47.746,
+      "lng": -116.788
+    },
+    {
+      "name": "Boise Branch",
+      "city": "Boise",
+      "state": "ID",
+      "lat": 43.62,
+      "lng": -116.301
+    },
+    {
+      "name": "Nampa Branch",
+      "city": "Nampa",
+      "state": "ID",
+      "lat": 43.585,
+      "lng": -116.57
+    },
+    {
+      "name": "Meridian Branch",
+      "city": "Meridian",
+      "state": "ID",
+      "lat": 43.6,
+      "lng": -116.393
+    },
+    {
+      "name": "Pocatello Branch",
+      "city": "Pocatello",
+      "state": "ID",
+      "lat": 42.894,
+      "lng": -112.442
+    },
+    {
+      "name": "Lewiston Branch",
+      "city": "Lewiston",
+      "state": "ID",
+      "lat": 46.397,
+      "lng": -116.999
+    },
+    {
+      "name": "Twin Falls Branch",
+      "city": "Twin Falls",
+      "state": "ID",
+      "lat": 42.592,
+      "lng": -114.458
+    },
+    {
+      "name": "Belleville Branch",
+      "city": "Belleville",
+      "state": "IL",
+      "lat": 38.54,
+      "lng": -90.034
+    },
+    {
+      "name": "Alton Branch",
+      "city": "Alton",
+      "state": "IL",
+      "lat": 38.923,
+      "lng": -90.172
+    },
+    {
+      "name": "Addison Branch",
+      "city": "Addison",
+      "state": "IL",
+      "lat": 41.94,
+      "lng": -88.009
+    },
+    {
+      "name": "Belvidere Branch",
+      "city": "Belvidere",
+      "state": "IL",
+      "lat": 42.239,
+      "lng": -88.842
+    },
+    {
+      "name": "Aurora Branch",
+      "city": "Aurora",
+      "state": "IL",
+      "lat": 41.813,
+      "lng": -88.277
+    },
+    {
+      "name": "Berwyn Branch",
+      "city": "Berwyn",
+      "state": "IL",
+      "lat": 41.851,
+      "lng": -87.802
+    },
+    {
+      "name": "Burbank Branch",
+      "city": "Burbank",
+      "state": "IL",
+      "lat": 41.736,
+      "lng": -87.799
+    },
+    {
+      "name": "E 106th St Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.703,
+      "lng": -87.535
+    },
+    {
+      "name": "Carpentersville Branch",
+      "city": "Carpentersville",
+      "state": "IL",
+      "lat": 42.124,
+      "lng": -88.334
+    },
+    {
+      "name": "Centralia Branch",
+      "city": "Centralia",
+      "state": "IL",
+      "lat": 38.535,
+      "lng": -89.158
+    },
+    {
+      "name": "Champaign Branch",
+      "city": "Champaign",
+      "state": "IL",
+      "lat": 40.142,
+      "lng": -88.251
+    },
+    {
+      "name": "N Lincoln Ave Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.939,
+      "lng": -87.668
+    },
+    {
+      "name": "N Clark St Ste A Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 42.011,
+      "lng": -87.675
+    },
+    {
+      "name": "W Fullerton Ave Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.924,
+      "lng": -87.746
+    },
+    {
+      "name": "N Pulaski Rd Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.937,
+      "lng": -87.727
+    },
+    {
+      "name": "S Pulaski Rd Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.773,
+      "lng": -87.723
+    },
+    {
+      "name": "W 18th St Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.858,
+      "lng": -87.662
+    },
+    {
+      "name": "S Western Ave Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.699,
+      "lng": -87.682
+    },
+    {
+      "name": "W 35th St Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.831,
+      "lng": -87.648
+    },
+    {
+      "name": "S Western Ave Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.678,
+      "lng": -87.681
+    },
+    {
+      "name": "W 95th St Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.721,
+      "lng": -87.68
+    },
+    {
+      "name": "N Central Ave Branch",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.936,
+      "lng": -87.766
+    },
+    {
+      "name": "Collinsville Branch",
+      "city": "Collinsville",
+      "state": "IL",
+      "lat": 38.692,
+      "lng": -89.979
+    },
+    {
+      "name": "Crestwood Branch",
+      "city": "Crestwood",
+      "state": "IL",
+      "lat": 41.645,
+      "lng": -87.739
+    },
+    {
+      "name": "Crest Hill Branch",
+      "city": "Crest Hill",
+      "state": "IL",
+      "lat": 41.554,
+      "lng": -88.126
+    },
+    {
+      "name": "Danville Branch",
+      "city": "Danville",
+      "state": "IL",
+      "lat": 40.173,
+      "lng": -87.631
+    },
+    {
+      "name": "Decatur Branch",
+      "city": "Decatur",
+      "state": "IL",
+      "lat": 39.88,
+      "lng": -88.954
+    },
+    {
+      "name": "Downers Grove Branch",
+      "city": "Downers Grove",
+      "state": "IL",
+      "lat": 41.753,
+      "lng": -87.995
+    },
+    {
+      "name": "Fox Lake Branch",
+      "city": "Fox Lake",
+      "state": "IL",
+      "lat": 42.397,
+      "lng": -88.185
+    },
+    {
+      "name": "Effingham Branch",
+      "city": "Effingham",
+      "state": "IL",
+      "lat": 39.141,
+      "lng": -88.565
+    },
+    {
+      "name": "Freeport Branch",
+      "city": "Freeport",
+      "state": "IL",
+      "lat": 42.273,
+      "lng": -89.632
+    },
+    {
+      "name": "Galesburg Branch",
+      "city": "Galesburg",
+      "state": "IL",
+      "lat": 40.981,
+      "lng": -90.362
+    },
+    {
+      "name": "Kankakee Branch",
+      "city": "Kankakee",
+      "state": "IL",
+      "lat": 41.132,
+      "lng": -87.876
+    },
+    {
+      "name": "Joliet Branch",
+      "city": "Joliet",
+      "state": "IL",
+      "lat": 41.523,
+      "lng": -88.133
+    },
+    {
+      "name": "Libertyville Branch",
+      "city": "Libertyville",
+      "state": "IL",
+      "lat": 42.262,
+      "lng": -87.947
+    },
+    {
+      "name": "Machesney Park Branch",
+      "city": "Machesney Park",
+      "state": "IL",
+      "lat": 42.365,
+      "lng": -89.03
+    },
+    {
+      "name": "Lombard Branch",
+      "city": "Lombard",
+      "state": "IL",
+      "lat": 41.86,
+      "lng": -88.001
+    },
+    {
+      "name": "Marion Branch",
+      "city": "Marion",
+      "state": "IL",
+      "lat": 37.733,
+      "lng": -88.932
+    },
+    {
+      "name": "Mattoon Branch",
+      "city": "Mattoon",
+      "state": "IL",
+      "lat": 39.482,
+      "lng": -88.37
+    },
+    {
+      "name": "Matteson Branch",
+      "city": "Matteson",
+      "state": "IL",
+      "lat": 41.504,
+      "lng": -87.716
+    },
+    {
+      "name": "McHenry Branch",
+      "city": "Mchenry",
+      "state": "IL",
+      "lat": 42.337,
+      "lng": -88.275
+    },
+    {
+      "name": "Melrose Park Branch",
+      "city": "Melrose Park",
+      "state": "IL",
+      "lat": 41.898,
+      "lng": -87.877
+    },
+    {
+      "name": "Mount Carmel Branch",
+      "city": "Mount Carmel",
+      "state": "IL",
+      "lat": 38.414,
+      "lng": -87.764
+    },
+    {
+      "name": "Mount Vernon Branch",
+      "city": "Mount Vernon",
+      "state": "IL",
+      "lat": 38.31,
+      "lng": -88.942
+    },
+    {
+      "name": "Naperville Branch",
+      "city": "Naperville",
+      "state": "IL",
+      "lat": 41.76,
+      "lng": -88.205
+    },
+    {
+      "name": "Normal Branch",
+      "city": "Normal",
+      "state": "IL",
+      "lat": 40.511,
+      "lng": -88.958
+    },
+    {
+      "name": "O Fallon Branch",
+      "city": "O Fallon",
+      "state": "IL",
+      "lat": 38.59,
+      "lng": -89.947
+    },
+    {
+      "name": "Morton Grove Branch",
+      "city": "Morton Grove",
+      "state": "IL",
+      "lat": 42.054,
+      "lng": -87.823
+    },
+    {
+      "name": "Oak Lawn Branch",
+      "city": "Oak Lawn",
+      "state": "IL",
+      "lat": 41.719,
+      "lng": -87.741
+    },
+    {
+      "name": "Oak Park Branch",
+      "city": "Oak Park",
+      "state": "IL",
+      "lat": 41.888,
+      "lng": -87.794
+    },
+    {
+      "name": "Pekin Branch",
+      "city": "Pekin",
+      "state": "IL",
+      "lat": 40.542,
+      "lng": -89.596
+    },
+    {
+      "name": "Peoria Branch",
+      "city": "Peoria",
+      "state": "IL",
+      "lat": 40.782,
+      "lng": -89.604
+    },
+    {
+      "name": "Quincy Branch",
+      "city": "Quincy",
+      "state": "IL",
+      "lat": 39.934,
+      "lng": -91.346
+    },
+    {
+      "name": "Plainfield Branch",
+      "city": "Plainfield",
+      "state": "IL",
+      "lat": 41.658,
+      "lng": -88.203
+    },
+    {
+      "name": "Peru Branch",
+      "city": "Peru",
+      "state": "IL",
+      "lat": 41.355,
+      "lng": -89.124
+    },
+    {
+      "name": "Rock Island Branch",
+      "city": "Rock Island",
+      "state": "IL",
+      "lat": 41.467,
+      "lng": -90.544
+    },
+    {
+      "name": "Schaumburg Branch",
+      "city": "Schaumburg",
+      "state": "IL",
+      "lat": 42.052,
+      "lng": -88.081
+    },
+    {
+      "name": "Rockford Branch",
+      "city": "Rockford",
+      "state": "IL",
+      "lat": 42.264,
+      "lng": -89.01
+    },
+    {
+      "name": "South Holland Branch",
+      "city": "South Holland",
+      "state": "IL",
+      "lat": 41.601,
+      "lng": -87.607
+    },
+    {
+      "name": "South Elgin Branch",
+      "city": "South Elgin",
+      "state": "IL",
+      "lat": 41.99,
+      "lng": -88.342
+    },
+    {
+      "name": "Springfield Branch",
+      "city": "Springfield",
+      "state": "IL",
+      "lat": 39.766,
+      "lng": -89.649
+    },
+    {
+      "name": "Sterling Branch",
+      "city": "Sterling",
+      "state": "IL",
+      "lat": 41.817,
+      "lng": -89.643
+    },
+    {
+      "name": "Waukegan Branch",
+      "city": "Waukegan",
+      "state": "IL",
+      "lat": 42.371,
+      "lng": -87.855
+    },
+    {
+      "name": "Anderson Branch",
+      "city": "Anderson",
+      "state": "IN",
+      "lat": 40.07,
+      "lng": -85.653
+    },
+    {
+      "name": "Streator Branch",
+      "city": "Streator",
+      "state": "IL",
+      "lat": 41.121,
+      "lng": -88.832
+    },
+    {
+      "name": "Angola Branch",
+      "city": "Angola",
+      "state": "IN",
+      "lat": 41.66,
+      "lng": -84.997
+    },
+    {
+      "name": "Carmel Branch",
+      "city": "Carmel",
+      "state": "IN",
+      "lat": 39.957,
+      "lng": -86.156
+    },
+    {
+      "name": "Bedford Branch",
+      "city": "Bedford",
+      "state": "IN",
+      "lat": 38.866,
+      "lng": -86.513
+    },
+    {
+      "name": "Clarksville Branch",
+      "city": "Clarksville",
+      "state": "IN",
+      "lat": 38.303,
+      "lng": -85.766
+    },
+    {
+      "name": "Bloomington Branch",
+      "city": "Bloomington",
+      "state": "IN",
+      "lat": 39.163,
+      "lng": -86.578
+    },
+    {
+      "name": "N Green River Rd Branch",
+      "city": "Evansville",
+      "state": "IN",
+      "lat": 37.993,
+      "lng": -87.492
+    },
+    {
+      "name": "Elkhart Branch",
+      "city": "Elkhart",
+      "state": "IN",
+      "lat": 41.694,
+      "lng": -85.89
+    },
+    {
+      "name": "Columbus Branch",
+      "city": "Columbus",
+      "state": "IN",
+      "lat": 39.214,
+      "lng": -85.879
+    },
+    {
+      "name": "Leo Rd Branch",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "lat": 41.18,
+      "lng": -85.073
+    },
+    {
+      "name": "Illinois Rd Branch",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "lat": 41.073,
+      "lng": -85.277
+    },
+    {
+      "name": "Pearl Dr Branch",
+      "city": "Evansville",
+      "state": "IN",
+      "lat": 37.975,
+      "lng": -87.639
+    },
+    {
+      "name": "Goshen Branch",
+      "city": "Goshen",
+      "state": "IN",
+      "lat": 41.559,
+      "lng": -85.797
+    },
+    {
+      "name": "Greencastle Branch",
+      "city": "Greencastle",
+      "state": "IN",
+      "lat": 39.635,
+      "lng": -86.852
+    },
+    {
+      "name": "Greensburg Branch",
+      "city": "Greensburg",
+      "state": "IN",
+      "lat": 39.356,
+      "lng": -85.484
+    },
+    {
+      "name": "Greenwood Branch",
+      "city": "Greenwood",
+      "state": "IN",
+      "lat": 39.586,
+      "lng": -86.103
+    },
+    {
+      "name": "Highland Branch",
+      "city": "Highland",
+      "state": "IN",
+      "lat": 41.537,
+      "lng": -87.477
+    },
+    {
+      "name": "Southtown Xing Branch",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "lat": 41.016,
+      "lng": -85.118
+    },
+    {
+      "name": "Huntington Branch",
+      "city": "Huntington",
+      "state": "IN",
+      "lat": 40.879,
+      "lng": -85.494
+    },
+    {
+      "name": "S Emerson Ave Branch",
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.695,
+      "lng": -86.081
+    },
+    {
+      "name": "Pendleton Way Branch",
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.831,
+      "lng": -86.037
+    },
+    {
+      "name": "Crawfordsville Rd Branch",
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.797,
+      "lng": -86.264
+    },
+    {
+      "name": "S East St Branch",
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.673,
+      "lng": -86.149
+    },
+    {
+      "name": "Jasper Branch",
+      "city": "Jasper",
+      "state": "IN",
+      "lat": 38.426,
+      "lng": -86.939
+    },
+    {
+      "name": "Kokomo Branch",
+      "city": "Kokomo",
+      "state": "IN",
+      "lat": 40.476,
+      "lng": -86.112
+    },
+    {
+      "name": "Sagamore Pkwy N Branch",
+      "city": "Lafayette",
+      "state": "IN",
+      "lat": 40.431,
+      "lng": -86.857
+    },
+    {
+      "name": "Jeffersonville Branch",
+      "city": "Jeffersonville",
+      "state": "IN",
+      "lat": 38.334,
+      "lng": -85.712
+    },
+    {
+      "name": "State Road 38 E Branch",
+      "city": "Lafayette",
+      "state": "IN",
+      "lat": 40.398,
+      "lng": -86.852
+    },
+    {
+      "name": "Logansport Branch",
+      "city": "Logansport",
+      "state": "IN",
+      "lat": 40.759,
+      "lng": -86.322
+    },
+    {
+      "name": "Marion Branch",
+      "city": "Marion",
+      "state": "IN",
+      "lat": 40.533,
+      "lng": -85.674
+    },
+    {
+      "name": "Madison Branch",
+      "city": "Madison",
+      "state": "IN",
+      "lat": 38.78,
+      "lng": -85.38
+    },
+    {
+      "name": "Merrillville Branch",
+      "city": "Merrillville",
+      "state": "IN",
+      "lat": 41.47,
+      "lng": -87.341
+    },
+    {
+      "name": "Michigan City Branch",
+      "city": "Michigan City",
+      "state": "IN",
+      "lat": 41.679,
+      "lng": -86.9
+    },
+    {
+      "name": "Mishawaka Branch",
+      "city": "Mishawaka",
+      "state": "IN",
+      "lat": 41.717,
+      "lng": -86.187
+    },
+    {
+      "name": "Muncie Branch",
+      "city": "Muncie",
+      "state": "IN",
+      "lat": 40.219,
+      "lng": -85.383
+    },
+    {
+      "name": "New Haven Branch",
+      "city": "New Haven",
+      "state": "IN",
+      "lat": 41.068,
+      "lng": -85.041
+    },
+    {
+      "name": "Noblesville Branch",
+      "city": "Noblesville",
+      "state": "IN",
+      "lat": 40.036,
+      "lng": -85.995
+    },
+    {
+      "name": "Plainfield Branch",
+      "city": "Plainfield",
+      "state": "IN",
+      "lat": 39.719,
+      "lng": -86.359
+    },
+    {
+      "name": "Plymouth Branch",
+      "city": "Plymouth",
+      "state": "IN",
+      "lat": 41.354,
+      "lng": -86.311
+    },
+    {
+      "name": "Richmond Branch",
+      "city": "Richmond",
+      "state": "IN",
+      "lat": 39.832,
+      "lng": -84.856
+    },
+    {
+      "name": "Portage Branch",
+      "city": "Portage",
+      "state": "IN",
+      "lat": 41.56,
+      "lng": -87.182
+    },
+    {
+      "name": "Scottsburg Branch",
+      "city": "Scottsburg",
+      "state": "IN",
+      "lat": 38.685,
+      "lng": -85.769
+    },
+    {
+      "name": "Shelbyville Branch",
+      "city": "Shelbyville",
+      "state": "IN",
+      "lat": 39.523,
+      "lng": -85.744
+    },
+    {
+      "name": "Terre Haute Branch",
+      "city": "Terre Haute",
+      "state": "IN",
+      "lat": 39.465,
+      "lng": -87.406
+    },
+    {
+      "name": "South Bend Branch",
+      "city": "South Bend",
+      "state": "IN",
+      "lat": 41.73,
+      "lng": -86.291
+    },
+    {
+      "name": "Valparaiso Branch",
+      "city": "Valparaiso",
+      "state": "IN",
+      "lat": 41.46,
+      "lng": -87.079
+    },
+    {
+      "name": "Vincennes Branch",
+      "city": "Vincennes",
+      "state": "IN",
+      "lat": 38.688,
+      "lng": -87.506
+    },
+    {
+      "name": "Warsaw Branch",
+      "city": "Warsaw",
+      "state": "IN",
+      "lat": 41.238,
+      "lng": -85.858
+    },
+    {
+      "name": "Cedar Falls Branch",
+      "city": "Cedar Falls",
+      "state": "IA",
+      "lat": 42.508,
+      "lng": -92.413
+    },
+    {
+      "name": "Cedar Rapids Branch",
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "lat": 42.035,
+      "lng": -91.653
+    },
+    {
+      "name": "Ankeny Branch",
+      "city": "Ankeny",
+      "state": "IA",
+      "lat": 41.712,
+      "lng": -93.581
+    },
+    {
+      "name": "Centerville Branch",
+      "city": "Centerville",
+      "state": "IA",
+      "lat": 40.734,
+      "lng": -92.873
+    },
+    {
+      "name": "Clive Branch",
+      "city": "Clive",
+      "state": "IA",
+      "lat": 41.614,
+      "lng": -93.77
+    },
+    {
+      "name": "Coralville Branch",
+      "city": "Coralville",
+      "state": "IA",
+      "lat": 41.683,
+      "lng": -91.597
+    },
+    {
+      "name": "Council Bluffs Branch",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "lat": 41.262,
+      "lng": -95.847
+    },
+    {
+      "name": "Davenport Branch",
+      "city": "Davenport",
+      "state": "IA",
+      "lat": 41.539,
+      "lng": -90.618
+    },
+    {
+      "name": "Des Moines Branch",
+      "city": "Des Moines",
+      "state": "IA",
+      "lat": 41.528,
+      "lng": -93.596
+    },
+    {
+      "name": "Dubuque Branch",
+      "city": "Dubuque",
+      "state": "IA",
+      "lat": 42.49,
+      "lng": -90.723
+    },
+    {
+      "name": "Sioux City Branch",
+      "city": "Sioux City",
+      "state": "IA",
+      "lat": 42.51,
+      "lng": -96.415
+    },
+    {
+      "name": "Mason City Branch",
+      "city": "Mason City",
+      "state": "IA",
+      "lat": 43.147,
+      "lng": -93.264
+    },
+    {
+      "name": "West Burlington Branch",
+      "city": "West Burlington",
+      "state": "IA",
+      "lat": 40.813,
+      "lng": -91.158
+    },
+    {
+      "name": "Dodge City Branch",
+      "city": "Dodge City",
+      "state": "KS",
+      "lat": 37.773,
+      "lng": -100.017
+    },
+    {
+      "name": "Manhattan Branch",
+      "city": "Manhattan",
+      "state": "KS",
+      "lat": 39.188,
+      "lng": -96.554
+    },
+    {
+      "name": "Hutchinson Branch",
+      "city": "Hutchinson",
+      "state": "KS",
+      "lat": 38.063,
+      "lng": -97.931
+    },
+    {
+      "name": "Olathe Branch",
+      "city": "Olathe",
+      "state": "KS",
+      "lat": 38.882,
+      "lng": -94.777
+    },
+    {
+      "name": "Overland Park Branch",
+      "city": "Overland Park",
+      "state": "KS",
+      "lat": 38.968,
+      "lng": -94.666
+    },
+    {
+      "name": "Lawrence Branch",
+      "city": "Lawrence",
+      "state": "KS",
+      "lat": 38.973,
+      "lng": -95.254
+    },
+    {
+      "name": "Lansing Branch",
+      "city": "Lansing",
+      "state": "KS",
+      "lat": 39.266,
+      "lng": -94.915
+    },
+    {
+      "name": "Pittsburg Branch",
+      "city": "Pittsburg",
+      "state": "KS",
+      "lat": 37.381,
+      "lng": -94.704
+    },
+    {
+      "name": "Salina Branch",
+      "city": "Salina",
+      "state": "KS",
+      "lat": 38.806,
+      "lng": -97.614
+    },
+    {
+      "name": "Topeka Branch",
+      "city": "Topeka",
+      "state": "KS",
+      "lat": 39.016,
+      "lng": -95.761
+    },
+    {
+      "name": "East 21st Street North Branch",
+      "city": "Wichita",
+      "state": "KS",
+      "lat": 37.724,
+      "lng": -97.24
+    },
+    {
+      "name": "Ashland Branch",
+      "city": "Ashland",
+      "state": "KY",
+      "lat": 38.484,
+      "lng": -82.657
+    },
+    {
+      "name": "S Seneca St Branch",
+      "city": "Wichita",
+      "state": "KS",
+      "lat": 37.662,
+      "lng": -97.352
+    },
+    {
+      "name": "Bowling Green Branch",
+      "city": "Bowling Green",
+      "state": "KY",
+      "lat": 36.962,
+      "lng": -86.464
+    },
+    {
+      "name": "Cold Spring Branch",
+      "city": "Cold Spring",
+      "state": "KY",
+      "lat": 39.027,
+      "lng": -84.451
+    },
+    {
+      "name": "Corbin Branch",
+      "city": "Corbin",
+      "state": "KY",
+      "lat": 36.96,
+      "lng": -84.074
+    },
+    {
+      "name": "Florence Branch",
+      "city": "Florence",
+      "state": "KY",
+      "lat": 39.006,
+      "lng": -84.622
+    },
+    {
+      "name": "Danville Branch",
+      "city": "Danville",
+      "state": "KY",
+      "lat": 37.619,
+      "lng": -84.773
+    },
+    {
+      "name": "Elizabethtown Branch",
+      "city": "Elizabethtown",
+      "state": "KY",
+      "lat": 37.719,
+      "lng": -85.88
+    },
+    {
+      "name": "Georgetown Branch",
+      "city": "Georgetown",
+      "state": "KY",
+      "lat": 38.233,
+      "lng": -84.537
+    },
+    {
+      "name": "Glasgow Branch",
+      "city": "Glasgow",
+      "state": "KY",
+      "lat": 37.023,
+      "lng": -85.936
+    },
+    {
+      "name": "Hazard Branch",
+      "city": "Hazard",
+      "state": "KY",
+      "lat": 37.298,
+      "lng": -83.215
+    },
+    {
+      "name": "Hopkinsville Branch",
+      "city": "Hopkinsville",
+      "state": "KY",
+      "lat": 36.84,
+      "lng": -87.483
+    },
+    {
+      "name": "Henderson Branch",
+      "city": "Henderson",
+      "state": "KY",
+      "lat": 37.838,
+      "lng": -87.584
+    },
+    {
+      "name": "Towne Center Dr Branch",
+      "city": "Lexington",
+      "state": "KY",
+      "lat": 38.067,
+      "lng": -84.53
+    },
+    {
+      "name": "Nicholasville Rd Branch",
+      "city": "Lexington",
+      "state": "KY",
+      "lat": 38.004,
+      "lng": -84.518
+    },
+    {
+      "name": "London Branch",
+      "city": "London",
+      "state": "KY",
+      "lat": 37.108,
+      "lng": -84.091
+    },
+    {
+      "name": "Maysville Branch",
+      "city": "Maysville",
+      "state": "KY",
+      "lat": 38.646,
+      "lng": -83.766
+    },
+    {
+      "name": "Bardstown Rd Branch",
+      "city": "Louisville",
+      "state": "KY",
+      "lat": 38.152,
+      "lng": -85.588
+    },
+    {
+      "name": "Dixie Hwy Branch",
+      "city": "Louisville",
+      "state": "KY",
+      "lat": 38.099,
+      "lng": -85.87
+    },
+    {
+      "name": "Goss Ave Branch",
+      "city": "Louisville",
+      "state": "KY",
+      "lat": 38.226,
+      "lng": -85.73
+    },
+    {
+      "name": "Madisonville Branch",
+      "city": "Madisonville",
+      "state": "KY",
+      "lat": 37.327,
+      "lng": -87.485
+    },
+    {
+      "name": "Murray Branch",
+      "city": "Murray",
+      "state": "KY",
+      "lat": 36.624,
+      "lng": -88.314
+    },
+    {
+      "name": "Mount Sterling Branch",
+      "city": "Mount Sterling",
+      "state": "KY",
+      "lat": 38.058,
+      "lng": -83.955
+    },
+    {
+      "name": "Owensboro Branch",
+      "city": "Owensboro",
+      "state": "KY",
+      "lat": 37.724,
+      "lng": -87.124
+    },
+    {
+      "name": "Paducah Branch",
+      "city": "Paducah",
+      "state": "KY",
+      "lat": 37.071,
+      "lng": -88.69
+    },
+    {
+      "name": "Paintsville Branch",
+      "city": "Paintsville",
+      "state": "KY",
+      "lat": 37.82,
+      "lng": -82.816
+    },
+    {
+      "name": "Pikeville Branch",
+      "city": "Pikeville",
+      "state": "KY",
+      "lat": 37.409,
+      "lng": -82.429
+    },
+    {
+      "name": "Princeton Branch",
+      "city": "Princeton",
+      "state": "KY",
+      "lat": 37.115,
+      "lng": -87.894
+    },
+    {
+      "name": "Richmond Branch",
+      "city": "Richmond",
+      "state": "KY",
+      "lat": 37.734,
+      "lng": -84.28
+    },
+    {
+      "name": "SOMERSET Branch",
+      "city": "Somerset",
+      "state": "KY",
+      "lat": 37.085,
+      "lng": -84.616
+    },
+    {
+      "name": "Shelbyville Branch",
+      "city": "Shelbyville",
+      "state": "KY",
+      "lat": 38.212,
+      "lng": -85.24
+    },
+    {
+      "name": "Shepherdsville Branch",
+      "city": "Shepherdsville",
+      "state": "KY",
+      "lat": 38.0,
+      "lng": -85.691
+    },
+    {
+      "name": "Winchester Branch",
+      "city": "Winchester",
+      "state": "KY",
+      "lat": 37.995,
+      "lng": -84.217
+    },
+    {
+      "name": "Alexandria Branch",
+      "city": "Alexandria",
+      "state": "LA",
+      "lat": 31.282,
+      "lng": -92.478
+    },
+    {
+      "name": "Baker Branch",
+      "city": "Baker",
+      "state": "LA",
+      "lat": 30.576,
+      "lng": -91.168
+    },
+    {
+      "name": "Baton Rouge Branch",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "lat": 30.431,
+      "lng": -91.084
+    },
+    {
+      "name": "Bossier City Branch",
+      "city": "Bossier City",
+      "state": "LA",
+      "lat": 32.532,
+      "lng": -93.707
+    },
+    {
+      "name": "Gonzales Branch",
+      "city": "Gonzales",
+      "state": "LA",
+      "lat": 30.239,
+      "lng": -90.915
+    },
+    {
+      "name": "Covington Branch",
+      "city": "Covington",
+      "state": "LA",
+      "lat": 30.435,
+      "lng": -90.083
+    },
+    {
+      "name": "Denham Springs Branch",
+      "city": "Denham Springs",
+      "state": "LA",
+      "lat": 30.47,
+      "lng": -90.957
+    },
+    {
+      "name": "Deridder Branch",
+      "city": "Deridder",
+      "state": "LA",
+      "lat": 30.867,
+      "lng": -93.284
+    },
+    {
+      "name": "Houma Branch",
+      "city": "Houma",
+      "state": "LA",
+      "lat": 29.637,
+      "lng": -90.758
+    },
+    {
+      "name": "Lafayette Branch",
+      "city": "Lafayette",
+      "state": "LA",
+      "lat": 30.157,
+      "lng": -92.051
+    },
+    {
+      "name": "Lake Charles Branch",
+      "city": "Lake Charles",
+      "state": "LA",
+      "lat": 30.199,
+      "lng": -93.248
+    },
+    {
+      "name": "Veterans Memorial Blvd Branch",
+      "city": "Metairie",
+      "state": "LA",
+      "lat": 30.006,
+      "lng": -90.212
+    },
+    {
+      "name": "N Causeway Blvd Ste 1000 Branch",
+      "city": "Metairie",
+      "state": "LA",
+      "lat": 30.012,
+      "lng": -90.157
+    },
+    {
+      "name": "Hammond Branch",
+      "city": "Hammond",
+      "state": "LA",
+      "lat": 30.502,
+      "lng": -90.489
+    },
+    {
+      "name": "Harvey Branch",
+      "city": "Harvey",
+      "state": "LA",
+      "lat": 29.888,
+      "lng": -90.055
+    },
+    {
+      "name": "New Iberia Branch",
+      "city": "New Iberia",
+      "state": "LA",
+      "lat": 30.001,
+      "lng": -91.802
+    },
+    {
+      "name": "New Orleans Branch",
+      "city": "New Orleans",
+      "state": "LA",
+      "lat": 30.028,
+      "lng": -90.053
+    },
+    {
+      "name": "Ruston Branch",
+      "city": "Ruston",
+      "state": "LA",
+      "lat": 32.522,
+      "lng": -92.652
+    },
+    {
+      "name": "Youree Dr Branch",
+      "city": "Shreveport",
+      "state": "LA",
+      "lat": 32.439,
+      "lng": -93.717
+    },
+    {
+      "name": "Opelousas Branch",
+      "city": "Opelousas",
+      "state": "LA",
+      "lat": 30.523,
+      "lng": -92.067
+    },
+    {
+      "name": "West Monroe Branch",
+      "city": "West Monroe",
+      "state": "LA",
+      "lat": 32.511,
+      "lng": -92.16
+    },
+    {
+      "name": "Bert Kouns Industrial Loop Branch",
+      "city": "Shreveport",
+      "state": "LA",
+      "lat": 32.403,
+      "lng": -93.8
+    },
+    {
+      "name": "Thibodaux Branch",
+      "city": "Thibodaux",
+      "state": "LA",
+      "lat": 29.801,
+      "lng": -90.849
+    },
+    {
+      "name": "Slidell Branch",
+      "city": "Slidell",
+      "state": "LA",
+      "lat": 30.304,
+      "lng": -89.827
+    },
+    {
+      "name": "Auburn Branch",
+      "city": "Auburn",
+      "state": "ME",
+      "lat": 44.117,
+      "lng": -70.233
+    },
+    {
+      "name": "Augusta Branch",
+      "city": "Augusta",
+      "state": "ME",
+      "lat": 44.321,
+      "lng": -69.824
+    },
+    {
+      "name": "Bangor Branch",
+      "city": "Bangor",
+      "state": "ME",
+      "lat": 44.84,
+      "lng": -68.741
+    },
+    {
+      "name": "Scarborough Branch",
+      "city": "Scarborough",
+      "state": "ME",
+      "lat": 43.595,
+      "lng": -70.331
+    },
+    {
+      "name": "Aberdeen Branch",
+      "city": "Aberdeen",
+      "state": "MD",
+      "lat": 39.522,
+      "lng": -76.186
+    },
+    {
+      "name": "Baltimore Branch",
+      "city": "Baltimore",
+      "state": "MD",
+      "lat": 39.368,
+      "lng": -76.519
+    },
+    {
+      "name": "Bowie Branch",
+      "city": "Bowie",
+      "state": "MD",
+      "lat": 38.948,
+      "lng": -76.736
+    },
+    {
+      "name": "West Rolling Cross Rd Branch",
+      "city": "Catonsville",
+      "state": "MD",
+      "lat": 39.268,
+      "lng": -76.746
+    },
+    {
+      "name": "West Rolling Cross Rd Branch",
+      "city": "Catonsville",
+      "state": "MD",
+      "lat": 39.267,
+      "lng": -76.747
+    },
+    {
+      "name": "California Branch",
+      "city": "California",
+      "state": "MD",
+      "lat": 38.298,
+      "lng": -76.507
+    },
+    {
+      "name": "Frederick Rd Branch",
+      "city": "Catonsville",
+      "state": "MD",
+      "lat": 39.273,
+      "lng": -76.727
+    },
+    {
+      "name": "Malcolm Rd Branch",
+      "city": "Clinton",
+      "state": "MD",
+      "lat": 38.781,
+      "lng": -76.89
+    },
+    {
+      "name": "Easton Branch",
+      "city": "Easton",
+      "state": "MD",
+      "lat": 38.783,
+      "lng": -76.085
+    },
+    {
+      "name": "Malcolm Road Branch",
+      "city": "Clinton",
+      "state": "MD",
+      "lat": 38.78,
+      "lng": -76.889
+    },
+    {
+      "name": "Frederick Branch",
+      "city": "Frederick",
+      "state": "MD",
+      "lat": 39.418,
+      "lng": -77.45
+    },
+    {
+      "name": "Glen Burnie Branch",
+      "city": "Glen Burnie",
+      "state": "MD",
+      "lat": 39.163,
+      "lng": -76.645
+    },
+    {
+      "name": "Gaithersburg Branch",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "lat": 39.151,
+      "lng": -77.209
+    },
+    {
+      "name": "La Plata Branch",
+      "city": "La Plata",
+      "state": "MD",
+      "lat": 38.557,
+      "lng": -76.984
+    },
+    {
+      "name": "Laurel Branch",
+      "city": "Laurel",
+      "state": "MD",
+      "lat": 39.085,
+      "lng": -76.862
+    },
+    {
+      "name": "LaVale Branch",
+      "city": "Lavale",
+      "state": "MD",
+      "lat": 39.632,
+      "lng": -78.84
+    },
+    {
+      "name": "White Marsh Branch",
+      "city": "Middle River",
+      "state": "MD",
+      "lat": 39.36,
+      "lng": -76.405
+    },
+    {
+      "name": "HAGERSTOWN Branch",
+      "city": "Hagerstown",
+      "state": "MD",
+      "lat": 39.655,
+      "lng": -77.758
+    },
+    {
+      "name": "Riverdale Branch",
+      "city": "Riverdale",
+      "state": "MD",
+      "lat": 38.971,
+      "lng": -76.914
+    },
+    {
+      "name": "OWINGS MILLS Branch",
+      "city": "Owings Mills",
+      "state": "MD",
+      "lat": 39.413,
+      "lng": -76.802
+    },
+    {
+      "name": "Salisbury Branch",
+      "city": "Salisbury",
+      "state": "MD",
+      "lat": 38.403,
+      "lng": -75.572
+    },
+    {
+      "name": "UPPER MARLBORO Branch",
+      "city": "Upper Marlboro",
+      "state": "MD",
+      "lat": 38.905,
+      "lng": -76.837
+    },
+    {
+      "name": "Towson Branch",
+      "city": "Towson",
+      "state": "MD",
+      "lat": 39.396,
+      "lng": -76.577
+    },
+    {
+      "name": "Battle Creek Branch",
+      "city": "Battle Creek",
+      "state": "MI",
+      "lat": 42.26,
+      "lng": -85.185
+    },
+    {
+      "name": "Benton Harbor Branch",
+      "city": "Benton Harbor",
+      "state": "MI",
+      "lat": 42.087,
+      "lng": -86.433
+    },
+    {
+      "name": "Brighton Branch",
+      "city": "Brighton",
+      "state": "MI",
+      "lat": 42.542,
+      "lng": -83.786
+    },
+    {
+      "name": "Canton Branch",
+      "city": "Canton",
+      "state": "MI",
+      "lat": 42.41,
+      "lng": -83.427
+    },
+    {
+      "name": "Westminster Branch",
+      "city": "Westminster",
+      "state": "MD",
+      "lat": 39.582,
+      "lng": -76.99
+    },
+    {
+      "name": "Flint Branch",
+      "city": "Flint",
+      "state": "MI",
+      "lat": 42.98,
+      "lng": -83.758
+    },
+    {
+      "name": "Fort Gratiot Branch",
+      "city": "Fort Gratiot",
+      "state": "MI",
+      "lat": 43.035,
+      "lng": -82.458
+    },
+    {
+      "name": "Holland Branch",
+      "city": "Holland",
+      "state": "MI",
+      "lat": 42.82,
+      "lng": -86.091
+    },
+    {
+      "name": "Gaylord Branch",
+      "city": "Gaylord",
+      "state": "MI",
+      "lat": 45.023,
+      "lng": -84.692
+    },
+    {
+      "name": "Grand Rapids Branch",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "lat": 43.028,
+      "lng": -85.689
+    },
+    {
+      "name": "Jackson Branch",
+      "city": "Jackson",
+      "state": "MI",
+      "lat": 42.198,
+      "lng": -84.441
+    },
+    {
+      "name": "Lansing Branch",
+      "city": "Lansing",
+      "state": "MI",
+      "lat": 42.664,
+      "lng": -84.546
+    },
+    {
+      "name": "Monroe Branch",
+      "city": "Monroe",
+      "state": "MI",
+      "lat": 41.939,
+      "lng": -83.408
+    },
+    {
+      "name": "6 Mile Rd Branch",
+      "city": "Livonia",
+      "state": "MI",
+      "lat": 42.409,
+      "lng": -83.427
+    },
+    {
+      "name": "Macomb Branch",
+      "city": "Macomb",
+      "state": "MI",
+      "lat": 42.629,
+      "lng": -82.938
+    },
+    {
+      "name": "Midland Branch",
+      "city": "Midland",
+      "state": "MI",
+      "lat": 43.613,
+      "lng": -84.22
+    },
+    {
+      "name": "Mount Pleasant Branch",
+      "city": "Mount Pleasant",
+      "state": "MI",
+      "lat": 43.576,
+      "lng": -84.759
+    },
+    {
+      "name": "Muskegon Branch",
+      "city": "Muskegon",
+      "state": "MI",
+      "lat": 43.207,
+      "lng": -86.199
+    },
+    {
+      "name": "Portage Branch",
+      "city": "Portage",
+      "state": "MI",
+      "lat": 42.201,
+      "lng": -85.591
+    },
+    {
+      "name": "Saginaw Branch",
+      "city": "Saginaw",
+      "state": "MI",
+      "lat": 43.47,
+      "lng": -83.975
+    },
+    {
+      "name": "Saint Clair Shores Branch",
+      "city": "Saint Clair Shores",
+      "state": "MI",
+      "lat": 42.495,
+      "lng": -82.907
+    },
+    {
+      "name": "Traverse City Branch",
+      "city": "Traverse City",
+      "state": "MI",
+      "lat": 44.733,
+      "lng": -85.597
+    },
+    {
+      "name": "WARREN Branch",
+      "city": "Warren",
+      "state": "MI",
+      "lat": 42.52,
+      "lng": -83.002
+    },
+    {
+      "name": "Wayne Branch",
+      "city": "Wayne",
+      "state": "MI",
+      "lat": 42.279,
+      "lng": -83.385
+    },
+    {
+      "name": "Wyoming Branch",
+      "city": "Wyoming",
+      "state": "MI",
+      "lat": 42.86,
+      "lng": -85.725
+    },
+    {
+      "name": "Baxter Branch",
+      "city": "Baxter",
+      "state": "MN",
+      "lat": 46.365,
+      "lng": -94.245
+    },
+    {
+      "name": "Breckenridge Branch",
+      "city": "Breckenridge",
+      "state": "MN",
+      "lat": 46.263,
+      "lng": -96.596
+    },
+    {
+      "name": "East Grand Forks Branch",
+      "city": "East Grand Forks",
+      "state": "MN",
+      "lat": 47.941,
+      "lng": -97.019
+    },
+    {
+      "name": "Southfield Branch",
+      "city": "Southfield",
+      "state": "MI",
+      "lat": 42.5,
+      "lng": -83.29
+    },
+    {
+      "name": "Grand Rapids Branch",
+      "city": "Grand Rapids",
+      "state": "MN",
+      "lat": 47.218,
+      "lng": -93.529
+    },
+    {
+      "name": "Hermantown Branch",
+      "city": "Hermantown",
+      "state": "MN",
+      "lat": 46.809,
+      "lng": -92.177
+    },
+    {
+      "name": "Mankato Branch",
+      "city": "Mankato",
+      "state": "MN",
+      "lat": 44.169,
+      "lng": -93.972
+    },
+    {
+      "name": "Mendota Heights Branch",
+      "city": "Mendota Heights",
+      "state": "MN",
+      "lat": 44.862,
+      "lng": -93.159
+    },
+    {
+      "name": "Moorhead Branch",
+      "city": "Moorhead",
+      "state": "MN",
+      "lat": 46.844,
+      "lng": -96.756
+    },
+    {
+      "name": "Rochester Branch",
+      "city": "Rochester",
+      "state": "MN",
+      "lat": 44.067,
+      "lng": -92.503
+    },
+    {
+      "name": "Saint Anthony Branch",
+      "city": "Saint Anthony",
+      "state": "MN",
+      "lat": 45.04,
+      "lng": -93.218
+    },
+    {
+      "name": "Shakopee Branch",
+      "city": "Shakopee",
+      "state": "MN",
+      "lat": 44.785,
+      "lng": -93.482
+    },
+    {
+      "name": "Saint Louis Park Branch",
+      "city": "Saint Louis Park",
+      "state": "MN",
+      "lat": 44.948,
+      "lng": -93.344
+    },
+    {
+      "name": "Waite Park Branch",
+      "city": "Waite Park",
+      "state": "MN",
+      "lat": 45.549,
+      "lng": -94.23
+    },
+    {
+      "name": "Willmar Branch",
+      "city": "Willmar",
+      "state": "MN",
+      "lat": 45.108,
+      "lng": -95.042
+    },
+    {
+      "name": "Woodbury Branch",
+      "city": "Woodbury",
+      "state": "MN",
+      "lat": 44.942,
+      "lng": -92.939
+    },
+    {
+      "name": "Batesville Branch",
+      "city": "Batesville",
+      "state": "MS",
+      "lat": 34.316,
+      "lng": -89.944
+    },
+    {
+      "name": "Brandon Branch",
+      "city": "Brandon",
+      "state": "MS",
+      "lat": 32.282,
+      "lng": -90.026
+    },
+    {
+      "name": "Brookhaven Branch",
+      "city": "Brookhaven",
+      "state": "MS",
+      "lat": 31.594,
+      "lng": -90.459
+    },
+    {
+      "name": "Clinton Branch",
+      "city": "Clinton",
+      "state": "MS",
+      "lat": 32.346,
+      "lng": -90.326
+    },
+    {
+      "name": "Byram Branch",
+      "city": "Byram",
+      "state": "MS",
+      "lat": 32.19,
+      "lng": -90.266
+    },
+    {
+      "name": "Columbus Branch",
+      "city": "Columbus",
+      "state": "MS",
+      "lat": 33.509,
+      "lng": -88.434
+    },
+    {
+      "name": "Corinth Branch",
+      "city": "Corinth",
+      "state": "MS",
+      "lat": 34.913,
+      "lng": -88.504
+    },
+    {
+      "name": "Diberville Branch",
+      "city": "Diberville",
+      "state": "MS",
+      "lat": 30.459,
+      "lng": -88.894
+    },
+    {
+      "name": "Greenville Branch",
+      "city": "Greenville",
+      "state": "MS",
+      "lat": 33.368,
+      "lng": -91.04
+    },
+    {
+      "name": "Grenada Branch",
+      "city": "Grenada",
+      "state": "MS",
+      "lat": 33.765,
+      "lng": -89.808
+    },
+    {
+      "name": "Gulfport Branch",
+      "city": "Gulfport",
+      "state": "MS",
+      "lat": 30.425,
+      "lng": -89.088
+    },
+    {
+      "name": "Hattiesburg Branch",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "lat": 31.325,
+      "lng": -89.324
+    },
+    {
+      "name": "Laurel Branch",
+      "city": "Laurel",
+      "state": "MS",
+      "lat": 31.718,
+      "lng": -89.147
+    },
+    {
+      "name": "Meridian Branch",
+      "city": "Meridian",
+      "state": "MS",
+      "lat": 32.365,
+      "lng": -88.721
+    },
+    {
+      "name": "Olive Branch Branch",
+      "city": "Olive Branch",
+      "state": "MS",
+      "lat": 34.966,
+      "lng": -89.845
+    },
+    {
+      "name": "Pascagoula Branch",
+      "city": "Pascagoula",
+      "state": "MS",
+      "lat": 30.383,
+      "lng": -88.52
+    },
+    {
+      "name": "Picayune Branch",
+      "city": "Picayune",
+      "state": "MS",
+      "lat": 30.515,
+      "lng": -89.663
+    },
+    {
+      "name": "Philadelphia Branch",
+      "city": "Philadelphia",
+      "state": "MS",
+      "lat": 32.763,
+      "lng": -89.14
+    },
+    {
+      "name": "Ridgeland Branch",
+      "city": "Ridgeland",
+      "state": "MS",
+      "lat": 32.401,
+      "lng": -90.113
+    },
+    {
+      "name": "Starkville Branch",
+      "city": "Starkville",
+      "state": "MS",
+      "lat": 33.449,
+      "lng": -88.84
+    },
+    {
+      "name": "Southaven Branch",
+      "city": "Southaven",
+      "state": "MS",
+      "lat": 34.935,
+      "lng": -89.982
+    },
+    {
+      "name": "Vicksburg Branch",
+      "city": "Vicksburg",
+      "state": "MS",
+      "lat": 32.33,
+      "lng": -90.865
+    },
+    {
+      "name": "Tupelo Branch",
+      "city": "Tupelo",
+      "state": "MS",
+      "lat": 34.252,
+      "lng": -88.717
+    },
+    {
+      "name": "Columbia Branch",
+      "city": "Columbia",
+      "state": "MO",
+      "lat": 38.949,
+      "lng": -92.296
+    },
+    {
+      "name": "Arnold Branch",
+      "city": "Arnold",
+      "state": "MO",
+      "lat": 38.444,
+      "lng": -90.375
+    },
+    {
+      "name": "Cape Girardeau Branch",
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "lat": 37.3,
+      "lng": -89.573
+    },
+    {
+      "name": "Blue Springs Branch",
+      "city": "Blue Springs",
+      "state": "MO",
+      "lat": 39.04,
+      "lng": -94.272
+    },
+    {
+      "name": "Farmington Branch",
+      "city": "Farmington",
+      "state": "MO",
+      "lat": 37.789,
+      "lng": -90.433
+    },
+    {
+      "name": "Festus Branch",
+      "city": "Festus",
+      "state": "MO",
+      "lat": 38.212,
+      "lng": -90.401
+    },
+    {
+      "name": "Independence Branch",
+      "city": "Independence",
+      "state": "MO",
+      "lat": 39.044,
+      "lng": -94.416
+    },
+    {
+      "name": "Hazelwood Branch",
+      "city": "Hazelwood",
+      "state": "MO",
+      "lat": 38.781,
+      "lng": -90.361
+    },
+    {
+      "name": "Joplin Branch",
+      "city": "Joplin",
+      "state": "MO",
+      "lat": 37.096,
+      "lng": -94.478
+    },
+    {
+      "name": "W 103rd St Branch",
+      "city": "Kansas City",
+      "state": "MO",
+      "lat": 38.944,
+      "lng": -94.607
+    },
+    {
+      "name": "N Oak Trfy Branch",
+      "city": "Kansas City",
+      "state": "MO",
+      "lat": 39.239,
+      "lng": -94.577
+    },
+    {
+      "name": "Marshall Branch",
+      "city": "Marshall",
+      "state": "MO",
+      "lat": 39.12,
+      "lng": -93.198
+    },
+    {
+      "name": "Lebanon Branch",
+      "city": "Lebanon",
+      "state": "MO",
+      "lat": 37.666,
+      "lng": -92.652
+    },
+    {
+      "name": "Nixa Branch",
+      "city": "Nixa",
+      "state": "MO",
+      "lat": 37.047,
+      "lng": -93.303
+    },
+    {
+      "name": "O Fallon Branch",
+      "city": "O Fallon",
+      "state": "MO",
+      "lat": 38.788,
+      "lng": -90.717
+    },
+    {
+      "name": "Overland Branch",
+      "city": "Overland",
+      "state": "MO",
+      "lat": 38.685,
+      "lng": -90.36
+    },
+    {
+      "name": "Poplar Bluff Branch",
+      "city": "Poplar Bluff",
+      "state": "MO",
+      "lat": 36.765,
+      "lng": -90.339
+    },
+    {
+      "name": "Rolla Branch",
+      "city": "Rolla",
+      "state": "MO",
+      "lat": 37.939,
+      "lng": -91.778
+    },
+    {
+      "name": "Raytown Branch",
+      "city": "Raytown",
+      "state": "MO",
+      "lat": 38.993,
+      "lng": -94.469
+    },
+    {
+      "name": "Saint Joseph Branch",
+      "city": "Saint Joseph",
+      "state": "MO",
+      "lat": 39.796,
+      "lng": -94.812
+    },
+    {
+      "name": "Saint Louis Branch",
+      "city": "Saint Louis",
+      "state": "MO",
+      "lat": 38.593,
+      "lng": -90.292
+    },
+    {
+      "name": "N Kansas Expy Branch",
+      "city": "Springfield",
+      "state": "MO",
+      "lat": 37.242,
+      "lng": -93.312
+    },
+    {
+      "name": "S Campbell Ave Branch",
+      "city": "Springfield",
+      "state": "MO",
+      "lat": 37.129,
+      "lng": -93.296
+    },
+    {
+      "name": "Washington Branch",
+      "city": "Washington",
+      "state": "MO",
+      "lat": 38.537,
+      "lng": -91.002
+    },
+    {
+      "name": "West Plains Branch",
+      "city": "West Plains",
+      "state": "MO",
+      "lat": 36.73,
+      "lng": -91.876
+    },
+    {
+      "name": "Billings Branch",
+      "city": "Billings",
+      "state": "MT",
+      "lat": 45.828,
+      "lng": -108.47
+    },
+    {
+      "name": "Great Falls Branch",
+      "city": "Great Falls",
+      "state": "MT",
+      "lat": 47.493,
+      "lng": -111.27
+    },
+    {
+      "name": "Helena Branch",
+      "city": "Helena",
+      "state": "MT",
+      "lat": 46.619,
+      "lng": -112.022
+    },
+    {
+      "name": "Kalispell Branch",
+      "city": "Kalispell",
+      "state": "MT",
+      "lat": 48.215,
+      "lng": -114.275
+    },
+    {
+      "name": "Missoula Branch",
+      "city": "Missoula",
+      "state": "MT",
+      "lat": 46.893,
+      "lng": -114.041
+    },
+    {
+      "name": "Grand Island Branch",
+      "city": "Grand Island",
+      "state": "NE",
+      "lat": 40.94,
+      "lng": -98.382
+    },
+    {
+      "name": "Lincoln Branch",
+      "city": "Lincoln",
+      "state": "NE",
+      "lat": 40.785,
+      "lng": -96.653
+    },
+    {
+      "name": "Norfolk Branch",
+      "city": "Norfolk",
+      "state": "NE",
+      "lat": 42.026,
+      "lng": -97.428
+    },
+    {
+      "name": "North Platte Branch",
+      "city": "North Platte",
+      "state": "NE",
+      "lat": 41.123,
+      "lng": -100.756
+    },
+    {
+      "name": "W Center Rd Branch",
+      "city": "Omaha",
+      "state": "NE",
+      "lat": 41.233,
+      "lng": -96.103
+    },
+    {
+      "name": "Cass St Branch",
+      "city": "Omaha",
+      "state": "NE",
+      "lat": 41.263,
+      "lng": -96.032
+    },
+    {
+      "name": "Scottsbluff Branch",
+      "city": "Scottsbluff",
+      "state": "NE",
+      "lat": 41.867,
+      "lng": -103.663
+    },
+    {
+      "name": "LAS VEGAS Branch",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.195,
+      "lng": -115.249
+    },
+    {
+      "name": "Henderson Branch",
+      "city": "Henderson",
+      "state": "NV",
+      "lat": 36.066,
+      "lng": -115.037
+    },
+    {
+      "name": "E Windmill Ln Branch",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.043,
+      "lng": -115.15
+    },
+    {
+      "name": "West Charleston Boulevard Branch",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.158,
+      "lng": -115.286
+    },
+    {
+      "name": "S Nellis Blvd Branch",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.157,
+      "lng": -115.062
+    },
+    {
+      "name": "S Fort Apache Rd Branch",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.098,
+      "lng": -115.299
+    },
+    {
+      "name": "Reno Branch",
+      "city": "Reno",
+      "state": "NV",
+      "lat": 39.487,
+      "lng": -119.798
+    },
+    {
+      "name": "North Las Vegas Branch",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "lat": 36.288,
+      "lng": -115.132
+    },
+    {
+      "name": "Sparks Branch",
+      "city": "Sparks",
+      "state": "NV",
+      "lat": 39.578,
+      "lng": -119.741
+    },
+    {
+      "name": "Keene Branch",
+      "city": "Keene",
+      "state": "NH",
+      "lat": 42.933,
+      "lng": -72.295
+    },
+    {
+      "name": "Hooksett Branch",
+      "city": "Hooksett",
+      "state": "NH",
+      "lat": 43.029,
+      "lng": -71.438
+    },
+    {
+      "name": "Nashua Branch",
+      "city": "Nashua",
+      "state": "NH",
+      "lat": 42.803,
+      "lng": -71.543
+    },
+    {
+      "name": "Belmont Branch",
+      "city": "Belmont",
+      "state": "NH",
+      "lat": 43.511,
+      "lng": -71.497
+    },
+    {
+      "name": "Rochester Branch",
+      "city": "Rochester",
+      "state": "NH",
+      "lat": 43.297,
+      "lng": -70.992
+    },
+    {
+      "name": "Bordentown Branch",
+      "city": "Bordentown",
+      "state": "NJ",
+      "lat": 40.17,
+      "lng": -74.7
+    },
+    {
+      "name": "Cherry Hill Branch",
+      "city": "Cherry Hill",
+      "state": "NJ",
+      "lat": 39.897,
+      "lng": -74.948
+    },
+    {
+      "name": "Cape May Court House Branch",
+      "city": "Cape May Court House",
+      "state": "NJ",
+      "lat": 39.091,
+      "lng": -74.817
+    },
+    {
+      "name": "Cinnaminson Branch",
+      "city": "Cinnaminson",
+      "state": "NJ",
+      "lat": 39.987,
+      "lng": -75.007
+    },
+    {
+      "name": "Cranford Branch",
+      "city": "Cranford",
+      "state": "NJ",
+      "lat": 40.643,
+      "lng": -74.287
+    },
+    {
+      "name": "East Windsor Branch",
+      "city": "East Windsor",
+      "state": "NJ",
+      "lat": 40.288,
+      "lng": -74.559
+    },
+    {
+      "name": "Elmwood Park Branch",
+      "city": "Elmwood Park",
+      "state": "NJ",
+      "lat": 40.899,
+      "lng": -74.11
+    },
+    {
+      "name": "Iselin Branch",
+      "city": "Iselin",
+      "state": "NJ",
+      "lat": 40.558,
+      "lng": -74.308
+    },
+    {
+      "name": "Kearny Branch",
+      "city": "Kearny",
+      "state": "NJ",
+      "lat": 40.774,
+      "lng": -74.144
+    },
+    {
+      "name": "Mount Holly Branch",
+      "city": "Mount Holly",
+      "state": "NJ",
+      "lat": 40.005,
+      "lng": -74.796
+    },
+    {
+      "name": "Mercerville Branch",
+      "city": "Mercerville",
+      "state": "NJ",
+      "lat": 40.248,
+      "lng": -74.686
+    },
+    {
+      "name": "North Brunswick Branch",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "lat": 40.447,
+      "lng": -74.499
+    },
+    {
+      "name": "Northfield Branch",
+      "city": "Northfield",
+      "state": "NJ",
+      "lat": 39.379,
+      "lng": -74.555
+    },
+    {
+      "name": "Parsippany Branch",
+      "city": "Parsippany",
+      "state": "NJ",
+      "lat": 40.875,
+      "lng": -74.426
+    },
+    {
+      "name": "Piscataway Branch",
+      "city": "Piscataway",
+      "state": "NJ",
+      "lat": 40.554,
+      "lng": -74.475
+    },
+    {
+      "name": "Secaucus Branch",
+      "city": "Secaucus",
+      "state": "NJ",
+      "lat": 40.786,
+      "lng": -74.046
+    },
+    {
+      "name": "Toms River Branch",
+      "city": "Toms River",
+      "state": "NJ",
+      "lat": 39.99,
+      "lng": -74.178
+    },
+    {
+      "name": "Shrewsbury Branch",
+      "city": "Shrewsbury",
+      "state": "NJ",
+      "lat": 40.316,
+      "lng": -74.065
+    },
+    {
+      "name": "Turnersville Branch",
+      "city": "Turnersville",
+      "state": "NJ",
+      "lat": 39.728,
+      "lng": -75.035
+    },
+    {
+      "name": "Vineland Branch",
+      "city": "Vineland",
+      "state": "NJ",
+      "lat": 39.46,
+      "lng": -75.043
+    },
+    {
+      "name": "Union Branch",
+      "city": "Union",
+      "state": "NJ",
+      "lat": 40.697,
+      "lng": -74.25
+    },
+    {
+      "name": "WEST DEPTFORD Branch",
+      "city": "West Deptford",
+      "state": "NJ",
+      "lat": 39.827,
+      "lng": -75.173
+    },
+    {
+      "name": "West Berlin Branch",
+      "city": "West Berlin",
+      "state": "NJ",
+      "lat": 39.806,
+      "lng": -74.931
+    },
+    {
+      "name": "West Orange Branch",
+      "city": "West Orange",
+      "state": "NJ",
+      "lat": 40.802,
+      "lng": -74.245
+    },
+    {
+      "name": "Woodland Park Branch",
+      "city": "Woodland Park",
+      "state": "NJ",
+      "lat": 40.904,
+      "lng": -74.189
+    },
+    {
+      "name": "Coors Blvd NW Branch",
+      "city": "Albuquerque",
+      "state": "NM",
+      "lat": 35.081,
+      "lng": -106.713
+    },
+    {
+      "name": "Farmington Branch",
+      "city": "Farmington",
+      "state": "NM",
+      "lat": 36.755,
+      "lng": -108.157
+    },
+    {
+      "name": "Menaul Blvd NE Branch",
+      "city": "Albuquerque",
+      "state": "NM",
+      "lat": 35.108,
+      "lng": -106.514
+    },
+    {
+      "name": "San Mateo Blvd NE Branch",
+      "city": "Albuquerque",
+      "state": "NM",
+      "lat": 35.148,
+      "lng": -106.586
+    },
+    {
+      "name": "Gallup Branch",
+      "city": "Gallup",
+      "state": "NM",
+      "lat": 35.527,
+      "lng": -108.771
+    },
+    {
+      "name": "Hobbs Branch",
+      "city": "Hobbs",
+      "state": "NM",
+      "lat": 32.743,
+      "lng": -103.163
+    },
+    {
+      "name": "Las Cruces Branch",
+      "city": "Las Cruces",
+      "state": "NM",
+      "lat": 32.322,
+      "lng": -106.75
+    },
+    {
+      "name": "Las Vegas Branch",
+      "city": "Las Vegas",
+      "state": "NM",
+      "lat": 35.62,
+      "lng": -105.224
+    },
+    {
+      "name": "Roswell Branch",
+      "city": "Roswell",
+      "state": "NM",
+      "lat": 33.45,
+      "lng": -104.523
+    },
+    {
+      "name": "Santa Fe Branch",
+      "city": "Santa Fe",
+      "state": "NM",
+      "lat": 35.639,
+      "lng": -106.016
+    },
+    {
+      "name": "Rio Rancho Branch",
+      "city": "Rio Rancho",
+      "state": "NM",
+      "lat": 35.243,
+      "lng": -106.696
+    },
+    {
+      "name": "Auburn Branch",
+      "city": "Auburn",
+      "state": "NY",
+      "lat": 42.927,
+      "lng": -76.608
+    },
+    {
+      "name": "Depew Branch",
+      "city": "Depew",
+      "state": "NY",
+      "lat": 42.87,
+      "lng": -78.695
+    },
+    {
+      "name": "Batavia Branch",
+      "city": "Batavia",
+      "state": "NY",
+      "lat": 43.004,
+      "lng": -78.208
+    },
+    {
+      "name": "Cicero Branch",
+      "city": "Cicero",
+      "state": "NY",
+      "lat": 43.178,
+      "lng": -76.092
+    },
+    {
+      "name": "Canandaigua Branch",
+      "city": "Canandaigua",
+      "state": "NY",
+      "lat": 42.917,
+      "lng": -77.303
+    },
+    {
+      "name": "East Amherst Branch",
+      "city": "East Amherst",
+      "state": "NY",
+      "lat": 43.032,
+      "lng": -78.698
+    },
+    {
+      "name": "Dunkirk Branch",
+      "city": "Dunkirk",
+      "state": "NY",
+      "lat": 42.46,
+      "lng": -79.319
+    },
+    {
+      "name": "Elmira Branch",
+      "city": "Elmira",
+      "state": "NY",
+      "lat": 42.154,
+      "lng": -76.88
+    },
+    {
+      "name": "Fishkill Branch",
+      "city": "Fishkill",
+      "state": "NY",
+      "lat": 41.54,
+      "lng": -73.899
+    },
+    {
+      "name": "Hauppauge Branch",
+      "city": "Hauppauge",
+      "state": "NY",
+      "lat": 40.819,
+      "lng": -73.202
+    },
+    {
+      "name": "Johnstown Branch",
+      "city": "Johnstown",
+      "state": "NY",
+      "lat": 43.016,
+      "lng": -74.363
+    },
+    {
+      "name": "Johnson City Branch",
+      "city": "Johnson City",
+      "state": "NY",
+      "lat": 42.123,
+      "lng": -75.964
+    },
+    {
+      "name": "Latham Branch",
+      "city": "Latham",
+      "state": "NY",
+      "lat": 42.744,
+      "lng": -73.749
+    },
+    {
+      "name": "Kingston Branch",
+      "city": "Kingston",
+      "state": "NY",
+      "lat": 41.966,
+      "lng": -73.988
+    },
+    {
+      "name": "Massena Branch",
+      "city": "Massena",
+      "state": "NY",
+      "lat": 44.922,
+      "lng": -74.884
+    },
+    {
+      "name": "Melville Branch",
+      "city": "Melville",
+      "state": "NY",
+      "lat": 40.777,
+      "lng": -73.419
+    },
+    {
+      "name": "Middletown Branch",
+      "city": "Middletown",
+      "state": "NY",
+      "lat": 41.467,
+      "lng": -74.357
+    },
+    {
+      "name": "New Hartford Branch",
+      "city": "New Hartford",
+      "state": "NY",
+      "lat": 43.088,
+      "lng": -75.311
+    },
+    {
+      "name": "Nanuet Branch",
+      "city": "Nanuet",
+      "state": "NY",
+      "lat": 41.099,
+      "lng": -74.021
+    },
+    {
+      "name": "Oneida Branch",
+      "city": "Oneida",
+      "state": "NY",
+      "lat": 43.078,
+      "lng": -75.689
+    },
+    {
+      "name": "Oswego Branch",
+      "city": "Oswego",
+      "state": "NY",
+      "lat": 43.464,
+      "lng": -76.476
+    },
+    {
+      "name": "Queensbury Branch",
+      "city": "Queensbury",
+      "state": "NY",
+      "lat": 43.331,
+      "lng": -73.672
+    },
+    {
+      "name": "Plattsburgh Branch",
+      "city": "Plattsburgh",
+      "state": "NY",
+      "lat": 44.7,
+      "lng": -73.494
+    },
+    {
+      "name": "Rensselaer Branch",
+      "city": "Rensselaer",
+      "state": "NY",
+      "lat": 42.647,
+      "lng": -73.698
+    },
+    {
+      "name": "Riverhead Branch",
+      "city": "Riverhead",
+      "state": "NY",
+      "lat": 40.933,
+      "lng": -72.664
+    },
+    {
+      "name": "Rochester Branch",
+      "city": "Rochester",
+      "state": "NY",
+      "lat": 43.188,
+      "lng": -77.7
+    },
+    {
+      "name": "Schenectady Branch",
+      "city": "Schenectady",
+      "state": "NY",
+      "lat": 42.785,
+      "lng": -73.944
+    },
+    {
+      "name": "Sidney Branch",
+      "city": "Sidney",
+      "state": "NY",
+      "lat": 42.299,
+      "lng": -75.411
+    },
+    {
+      "name": "Staten Island Branch",
+      "city": "Staten Island",
+      "state": "NY",
+      "lat": 40.612,
+      "lng": -74.178
+    },
+    {
+      "name": "Watertown Branch",
+      "city": "Watertown",
+      "state": "NY",
+      "lat": 43.977,
+      "lng": -75.935
+    },
+    {
+      "name": "Tonawanda Branch",
+      "city": "Tonawanda",
+      "state": "NY",
+      "lat": 42.981,
+      "lng": -78.83
+    },
+    {
+      "name": "Webster Branch",
+      "city": "Webster",
+      "state": "NY",
+      "lat": 43.19,
+      "lng": -77.498
+    },
+    {
+      "name": "Westbury Branch",
+      "city": "Westbury",
+      "state": "NY",
+      "lat": 40.755,
+      "lng": -73.552
+    },
+    {
+      "name": "Yonkers Branch",
+      "city": "Yonkers",
+      "state": "NY",
+      "lat": 40.97,
+      "lng": -73.873
+    },
+    {
+      "name": "Aberdeen Branch",
+      "city": "Aberdeen",
+      "state": "NC",
+      "lat": 35.155,
+      "lng": -79.414
+    },
+    {
+      "name": "Ahoskie Branch",
+      "city": "Ahoskie",
+      "state": "NC",
+      "lat": 36.277,
+      "lng": -76.98
+    },
+    {
+      "name": "Asheboro Branch",
+      "city": "Asheboro",
+      "state": "NC",
+      "lat": 35.689,
+      "lng": -79.812
+    },
+    {
+      "name": "Hansel Ave Branch",
+      "city": "Asheville",
+      "state": "NC",
+      "lat": 35.589,
+      "lng": -82.583
+    },
+    {
+      "name": "Albemarle Branch",
+      "city": "Albemarle",
+      "state": "NC",
+      "lat": 35.346,
+      "lng": -80.17
+    },
+    {
+      "name": "1300A Patton Ave Branch",
+      "city": "Asheville",
+      "state": "NC",
+      "lat": 35.584,
+      "lng": -82.601
+    },
+    {
+      "name": "Burlington Branch",
+      "city": "Burlington",
+      "state": "NC",
+      "lat": 36.082,
+      "lng": -79.472
+    },
+    {
+      "name": "Carmel Executive Park Dr Branch",
+      "city": "Charlotte",
+      "state": "NC",
+      "lat": 35.088,
+      "lng": -80.842
+    },
+    {
+      "name": "E W T Harris Blvd Branch",
+      "city": "Charlotte",
+      "state": "NC",
+      "lat": 35.303,
+      "lng": -80.749
+    },
+    {
+      "name": "Northlake Centre Pkwy Branch",
+      "city": "Charlotte",
+      "state": "NC",
+      "lat": 35.349,
+      "lng": -80.858
+    },
+    {
+      "name": "Clayton Branch",
+      "city": "Clayton",
+      "state": "NC",
+      "lat": 35.666,
+      "lng": -78.498
+    },
+    {
+      "name": "Clinton Branch",
+      "city": "Clinton",
+      "state": "NC",
+      "lat": 34.991,
+      "lng": -78.348
+    },
+    {
+      "name": "Concord Branch",
+      "city": "Concord",
+      "state": "NC",
+      "lat": 35.429,
+      "lng": -80.608
+    },
+    {
+      "name": "Conover Branch",
+      "city": "Conover",
+      "state": "NC",
+      "lat": 35.7,
+      "lng": -81.262
+    },
+    {
+      "name": "Witherspoon Blvd Branch",
+      "city": "Durham",
+      "state": "NC",
+      "lat": 35.952,
+      "lng": -78.989
+    },
+    {
+      "name": "W NC Highway 54 Branch",
+      "city": "Durham",
+      "state": "NC",
+      "lat": 35.91,
+      "lng": -78.936
+    },
+    {
+      "name": "Elizabeth City Branch",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "lat": 36.297,
+      "lng": -76.233
+    },
+    {
+      "name": "Raeford Rd Branch",
+      "city": "Fayetteville",
+      "state": "NC",
+      "lat": 35.046,
+      "lng": -78.926
+    },
+    {
+      "name": "Skibo Rd Branch",
+      "city": "Fayetteville",
+      "state": "NC",
+      "lat": 35.051,
+      "lng": -78.976
+    },
+    {
+      "name": "Fuquay Varina Branch",
+      "city": "Fuquay Varina",
+      "state": "NC",
+      "lat": 35.596,
+      "lng": -78.776
+    },
+    {
+      "name": "Franklin Branch",
+      "city": "Franklin",
+      "state": "NC",
+      "lat": 35.164,
+      "lng": -83.398
+    },
+    {
+      "name": "Garner Branch",
+      "city": "Garner",
+      "state": "NC",
+      "lat": 35.713,
+      "lng": -78.637
+    },
+    {
+      "name": "E Franklin Blvd Ste 1 Branch",
+      "city": "Gastonia",
+      "state": "NC",
+      "lat": 35.261,
+      "lng": -81.122
+    },
+    {
+      "name": "S New Hope Rd Branch",
+      "city": "Gastonia",
+      "state": "NC",
+      "lat": 35.24,
+      "lng": -81.123
+    },
+    {
+      "name": "Goldsboro Branch",
+      "city": "Goldsboro",
+      "state": "NC",
+      "lat": 35.376,
+      "lng": -77.951
+    },
+    {
+      "name": "W Meadowview Rd Branch",
+      "city": "Greensboro",
+      "state": "NC",
+      "lat": 36.048,
+      "lng": -79.84
+    },
+    {
+      "name": "W Market St Branch",
+      "city": "Greensboro",
+      "state": "NC",
+      "lat": 36.07,
+      "lng": -79.852
+    },
+    {
+      "name": "Pyramid Village Blvd Branch",
+      "city": "Greensboro",
+      "state": "NC",
+      "lat": 36.108,
+      "lng": -79.756
+    },
+    {
+      "name": "Greenville Branch",
+      "city": "Greenville",
+      "state": "NC",
+      "lat": 35.574,
+      "lng": -77.383
+    },
+    {
+      "name": "Henderson Branch",
+      "city": "Henderson",
+      "state": "NC",
+      "lat": 36.331,
+      "lng": -78.4
+    },
+    {
+      "name": "Hickory Branch",
+      "city": "Hickory",
+      "state": "NC",
+      "lat": 35.705,
+      "lng": -81.296
+    },
+    {
+      "name": "Hendersonville Branch",
+      "city": "Hendersonville",
+      "state": "NC",
+      "lat": 35.306,
+      "lng": -82.455
+    },
+    {
+      "name": "N Main St Branch",
+      "city": "High Point",
+      "state": "NC",
+      "lat": 35.983,
+      "lng": -80.023
+    },
+    {
+      "name": "S Main St Branch",
+      "city": "High Point",
+      "state": "NC",
+      "lat": 35.927,
+      "lng": -79.99
+    },
+    {
+      "name": "Hope Mills Branch",
+      "city": "Hope Mills",
+      "state": "NC",
+      "lat": 34.98,
+      "lng": -78.96
+    },
+    {
+      "name": "Jacksonville Branch",
+      "city": "Jacksonville",
+      "state": "NC",
+      "lat": 34.787,
+      "lng": -77.4
+    },
+    {
+      "name": "Jefferson Branch",
+      "city": "Jefferson",
+      "state": "NC",
+      "lat": 36.42,
+      "lng": -81.468
+    },
+    {
+      "name": "Kernersville Branch",
+      "city": "Kernersville",
+      "state": "NC",
+      "lat": 36.108,
+      "lng": -80.096
+    },
+    {
+      "name": "Kinston Branch",
+      "city": "Kinston",
+      "state": "NC",
+      "lat": 35.284,
+      "lng": -77.585
+    },
+    {
+      "name": "Knightdale Branch",
+      "city": "Knightdale",
+      "state": "NC",
+      "lat": 35.795,
+      "lng": -78.504
+    },
+    {
+      "name": "Laurinburg Branch",
+      "city": "Laurinburg",
+      "state": "NC",
+      "lat": 34.76,
+      "lng": -79.483
+    },
+    {
+      "name": "Leland Branch",
+      "city": "Leland",
+      "state": "NC",
+      "lat": 34.21,
+      "lng": -78.026
+    },
+    {
+      "name": "Lenoir Branch",
+      "city": "Lenoir",
+      "state": "NC",
+      "lat": 35.913,
+      "lng": -81.528
+    },
+    {
+      "name": "Matthews Branch",
+      "city": "Matthews",
+      "state": "NC",
+      "lat": 35.136,
+      "lng": -80.713
+    },
+    {
+      "name": "Lexington Branch",
+      "city": "Lexington",
+      "state": "NC",
+      "lat": 35.816,
+      "lng": -80.261
+    },
+    {
+      "name": "Lincolnton Branch",
+      "city": "Lincolnton",
+      "state": "NC",
+      "lat": 35.473,
+      "lng": -81.254
+    },
+    {
+      "name": "N Elm St Branch",
+      "city": "Lumberton",
+      "state": "NC",
+      "lat": 34.621,
+      "lng": -79.009
+    },
+    {
+      "name": "Fayetteville Rd Branch",
+      "city": "Lumberton",
+      "state": "NC",
+      "lat": 34.641,
+      "lng": -79.0
+    },
+    {
+      "name": "Mebane Branch",
+      "city": "Mebane",
+      "state": "NC",
+      "lat": 36.072,
+      "lng": -79.295
+    },
+    {
+      "name": "Monroe Branch",
+      "city": "Monroe",
+      "state": "NC",
+      "lat": 35.02,
+      "lng": -80.581
+    },
+    {
+      "name": "Morehead City Branch",
+      "city": "Morehead City",
+      "state": "NC",
+      "lat": 34.735,
+      "lng": -76.809
+    },
+    {
+      "name": "Morganton Branch",
+      "city": "Morganton",
+      "state": "NC",
+      "lat": 35.738,
+      "lng": -81.68
+    },
+    {
+      "name": "Mooresville Branch",
+      "city": "Mooresville",
+      "state": "NC",
+      "lat": 35.591,
+      "lng": -80.854
+    },
+    {
+      "name": "New Bern Branch",
+      "city": "New Bern",
+      "state": "NC",
+      "lat": 35.105,
+      "lng": -77.096
+    },
+    {
+      "name": "Mount Airy Branch",
+      "city": "Mount Airy",
+      "state": "NC",
+      "lat": 36.501,
+      "lng": -80.618
+    },
+    {
+      "name": "Reidsville Branch",
+      "city": "Reidsville",
+      "state": "NC",
+      "lat": 36.33,
+      "lng": -79.689
+    },
+    {
+      "name": "Raleigh Branch",
+      "city": "Raleigh",
+      "state": "NC",
+      "lat": 35.856,
+      "lng": -78.579
+    },
+    {
+      "name": "Roanoke Rapids Branch",
+      "city": "Roanoke Rapids",
+      "state": "NC",
+      "lat": 36.443,
+      "lng": -77.639
+    },
+    {
+      "name": "Rocky Mount Branch",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "lat": 35.98,
+      "lng": -77.808
+    },
+    {
+      "name": "Rockingham Branch",
+      "city": "Rockingham",
+      "state": "NC",
+      "lat": 34.923,
+      "lng": -79.748
+    },
+    {
+      "name": "Shallotte Branch",
+      "city": "Shallotte",
+      "state": "NC",
+      "lat": 33.965,
+      "lng": -78.392
+    },
+    {
+      "name": "Sanford Branch",
+      "city": "Sanford",
+      "state": "NC",
+      "lat": 35.445,
+      "lng": -79.131
+    },
+    {
+      "name": "Roxboro Branch",
+      "city": "Roxboro",
+      "state": "NC",
+      "lat": 36.407,
+      "lng": -78.978
+    },
+    {
+      "name": "Salisbury Branch",
+      "city": "Salisbury",
+      "state": "NC",
+      "lat": 35.661,
+      "lng": -80.502
+    },
+    {
+      "name": "Shelby Branch",
+      "city": "Shelby",
+      "state": "NC",
+      "lat": 35.273,
+      "lng": -81.522
+    },
+    {
+      "name": "Smithfield Branch",
+      "city": "Smithfield",
+      "state": "NC",
+      "lat": 35.521,
+      "lng": -78.316
+    },
+    {
+      "name": "Spring Lake Branch",
+      "city": "Spring Lake",
+      "state": "NC",
+      "lat": 35.175,
+      "lng": -78.968
+    },
+    {
+      "name": "Spruce Pine Branch",
+      "city": "Spruce Pine",
+      "state": "NC",
+      "lat": 35.894,
+      "lng": -82.066
+    },
+    {
+      "name": "Statesville Branch",
+      "city": "Statesville",
+      "state": "NC",
+      "lat": 35.819,
+      "lng": -80.878
+    },
+    {
+      "name": "Tarboro Branch",
+      "city": "Tarboro",
+      "state": "NC",
+      "lat": 35.911,
+      "lng": -77.544
+    },
+    {
+      "name": "Wake Forest Branch",
+      "city": "Wake Forest",
+      "state": "NC",
+      "lat": 35.952,
+      "lng": -78.538
+    },
+    {
+      "name": "Wallace Branch",
+      "city": "Wallace",
+      "state": "NC",
+      "lat": 34.741,
+      "lng": -77.97
+    },
+    {
+      "name": "Whiteville Branch",
+      "city": "Whiteville",
+      "state": "NC",
+      "lat": 34.301,
+      "lng": -78.725
+    },
+    {
+      "name": "Wilkesboro Branch",
+      "city": "Wilkesboro",
+      "state": "NC",
+      "lat": 36.14,
+      "lng": -81.177
+    },
+    {
+      "name": "Williamston Branch",
+      "city": "Williamston",
+      "state": "NC",
+      "lat": 35.838,
+      "lng": -77.066
+    },
+    {
+      "name": "Waynesville Branch",
+      "city": "Waynesville",
+      "state": "NC",
+      "lat": 35.465,
+      "lng": -83.009
+    },
+    {
+      "name": "Wilmington Branch",
+      "city": "Wilmington",
+      "state": "NC",
+      "lat": 34.242,
+      "lng": -77.864
+    },
+    {
+      "name": "Wilson Branch",
+      "city": "Wilson",
+      "state": "NC",
+      "lat": 35.72,
+      "lng": -77.957
+    },
+    {
+      "name": "Bismarck Branch",
+      "city": "Bismarck",
+      "state": "ND",
+      "lat": 46.799,
+      "lng": -100.781
+    },
+    {
+      "name": "Hanes Mall Blvd Branch",
+      "city": "Winston Salem",
+      "state": "NC",
+      "lat": 36.07,
+      "lng": -80.335
+    },
+    {
+      "name": "N Point Blvd Branch",
+      "city": "Winston Salem",
+      "state": "NC",
+      "lat": 36.152,
+      "lng": -80.282
+    },
+    {
+      "name": "Yadkinville Branch",
+      "city": "Yadkinville",
+      "state": "NC",
+      "lat": 36.117,
+      "lng": -80.658
+    },
+    {
+      "name": "Fargo Branch",
+      "city": "Fargo",
+      "state": "ND",
+      "lat": 46.861,
+      "lng": -96.868
+    },
+    {
+      "name": "Grand Forks Branch",
+      "city": "Grand Forks",
+      "state": "ND",
+      "lat": 47.899,
+      "lng": -97.067
+    },
+    {
+      "name": "Alliance Branch",
+      "city": "Alliance",
+      "state": "OH",
+      "lat": 40.902,
+      "lng": -81.115
+    },
+    {
+      "name": "Akron Branch",
+      "city": "Akron",
+      "state": "OH",
+      "lat": 40.983,
+      "lng": -81.494
+    },
+    {
+      "name": "Minot Branch",
+      "city": "Minot",
+      "state": "ND",
+      "lat": 48.193,
+      "lng": -101.299
+    },
+    {
+      "name": "Amherst Branch",
+      "city": "Amherst",
+      "state": "OH",
+      "lat": 41.418,
+      "lng": -82.208
+    },
+    {
+      "name": "Ashtabula Branch",
+      "city": "Ashtabula",
+      "state": "OH",
+      "lat": 41.877,
+      "lng": -80.759
+    },
+    {
+      "name": "Athens Branch",
+      "city": "Athens",
+      "state": "OH",
+      "lat": 39.335,
+      "lng": -82.062
+    },
+    {
+      "name": "Cambridge Branch",
+      "city": "Cambridge",
+      "state": "OH",
+      "lat": 40.017,
+      "lng": -81.586
+    },
+    {
+      "name": "Calcutta Branch",
+      "city": "Calcutta",
+      "state": "OH",
+      "lat": 40.673,
+      "lng": -80.58
+    },
+    {
+      "name": "Canton Branch",
+      "city": "Canton",
+      "state": "OH",
+      "lat": 40.845,
+      "lng": -81.435
+    },
+    {
+      "name": "Chester Rd Ste 160 Branch",
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.278,
+      "lng": -84.442
+    },
+    {
+      "name": "Boardman Branch",
+      "city": "Boardman",
+      "state": "OH",
+      "lat": 41.023,
+      "lng": -80.71
+    },
+    {
+      "name": "Glenway Ave Branch",
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.144,
+      "lng": -84.623
+    },
+    {
+      "name": "Chester Rd Branch",
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.277,
+      "lng": -84.443
+    },
+    {
+      "name": "Circleville Branch",
+      "city": "Circleville",
+      "state": "OH",
+      "lat": 39.583,
+      "lng": -82.949
+    },
+    {
+      "name": "Princeton Pike Branch",
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.284,
+      "lng": -84.467
+    },
+    {
+      "name": "E Main St Branch",
+      "city": "Columbus",
+      "state": "OH",
+      "lat": 39.953,
+      "lng": -82.837
+    },
+    {
+      "name": "Glen Este Withamsville Rd Branch",
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.095,
+      "lng": -84.262
+    },
+    {
+      "name": "Cleveland Branch",
+      "city": "Cleveland",
+      "state": "OH",
+      "lat": 41.36,
+      "lng": -81.816
+    },
+    {
+      "name": "Cortland Branch",
+      "city": "Cortland",
+      "state": "OH",
+      "lat": 41.277,
+      "lng": -80.773
+    },
+    {
+      "name": "Coshocton Branch",
+      "city": "Coshocton",
+      "state": "OH",
+      "lat": 40.269,
+      "lng": -81.871
+    },
+    {
+      "name": "E Dublin Granville Rd Branch",
+      "city": "Columbus",
+      "state": "OH",
+      "lat": 40.086,
+      "lng": -82.963
+    },
+    {
+      "name": "Cuyahoga Falls Branch",
+      "city": "Cuyahoga Falls",
+      "state": "OH",
+      "lat": 41.164,
+      "lng": -81.48
+    },
+    {
+      "name": "Dayton Branch",
+      "city": "Dayton",
+      "state": "OH",
+      "lat": 39.639,
+      "lng": -84.227
+    },
+    {
+      "name": "Delaware Branch",
+      "city": "Delaware",
+      "state": "OH",
+      "lat": 40.3,
+      "lng": -83.067
+    },
+    {
+      "name": "Englewood Branch",
+      "city": "Englewood",
+      "state": "OH",
+      "lat": 39.858,
+      "lng": -84.33
+    },
+    {
+      "name": "Findlay Branch",
+      "city": "Findlay",
+      "state": "OH",
+      "lat": 41.055,
+      "lng": -83.61
+    },
+    {
+      "name": "Euclid Branch",
+      "city": "Euclid",
+      "state": "OH",
+      "lat": 41.611,
+      "lng": -81.524
+    },
+    {
+      "name": "Fremont Branch",
+      "city": "Fremont",
+      "state": "OH",
+      "lat": 41.378,
+      "lng": -83.119
+    },
+    {
+      "name": "Grove City Branch",
+      "city": "Grove City",
+      "state": "OH",
+      "lat": 39.88,
+      "lng": -83.058
+    },
+    {
+      "name": "Defiance Branch",
+      "city": "Defiance",
+      "state": "OH",
+      "lat": 41.297,
+      "lng": -84.361
+    },
+    {
+      "name": "Gahanna Branch",
+      "city": "Gahanna",
+      "state": "OH",
+      "lat": 40.055,
+      "lng": -82.885
+    },
+    {
+      "name": "Georgetown Branch",
+      "city": "Georgetown",
+      "state": "OH",
+      "lat": 38.857,
+      "lng": -83.899
+    },
+    {
+      "name": "Greenville Branch",
+      "city": "Greenville",
+      "state": "OH",
+      "lat": 40.127,
+      "lng": -84.62
+    },
+    {
+      "name": "Hamilton Branch",
+      "city": "Hamilton",
+      "state": "OH",
+      "lat": 39.379,
+      "lng": -84.547
+    },
+    {
+      "name": "Hilliard Branch",
+      "city": "Hilliard",
+      "state": "OH",
+      "lat": 40.002,
+      "lng": -83.156
+    },
+    {
+      "name": "Huber Heights Branch",
+      "city": "Huber Heights",
+      "state": "OH",
+      "lat": 39.865,
+      "lng": -84.141
+    },
+    {
+      "name": "Ironton Branch",
+      "city": "Ironton",
+      "state": "OH",
+      "lat": 38.542,
+      "lng": -82.676
+    },
+    {
+      "name": "Heath Branch",
+      "city": "Heath",
+      "state": "OH",
+      "lat": 40.036,
+      "lng": -82.432
+    },
+    {
+      "name": "Kettering Branch",
+      "city": "Kettering",
+      "state": "OH",
+      "lat": 39.701,
+      "lng": -84.122
+    },
+    {
+      "name": "Jackson Branch",
+      "city": "Jackson",
+      "state": "OH",
+      "lat": 39.05,
+      "lng": -82.634
+    },
+    {
+      "name": "Lakewood Branch",
+      "city": "Lakewood",
+      "state": "OH",
+      "lat": 41.478,
+      "lng": -81.811
+    },
+    {
+      "name": "Lancaster Branch",
+      "city": "Lancaster",
+      "state": "OH",
+      "lat": 39.727,
+      "lng": -82.61
+    },
+    {
+      "name": "Lima Branch",
+      "city": "Lima",
+      "state": "OH",
+      "lat": 40.731,
+      "lng": -84.049
+    },
+    {
+      "name": "Marietta Branch",
+      "city": "Marietta",
+      "state": "OH",
+      "lat": 39.411,
+      "lng": -81.428
+    },
+    {
+      "name": "Maple Heights Branch",
+      "city": "Maple Heights",
+      "state": "OH",
+      "lat": 41.412,
+      "lng": -81.528
+    },
+    {
+      "name": "Marion Branch",
+      "city": "Marion",
+      "state": "OH",
+      "lat": 40.581,
+      "lng": -83.083
+    },
+    {
+      "name": "Medina Branch",
+      "city": "Medina",
+      "state": "OH",
+      "lat": 41.157,
+      "lng": -81.864
+    },
+    {
+      "name": "Mentor Branch",
+      "city": "Mentor",
+      "state": "OH",
+      "lat": 41.68,
+      "lng": -81.301
+    },
+    {
+      "name": "Mount Vernon Branch",
+      "city": "Mount Vernon",
+      "state": "OH",
+      "lat": 40.402,
+      "lng": -82.438
+    },
+    {
+      "name": "Middletown Branch",
+      "city": "Middletown",
+      "state": "OH",
+      "lat": 39.491,
+      "lng": -84.328
+    },
+    {
+      "name": "Niles Branch",
+      "city": "Niles",
+      "state": "OH",
+      "lat": 41.207,
+      "lng": -80.742
+    },
+    {
+      "name": "Parma Branch",
+      "city": "Parma",
+      "state": "OH",
+      "lat": 41.417,
+      "lng": -81.694
+    },
+    {
+      "name": "Northwood Branch",
+      "city": "Northwood",
+      "state": "OH",
+      "lat": 41.613,
+      "lng": -83.48
+    },
+    {
+      "name": "Ontario Branch",
+      "city": "Ontario",
+      "state": "OH",
+      "lat": 40.767,
+      "lng": -82.59
+    },
+    {
+      "name": "Piqua Branch",
+      "city": "Piqua",
+      "state": "OH",
+      "lat": 40.151,
+      "lng": -84.212
+    },
+    {
+      "name": "Sandusky Branch",
+      "city": "Sandusky",
+      "state": "OH",
+      "lat": 41.409,
+      "lng": -82.665
+    },
+    {
+      "name": "Saint Clairsville Branch",
+      "city": "Saint Clairsville",
+      "state": "OH",
+      "lat": 40.065,
+      "lng": -80.86
+    },
+    {
+      "name": "Springfield Branch",
+      "city": "Springfield",
+      "state": "OH",
+      "lat": 39.951,
+      "lng": -83.829
+    },
+    {
+      "name": "Steubenville Branch",
+      "city": "Steubenville",
+      "state": "OH",
+      "lat": 40.378,
+      "lng": -80.67
+    },
+    {
+      "name": "Wauseon Branch",
+      "city": "Wauseon",
+      "state": "OH",
+      "lat": 41.572,
+      "lng": -84.136
+    },
+    {
+      "name": "Monroe St Branch",
+      "city": "Toledo",
+      "state": "OH",
+      "lat": 41.7,
+      "lng": -83.653
+    },
+    {
+      "name": "Wheelersburg Branch",
+      "city": "Wheelersburg",
+      "state": "OH",
+      "lat": 38.718,
+      "lng": -82.858
+    },
+    {
+      "name": "Waverly Branch",
+      "city": "Waverly",
+      "state": "OH",
+      "lat": 39.134,
+      "lng": -82.977
+    },
+    {
+      "name": "Wilmington Branch",
+      "city": "Wilmington",
+      "state": "OH",
+      "lat": 39.452,
+      "lng": -83.799
+    },
+    {
+      "name": "Wooster Branch",
+      "city": "Wooster",
+      "state": "OH",
+      "lat": 40.836,
+      "lng": -81.929
+    },
+    {
+      "name": "Youngstown Branch",
+      "city": "Youngstown",
+      "state": "OH",
+      "lat": 41.032,
+      "lng": -80.635
+    },
+    {
+      "name": "Maple Ave Branch",
+      "city": "Zanesville",
+      "state": "OH",
+      "lat": 39.974,
+      "lng": -82.012
+    },
+    {
+      "name": "Airport Hwy Branch",
+      "city": "Toledo",
+      "state": "OH",
+      "lat": 41.614,
+      "lng": -83.683
+    },
+    {
+      "name": "Maysville Pike Branch",
+      "city": "Zanesville",
+      "state": "OH",
+      "lat": 39.898,
+      "lng": -82.032
+    },
+    {
+      "name": "Ardmore Branch",
+      "city": "Ardmore",
+      "state": "OK",
+      "lat": 34.189,
+      "lng": -97.159
+    },
+    {
+      "name": "Broken Arrow Branch",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "lat": 36.047,
+      "lng": -95.814
+    },
+    {
+      "name": "Clinton Branch",
+      "city": "Clinton",
+      "state": "OK",
+      "lat": 35.515,
+      "lng": -98.971
+    },
+    {
+      "name": "Edmond Branch",
+      "city": "Edmond",
+      "state": "OK",
+      "lat": 35.654,
+      "lng": -97.514
+    },
+    {
+      "name": "Bartlesville Branch",
+      "city": "Bartlesville",
+      "state": "OK",
+      "lat": 36.703,
+      "lng": -95.935
+    },
+    {
+      "name": "Lawton Branch",
+      "city": "Lawton",
+      "state": "OK",
+      "lat": 34.624,
+      "lng": -98.423
+    },
+    {
+      "name": "McAlester Branch",
+      "city": "Mcalester",
+      "state": "OK",
+      "lat": 34.907,
+      "lng": -95.744
+    },
+    {
+      "name": "Midwest City Branch",
+      "city": "Midwest City",
+      "state": "OK",
+      "lat": 35.451,
+      "lng": -97.371
+    },
+    {
+      "name": "Muskogee Branch",
+      "city": "Muskogee",
+      "state": "OK",
+      "lat": 35.728,
+      "lng": -95.34
+    },
+    {
+      "name": "Norman Branch",
+      "city": "Norman",
+      "state": "OK",
+      "lat": 35.231,
+      "lng": -97.48
+    },
+    {
+      "name": "W Memorial Rd Branch",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "lat": 35.608,
+      "lng": -97.56
+    },
+    {
+      "name": "S Pennsylvania Ave Branch",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "lat": 35.347,
+      "lng": -97.546
+    },
+    {
+      "name": "N Rockwell Ave Branch",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "lat": 35.558,
+      "lng": -97.642
+    },
+    {
+      "name": "Owasso Branch",
+      "city": "Owasso",
+      "state": "OK",
+      "lat": 36.265,
+      "lng": -95.852
+    },
+    {
+      "name": "Sapulpa Branch",
+      "city": "Sapulpa",
+      "state": "OK",
+      "lat": 35.992,
+      "lng": -96.113
+    },
+    {
+      "name": "Shawnee Branch",
+      "city": "Shawnee",
+      "state": "OK",
+      "lat": 35.363,
+      "lng": -96.93
+    },
+    {
+      "name": "Stillwater Branch",
+      "city": "Stillwater",
+      "state": "OK",
+      "lat": 36.145,
+      "lng": -97.053
+    },
+    {
+      "name": "S Yale Ave Branch",
+      "city": "Tulsa",
+      "state": "OK",
+      "lat": 36.139,
+      "lng": -95.922
+    },
+    {
+      "name": "E 51st St Branch",
+      "city": "Tulsa",
+      "state": "OK",
+      "lat": 36.09,
+      "lng": -95.936
+    },
+    {
+      "name": "Albany Branch",
+      "city": "Albany",
+      "state": "OR",
+      "lat": 44.631,
+      "lng": -123.072
+    },
+    {
+      "name": "Bend Branch",
+      "city": "Bend",
+      "state": "OR",
+      "lat": 44.038,
+      "lng": -121.304
+    },
+    {
+      "name": "W 11th Ave Branch",
+      "city": "Eugene",
+      "state": "OR",
+      "lat": 44.049,
+      "lng": -123.143
+    },
+    {
+      "name": "Green Acres Rd Branch",
+      "city": "Eugene",
+      "state": "OR",
+      "lat": 44.092,
+      "lng": -123.097
+    },
+    {
+      "name": "Hillsboro Branch",
+      "city": "Hillsboro",
+      "state": "OR",
+      "lat": 45.529,
+      "lng": -122.955
+    },
+    {
+      "name": "Medford Branch",
+      "city": "Medford",
+      "state": "OR",
+      "lat": 42.34,
+      "lng": -122.87
+    },
+    {
+      "name": "Pendleton Branch",
+      "city": "Pendleton",
+      "state": "OR",
+      "lat": 45.667,
+      "lng": -118.805
+    },
+    {
+      "name": "Oregon City Branch",
+      "city": "Oregon City",
+      "state": "OR",
+      "lat": 45.342,
+      "lng": -122.595
+    },
+    {
+      "name": "Portland Branch",
+      "city": "Portland",
+      "state": "OR",
+      "lat": 45.517,
+      "lng": -122.564
+    },
+    {
+      "name": "Roseburg Branch",
+      "city": "Roseburg",
+      "state": "OR",
+      "lat": 43.229,
+      "lng": -123.365
+    },
+    {
+      "name": "Lancaster Dr NE Branch",
+      "city": "Salem",
+      "state": "OR",
+      "lat": 44.936,
+      "lng": -122.982
+    },
+    {
+      "name": "Market St NE Branch",
+      "city": "Salem",
+      "state": "OR",
+      "lat": 44.95,
+      "lng": -122.993
+    },
+    {
+      "name": "The Dalles Branch",
+      "city": "The Dalles",
+      "state": "OR",
+      "lat": 45.606,
+      "lng": -121.202
+    },
+    {
+      "name": "Tigard Branch",
+      "city": "Tigard",
+      "state": "OR",
+      "lat": 45.448,
+      "lng": -122.775
+    },
+    {
+      "name": "W Tilghman St Branch",
+      "city": "Allentown",
+      "state": "PA",
+      "lat": 40.59,
+      "lng": -75.566
+    },
+    {
+      "name": "Hamilton Blvd Branch",
+      "city": "Allentown",
+      "state": "PA",
+      "lat": 40.579,
+      "lng": -75.525
+    },
+    {
+      "name": "Altoona Branch",
+      "city": "Altoona",
+      "state": "PA",
+      "lat": 40.483,
+      "lng": -78.403
+    },
+    {
+      "name": "PROGRESS DR Branch",
+      "city": "Bensalem",
+      "state": "PA",
+      "lat": 40.086,
+      "lng": -74.927
+    },
+    {
+      "name": "Bensalem Branch",
+      "city": "Bensalem",
+      "state": "PA",
+      "lat": 40.112,
+      "lng": -74.952
+    },
+    {
+      "name": "Beaver Falls Branch",
+      "city": "Beaver Falls",
+      "state": "PA",
+      "lat": 40.774,
+      "lng": -80.372
+    },
+    {
+      "name": "Bedford Branch",
+      "city": "Bedford",
+      "state": "PA",
+      "lat": 40.017,
+      "lng": -78.467
+    },
+    {
+      "name": "Bloomsburg Branch",
+      "city": "Bloomsburg",
+      "state": "PA",
+      "lat": 41.007,
+      "lng": -76.435
+    },
+    {
+      "name": "Butler Branch",
+      "city": "Butler",
+      "state": "PA",
+      "lat": 40.869,
+      "lng": -79.929
+    },
+    {
+      "name": "Burnham Branch",
+      "city": "Burnham",
+      "state": "PA",
+      "lat": 40.63,
+      "lng": -77.574
+    },
+    {
+      "name": "Dickson City Branch",
+      "city": "Dickson City",
+      "state": "PA",
+      "lat": 41.468,
+      "lng": -75.609
+    },
+    {
+      "name": "Chambersburg Branch",
+      "city": "Chambersburg",
+      "state": "PA",
+      "lat": 39.922,
+      "lng": -77.609
+    },
+    {
+      "name": "Carlisle Branch",
+      "city": "Carlisle",
+      "state": "PA",
+      "lat": 40.183,
+      "lng": -77.213
+    },
+    {
+      "name": "Cranberry Branch",
+      "city": "Cranberry",
+      "state": "PA",
+      "lat": 41.351,
+      "lng": -79.718
+    },
+    {
+      "name": "Downingtown Branch",
+      "city": "Downingtown",
+      "state": "PA",
+      "lat": 39.998,
+      "lng": -75.742
+    },
+    {
+      "name": "Du Bois Branch",
+      "city": "Du Bois",
+      "state": "PA",
+      "lat": 41.127,
+      "lng": -78.734
+    },
+    {
+      "name": "East Stroudsburg Branch",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "lat": 41.021,
+      "lng": -75.18
+    },
+    {
+      "name": "W 12th St Branch",
+      "city": "Erie",
+      "state": "PA",
+      "lat": 42.104,
+      "lng": -80.129
+    },
+    {
+      "name": "Hanover Branch",
+      "city": "Hanover",
+      "state": "PA",
+      "lat": 39.818,
+      "lng": -76.995
+    },
+    {
+      "name": "Peach St Branch",
+      "city": "Erie",
+      "state": "PA",
+      "lat": 42.053,
+      "lng": -80.087
+    },
+    {
+      "name": "Fairless Hills Branch",
+      "city": "Fairless Hills",
+      "state": "PA",
+      "lat": 40.18,
+      "lng": -74.868
+    },
+    {
+      "name": "Grove City Branch",
+      "city": "Grove City",
+      "state": "PA",
+      "lat": 41.167,
+      "lng": -80.113
+    },
+    {
+      "name": "E Park Dr. Branch",
+      "city": "Harrisburg",
+      "state": "PA",
+      "lat": 40.274,
+      "lng": -76.814
+    },
+    {
+      "name": "Union Deposit Rd Branch",
+      "city": "Harrisburg",
+      "state": "PA",
+      "lat": 40.275,
+      "lng": -76.825
+    },
+    {
+      "name": "Hatfield Branch",
+      "city": "Hatfield",
+      "state": "PA",
+      "lat": 40.273,
+      "lng": -75.289
+    },
+    {
+      "name": "Hazle Township Branch",
+      "city": "Hazle Township",
+      "state": "PA",
+      "lat": 40.991,
+      "lng": -76.002
+    },
+    {
+      "name": "Huntingdon Branch",
+      "city": "Huntingdon",
+      "state": "PA",
+      "lat": 40.488,
+      "lng": -78.033
+    },
+    {
+      "name": "Indiana Branch",
+      "city": "Indiana",
+      "state": "PA",
+      "lat": 40.614,
+      "lng": -79.192
+    },
+    {
+      "name": "Johnstown Branch",
+      "city": "Johnstown",
+      "state": "PA",
+      "lat": 40.279,
+      "lng": -78.846
+    },
+    {
+      "name": "Kingston Branch",
+      "city": "Kingston",
+      "state": "PA",
+      "lat": 41.26,
+      "lng": -75.901
+    },
+    {
+      "name": "Kennedy St Branch",
+      "city": "Lancaster",
+      "state": "PA",
+      "lat": 40.024,
+      "lng": -76.266
+    },
+    {
+      "name": "Latrobe Branch",
+      "city": "Latrobe",
+      "state": "PA",
+      "lat": 40.287,
+      "lng": -79.385
+    },
+    {
+      "name": "Lebanon Branch",
+      "city": "Lebanon",
+      "state": "PA",
+      "lat": 40.338,
+      "lng": -76.439
+    },
+    {
+      "name": "Lewisburg Branch",
+      "city": "Lewisburg",
+      "state": "PA",
+      "lat": 40.989,
+      "lng": -76.881
+    },
+    {
+      "name": "Lock Haven Branch",
+      "city": "Lock Haven",
+      "state": "PA",
+      "lat": 41.132,
+      "lng": -77.446
+    },
+    {
+      "name": "Lower Burrell Branch",
+      "city": "Lower Burrell",
+      "state": "PA",
+      "lat": 40.583,
+      "lng": -79.709
+    },
+    {
+      "name": "Fruitville Pike Branch",
+      "city": "Lancaster",
+      "state": "PA",
+      "lat": 40.075,
+      "lng": -76.321
+    },
+    {
+      "name": "Meadville Branch",
+      "city": "Meadville",
+      "state": "PA",
+      "lat": 41.641,
+      "lng": -80.151
+    },
+    {
+      "name": "Melrose Park Branch",
+      "city": "Melrose Park",
+      "state": "PA",
+      "lat": 40.06,
+      "lng": -75.133
+    },
+    {
+      "name": "Norristown Branch",
+      "city": "Norristown",
+      "state": "PA",
+      "lat": 40.145,
+      "lng": -75.321
+    },
+    {
+      "name": "New Castle Branch",
+      "city": "New Castle",
+      "state": "PA",
+      "lat": 40.963,
+      "lng": -80.307
+    },
+    {
+      "name": "PHILADELPHIA Branch",
+      "city": "Philadelphia",
+      "state": "PA",
+      "lat": 39.874,
+      "lng": -75.257
+    },
+    {
+      "name": "Aramingo Ave Branch",
+      "city": "Philadelphia",
+      "state": "PA",
+      "lat": 39.992,
+      "lng": -75.1
+    },
+    {
+      "name": "Mount Pleasant Branch",
+      "city": "Mount Pleasant",
+      "state": "PA",
+      "lat": 40.127,
+      "lng": -79.546
+    },
+    {
+      "name": "Babcock Blvd Branch",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "lat": 40.53,
+      "lng": -80.018
+    },
+    {
+      "name": "W Oregon Ave Branch",
+      "city": "Philadelphia",
+      "state": "PA",
+      "lat": 39.914,
+      "lng": -75.154
+    },
+    {
+      "name": "Ridge Ave Branch",
+      "city": "Philadelphia",
+      "state": "PA",
+      "lat": 40.035,
+      "lng": -75.216
+    },
+    {
+      "name": "Penn Center Blvd Branch",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "lat": 40.428,
+      "lng": -79.812
+    },
+    {
+      "name": "Greentree Rd Ste 260 Branch",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "lat": 40.425,
+      "lng": -80.039
+    },
+    {
+      "name": "Pottstown Branch",
+      "city": "Pottstown",
+      "state": "PA",
+      "lat": 40.21,
+      "lng": -75.658
+    },
+    {
+      "name": "Pottsville Branch",
+      "city": "Pottsville",
+      "state": "PA",
+      "lat": 40.672,
+      "lng": -76.235
+    },
+    {
+      "name": "QUAKERTOWN Branch",
+      "city": "Quakertown",
+      "state": "PA",
+      "lat": 40.441,
+      "lng": -75.356
+    },
+    {
+      "name": "Reading Branch",
+      "city": "Reading",
+      "state": "PA",
+      "lat": 40.31,
+      "lng": -75.866
+    },
+    {
+      "name": "Shamokin Dam Branch",
+      "city": "Shamokin Dam",
+      "state": "PA",
+      "lat": 40.842,
+      "lng": -76.826
+    },
+    {
+      "name": "Shippensburg Branch",
+      "city": "Shippensburg",
+      "state": "PA",
+      "lat": 40.062,
+      "lng": -77.495
+    },
+    {
+      "name": "Sinking Spring Branch",
+      "city": "Sinking Spring",
+      "state": "PA",
+      "lat": 40.317,
+      "lng": -76.001
+    },
+    {
+      "name": "Somerset Branch",
+      "city": "Somerset",
+      "state": "PA",
+      "lat": 40.003,
+      "lng": -79.064
+    },
+    {
+      "name": "South Abington Township Branch",
+      "city": "South Abington Township",
+      "state": "PA",
+      "lat": 41.469,
+      "lng": -75.674
+    },
+    {
+      "name": "Springfield Branch",
+      "city": "Springfield",
+      "state": "PA",
+      "lat": 39.912,
+      "lng": -75.359
+    },
+    {
+      "name": "Tamaqua Branch",
+      "city": "Tamaqua",
+      "state": "PA",
+      "lat": 40.803,
+      "lng": -75.952
+    },
+    {
+      "name": "Towanda Branch",
+      "city": "Towanda",
+      "state": "PA",
+      "lat": 41.767,
+      "lng": -76.423
+    },
+    {
+      "name": "Uniontown Branch",
+      "city": "Uniontown",
+      "state": "PA",
+      "lat": 39.884,
+      "lng": -79.734
+    },
+    {
+      "name": "Upper Darby Branch",
+      "city": "Upper Darby",
+      "state": "PA",
+      "lat": 39.954,
+      "lng": -75.276
+    },
+    {
+      "name": "Warren Branch",
+      "city": "Warren",
+      "state": "PA",
+      "lat": 41.843,
+      "lng": -79.143
+    },
+    {
+      "name": "Washington Branch",
+      "city": "Washington",
+      "state": "PA",
+      "lat": 40.171,
+      "lng": -80.245
+    },
+    {
+      "name": "Temple Branch",
+      "city": "Temple",
+      "state": "PA",
+      "lat": 40.412,
+      "lng": -75.925
+    },
+    {
+      "name": "Waynesburg Branch",
+      "city": "Waynesburg",
+      "state": "PA",
+      "lat": 39.898,
+      "lng": -80.146
+    },
+    {
+      "name": "Waynesboro Branch",
+      "city": "Waynesboro",
+      "state": "PA",
+      "lat": 39.742,
+      "lng": -77.547
+    },
+    {
+      "name": "Wellsboro Branch",
+      "city": "Wellsboro",
+      "state": "PA",
+      "lat": 41.745,
+      "lng": -77.281
+    },
+    {
+      "name": "Whitehall Branch",
+      "city": "Whitehall",
+      "state": "PA",
+      "lat": 40.647,
+      "lng": -75.491
+    },
+    {
+      "name": "West Mifflin Branch",
+      "city": "West Mifflin",
+      "state": "PA",
+      "lat": 40.345,
+      "lng": -79.945
+    },
+    {
+      "name": "Williamsport Branch",
+      "city": "Williamsport",
+      "state": "PA",
+      "lat": 41.249,
+      "lng": -76.969
+    },
+    {
+      "name": "Wilkes Barre Branch",
+      "city": "Wilkes Barre",
+      "state": "PA",
+      "lat": 41.253,
+      "lng": -75.826
+    },
+    {
+      "name": "York Branch",
+      "city": "York",
+      "state": "PA",
+      "lat": 39.983,
+      "lng": -76.736
+    },
+    {
+      "name": "Aiken Branch",
+      "city": "Aiken",
+      "state": "SC",
+      "lat": 33.51,
+      "lng": -81.712
+    },
+    {
+      "name": "Clemson Blvd Branch",
+      "city": "Anderson",
+      "state": "SC",
+      "lat": 34.562,
+      "lng": -82.698
+    },
+    {
+      "name": "N Main St Branch",
+      "city": "Anderson",
+      "state": "SC",
+      "lat": 34.514,
+      "lng": -82.653
+    },
+    {
+      "name": "Beaufort Branch",
+      "city": "Beaufort",
+      "state": "SC",
+      "lat": 32.428,
+      "lng": -80.728
+    },
+    {
+      "name": "Boiling Springs Branch",
+      "city": "Boiling Springs",
+      "state": "SC",
+      "lat": 35.048,
+      "lng": -81.982
+    },
+    {
+      "name": "Charleston Branch",
+      "city": "Charleston",
+      "state": "SC",
+      "lat": 32.804,
+      "lng": -80.018
+    },
+    {
+      "name": "Camden Branch",
+      "city": "Camden",
+      "state": "SC",
+      "lat": 34.251,
+      "lng": -80.643
+    },
+    {
+      "name": "N Beltline Blvd Branch",
+      "city": "Columbia",
+      "state": "SC",
+      "lat": 34.017,
+      "lng": -80.988
+    },
+    {
+      "name": "Forum Dr Branch",
+      "city": "Columbia",
+      "state": "SC",
+      "lat": 34.134,
+      "lng": -80.882
+    },
+    {
+      "name": "Conway Branch",
+      "city": "Conway",
+      "state": "SC",
+      "lat": 33.857,
+      "lng": -79.09
+    },
+    {
+      "name": "Pamplico Hwy Branch",
+      "city": "Florence",
+      "state": "SC",
+      "lat": 34.161,
+      "lng": -79.759
+    },
+    {
+      "name": "Easley Branch",
+      "city": "Easley",
+      "state": "SC",
+      "lat": 34.816,
+      "lng": -82.601
+    },
+    {
+      "name": "Woody Jones Blvd Branch",
+      "city": "Florence",
+      "state": "SC",
+      "lat": 34.187,
+      "lng": -79.825
+    },
+    {
+      "name": "Gaffney Branch",
+      "city": "Gaffney",
+      "state": "SC",
+      "lat": 35.092,
+      "lng": -81.666
+    },
+    {
+      "name": "Georgetown Branch",
+      "city": "Georgetown",
+      "state": "SC",
+      "lat": 33.395,
+      "lng": -79.288
+    },
+    {
+      "name": "Greenville Branch",
+      "city": "Greenville",
+      "state": "SC",
+      "lat": 34.822,
+      "lng": -82.279
+    },
+    {
+      "name": "Greenwood Branch",
+      "city": "Greenwood",
+      "state": "SC",
+      "lat": 34.207,
+      "lng": -82.194
+    },
+    {
+      "name": "Greer Branch",
+      "city": "Greer",
+      "state": "SC",
+      "lat": 34.944,
+      "lng": -82.251
+    },
+    {
+      "name": "Hartsville Branch",
+      "city": "Hartsville",
+      "state": "SC",
+      "lat": 34.357,
+      "lng": -80.063
+    },
+    {
+      "name": "Leesville Branch",
+      "city": "Leesville",
+      "state": "SC",
+      "lat": 33.918,
+      "lng": -81.527
+    },
+    {
+      "name": "Lexington Branch",
+      "city": "Lexington",
+      "state": "SC",
+      "lat": 33.995,
+      "lng": -81.229
+    },
+    {
+      "name": "Manning Branch",
+      "city": "Manning",
+      "state": "SC",
+      "lat": 33.699,
+      "lng": -80.225
+    },
+    {
+      "name": "Moncks Corner Branch",
+      "city": "Moncks Corner",
+      "state": "SC",
+      "lat": 33.208,
+      "lng": -79.985
+    },
+    {
+      "name": "Myrtle Beach Branch",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "lat": 33.673,
+      "lng": -78.951
+    },
+    {
+      "name": "Newberry Branch",
+      "city": "Newberry",
+      "state": "SC",
+      "lat": 34.295,
+      "lng": -81.609
+    },
+    {
+      "name": "North Augusta Branch",
+      "city": "North Augusta",
+      "state": "SC",
+      "lat": 33.499,
+      "lng": -81.96
+    },
+    {
+      "name": "Orangeburg Branch",
+      "city": "Orangeburg",
+      "state": "SC",
+      "lat": 33.492,
+      "lng": -80.87
+    },
+    {
+      "name": "Powdersville Branch",
+      "city": "Powdersville",
+      "state": "SC",
+      "lat": 34.788,
+      "lng": -82.479
+    },
+    {
+      "name": "Old York Rd Branch",
+      "city": "Rock Hill",
+      "state": "SC",
+      "lat": 34.981,
+      "lng": -81.088
+    },
+    {
+      "name": "Mullins Branch",
+      "city": "Mullins",
+      "state": "SC",
+      "lat": 34.184,
+      "lng": -79.342
+    },
+    {
+      "name": "John Ross Pkwy Branch",
+      "city": "Rock Hill",
+      "state": "SC",
+      "lat": 34.943,
+      "lng": -80.979
+    },
+    {
+      "name": "SIMPSONVILLE Branch",
+      "city": "Simpsonville",
+      "state": "SC",
+      "lat": 34.712,
+      "lng": -82.257
+    },
+    {
+      "name": "Seneca Branch",
+      "city": "Seneca",
+      "state": "SC",
+      "lat": 34.703,
+      "lng": -82.938
+    },
+    {
+      "name": "Spartanburg Branch",
+      "city": "Spartanburg",
+      "state": "SC",
+      "lat": 34.94,
+      "lng": -81.98
+    },
+    {
+      "name": "Ladson Rd Branch",
+      "city": "Summerville",
+      "state": "SC",
+      "lat": 32.954,
+      "lng": -80.162
+    },
+    {
+      "name": "Bacons Bridge Rd Branch",
+      "city": "Summerville",
+      "state": "SC",
+      "lat": 32.998,
+      "lng": -80.184
+    },
+    {
+      "name": "Sumter Branch",
+      "city": "Sumter",
+      "state": "SC",
+      "lat": 33.955,
+      "lng": -80.376
+    },
+    {
+      "name": "Walterboro Branch",
+      "city": "Walterboro",
+      "state": "SC",
+      "lat": 32.916,
+      "lng": -80.673
+    },
+    {
+      "name": "Rapid City Branch",
+      "city": "Rapid City",
+      "state": "SD",
+      "lat": 44.084,
+      "lng": -103.24
+    },
+    {
+      "name": "West Columbia Branch",
+      "city": "West Columbia",
+      "state": "SC",
+      "lat": 33.981,
+      "lng": -81.098
+    },
+    {
+      "name": "Sioux Falls Branch",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "lat": 43.498,
+      "lng": -96.749
+    },
+    {
+      "name": "Watertown Branch",
+      "city": "Watertown",
+      "state": "SD",
+      "lat": 44.888,
+      "lng": -97.067
+    },
+    {
+      "name": "Alcoa Branch",
+      "city": "Alcoa",
+      "state": "TN",
+      "lat": 35.761,
+      "lng": -83.978
+    },
+    {
+      "name": "Athens Branch",
+      "city": "Athens",
+      "state": "TN",
+      "lat": 35.451,
+      "lng": -84.62
+    },
+    {
+      "name": "Bartlett Branch",
+      "city": "Bartlett",
+      "state": "TN",
+      "lat": 35.204,
+      "lng": -89.862
+    },
+    {
+      "name": "Bolivar Branch",
+      "city": "Bolivar",
+      "state": "TN",
+      "lat": 35.256,
+      "lng": -88.991
+    },
+    {
+      "name": "Bristol Branch",
+      "city": "Bristol",
+      "state": "TN",
+      "lat": 36.544,
+      "lng": -82.232
+    },
+    {
+      "name": "Chattanooga Branch",
+      "city": "Chattanooga",
+      "state": "TN",
+      "lat": 35.029,
+      "lng": -85.183
+    },
+    {
+      "name": "Clarksville Branch",
+      "city": "Clarksville",
+      "state": "TN",
+      "lat": 36.576,
+      "lng": -87.308
+    },
+    {
+      "name": "Columbia Branch",
+      "city": "Columbia",
+      "state": "TN",
+      "lat": 35.613,
+      "lng": -87.057
+    },
+    {
+      "name": "Cleveland Branch",
+      "city": "Cleveland",
+      "state": "TN",
+      "lat": 35.128,
+      "lng": -84.867
+    },
+    {
+      "name": "Cookeville Branch",
+      "city": "Cookeville",
+      "state": "TN",
+      "lat": 36.157,
+      "lng": -85.518
+    },
+    {
+      "name": "Crossville Branch",
+      "city": "Crossville",
+      "state": "TN",
+      "lat": 35.971,
+      "lng": -85.038
+    },
+    {
+      "name": "Cordova Branch",
+      "city": "Cordova",
+      "state": "TN",
+      "lat": 35.153,
+      "lng": -89.794
+    },
+    {
+      "name": "Dyersburg Branch",
+      "city": "Dyersburg",
+      "state": "TN",
+      "lat": 36.055,
+      "lng": -89.403
+    },
+    {
+      "name": "Dickson Branch",
+      "city": "Dickson",
+      "state": "TN",
+      "lat": 36.077,
+      "lng": -87.371
+    },
+    {
+      "name": "East Ridge Branch",
+      "city": "East Ridge",
+      "state": "TN",
+      "lat": 34.996,
+      "lng": -85.237
+    },
+    {
+      "name": "Gallatin Branch",
+      "city": "Gallatin",
+      "state": "TN",
+      "lat": 36.376,
+      "lng": -86.472
+    },
+    {
+      "name": "Greeneville Branch",
+      "city": "Greeneville",
+      "state": "TN",
+      "lat": 36.178,
+      "lng": -82.801
+    },
+    {
+      "name": "Hixson Branch",
+      "city": "Hixson",
+      "state": "TN",
+      "lat": 35.135,
+      "lng": -85.241
+    },
+    {
+      "name": "Hermitage Branch",
+      "city": "Hermitage",
+      "state": "TN",
+      "lat": 36.182,
+      "lng": -86.606
+    },
+    {
+      "name": "Carriage House Dr Branch",
+      "city": "Jackson",
+      "state": "TN",
+      "lat": 35.662,
+      "lng": -88.852
+    },
+    {
+      "name": "Johnson City Branch",
+      "city": "Johnson City",
+      "state": "TN",
+      "lat": 36.316,
+      "lng": -82.389
+    },
+    {
+      "name": "Kingsport Branch",
+      "city": "Kingsport",
+      "state": "TN",
+      "lat": 36.545,
+      "lng": -82.516
+    },
+    {
+      "name": "Knoxville Branch",
+      "city": "Knoxville",
+      "state": "TN",
+      "lat": 35.928,
+      "lng": -84.057
+    },
+    {
+      "name": "Lebanon Branch",
+      "city": "Lebanon",
+      "state": "TN",
+      "lat": 36.201,
+      "lng": -86.293
+    },
+    {
+      "name": "Lenoir City Branch",
+      "city": "Lenoir City",
+      "state": "TN",
+      "lat": 35.805,
+      "lng": -84.26
+    },
+    {
+      "name": "Union University Dr Branch",
+      "city": "Jackson",
+      "state": "TN",
+      "lat": 35.682,
+      "lng": -88.858
+    },
+    {
+      "name": "Madison Branch",
+      "city": "Madison",
+      "state": "TN",
+      "lat": 36.293,
+      "lng": -86.702
+    },
+    {
+      "name": "McMinnville Branch",
+      "city": "Mcminnville",
+      "state": "TN",
+      "lat": 35.693,
+      "lng": -85.778
+    },
+    {
+      "name": "Poplar Ave Branch",
+      "city": "Memphis",
+      "state": "TN",
+      "lat": 35.134,
+      "lng": -89.966
+    },
+    {
+      "name": "Winchester Rd Branch",
+      "city": "Memphis",
+      "state": "TN",
+      "lat": 35.048,
+      "lng": -89.802
+    },
+    {
+      "name": "Kirby Rd Branch",
+      "city": "Memphis",
+      "state": "TN",
+      "lat": 35.071,
+      "lng": -89.844
+    },
+    {
+      "name": "Millington Branch",
+      "city": "Millington",
+      "state": "TN",
+      "lat": 35.358,
+      "lng": -89.894
+    },
+    {
+      "name": "Elvis Presley Blvd Branch",
+      "city": "Memphis",
+      "state": "TN",
+      "lat": 35.022,
+      "lng": -90.026
+    },
+    {
+      "name": "Morristown Branch",
+      "city": "Morristown",
+      "state": "TN",
+      "lat": 36.194,
+      "lng": -83.359
+    },
+    {
+      "name": "NW Broad St Branch",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "lat": 35.861,
+      "lng": -86.407
+    },
+    {
+      "name": "N Thompson Ln Branch",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "lat": 35.859,
+      "lng": -86.43
+    },
+    {
+      "name": "E Thompson Ln Branch",
+      "city": "Nashville",
+      "state": "TN",
+      "lat": 36.11,
+      "lng": -86.726
+    },
+    {
+      "name": "Oak Ridge Branch",
+      "city": "Oak Ridge",
+      "state": "TN",
+      "lat": 36.018,
+      "lng": -84.247
+    },
+    {
+      "name": "Paris Branch",
+      "city": "Paris",
+      "state": "TN",
+      "lat": 36.287,
+      "lng": -88.31
+    },
+    {
+      "name": "Sevierville Branch",
+      "city": "Sevierville",
+      "state": "TN",
+      "lat": 35.865,
+      "lng": -83.55
+    },
+    {
+      "name": "313A Harding Pl Branch",
+      "city": "Nashville",
+      "state": "TN",
+      "lat": 36.087,
+      "lng": -86.693
+    },
+    {
+      "name": "Tullahoma Branch",
+      "city": "Tullahoma",
+      "state": "TN",
+      "lat": 35.359,
+      "lng": -86.209
+    },
+    {
+      "name": "Smyrna Branch",
+      "city": "Smyrna",
+      "state": "TN",
+      "lat": 35.984,
+      "lng": -86.55
+    },
+    {
+      "name": "Amarillo Branch",
+      "city": "Amarillo",
+      "state": "TX",
+      "lat": 35.178,
+      "lng": -101.923
+    },
+    {
+      "name": "Abilene Branch",
+      "city": "Abilene",
+      "state": "TX",
+      "lat": 32.407,
+      "lng": -99.77
+    },
+    {
+      "name": "W Parmer Ln Branch",
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.409,
+      "lng": -97.68
+    },
+    {
+      "name": "S IH-35 Branch",
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.155,
+      "lng": -97.792
+    },
+    {
+      "name": "N Capital of Texas Hwy Branch",
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.389,
+      "lng": -97.756
+    },
+    {
+      "name": "BEDFORD Branch",
+      "city": "Bedford",
+      "state": "TX",
+      "lat": 32.836,
+      "lng": -97.141
+    },
+    {
+      "name": "Bastrop Branch",
+      "city": "Bastrop",
+      "state": "TX",
+      "lat": 30.11,
+      "lng": -97.349
+    },
+    {
+      "name": "Big Spring Branch",
+      "city": "Big Spring",
+      "state": "TX",
+      "lat": 32.236,
+      "lng": -101.473
+    },
+    {
+      "name": "Baytown Branch",
+      "city": "Baytown",
+      "state": "TX",
+      "lat": 29.803,
+      "lng": -94.985
+    },
+    {
+      "name": "E Morrison Rd Branch",
+      "city": "Brownsville",
+      "state": "TX",
+      "lat": 25.968,
+      "lng": -97.511
+    },
+    {
+      "name": "Brownwood Branch",
+      "city": "Brownwood",
+      "state": "TX",
+      "lat": 31.73,
+      "lng": -98.986
+    },
+    {
+      "name": "Beaumont Branch",
+      "city": "Beaumont",
+      "state": "TX",
+      "lat": 30.122,
+      "lng": -94.16
+    },
+    {
+      "name": "Burleson Branch",
+      "city": "Burleson",
+      "state": "TX",
+      "lat": 32.523,
+      "lng": -97.348
+    },
+    {
+      "name": "Fm 802 Branch",
+      "city": "Brownsville",
+      "state": "TX",
+      "lat": 25.944,
+      "lng": -97.43
+    },
+    {
+      "name": "Bryan Branch",
+      "city": "Bryan",
+      "state": "TX",
+      "lat": 30.666,
+      "lng": -96.323
+    },
+    {
+      "name": "Saratoga Blvd Branch",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "lat": 27.684,
+      "lng": -97.383
+    },
+    {
+      "name": "Cleveland Branch",
+      "city": "Cleveland",
+      "state": "TX",
+      "lat": 30.337,
+      "lng": -95.097
+    },
+    {
+      "name": "Conroe Branch",
+      "city": "Conroe",
+      "state": "TX",
+      "lat": 30.316,
+      "lng": -95.473
+    },
+    {
+      "name": "Copperas Cove Branch",
+      "city": "Copperas Cove",
+      "state": "TX",
+      "lat": 31.113,
+      "lng": -97.908
+    },
+    {
+      "name": "S Padre Island Dr Branch",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "lat": 27.704,
+      "lng": -97.362
+    },
+    {
+      "name": "DALLAS Branch",
+      "city": "Dallas",
+      "state": "TX",
+      "lat": 32.915,
+      "lng": -96.746
+    },
+    {
+      "name": "Corsicana Branch",
+      "city": "Corsicana",
+      "state": "TX",
+      "lat": 32.092,
+      "lng": -96.47
+    },
+    {
+      "name": "Dallas Branch",
+      "city": "Dallas",
+      "state": "TX",
+      "lat": 32.721,
+      "lng": -96.831
+    },
+    {
+      "name": "Del Rio Branch",
+      "city": "Del Rio",
+      "state": "TX",
+      "lat": 29.396,
+      "lng": -100.904
+    },
+    {
+      "name": "Denison Branch",
+      "city": "Denison",
+      "state": "TX",
+      "lat": 33.761,
+      "lng": -96.59
+    },
+    {
+      "name": "Denton Branch",
+      "city": "Denton",
+      "state": "TX",
+      "lat": 33.184,
+      "lng": -97.108
+    },
+    {
+      "name": "Desoto Branch",
+      "city": "Desoto",
+      "state": "TX",
+      "lat": 32.592,
+      "lng": -96.878
+    },
+    {
+      "name": "Eagle Pass Branch",
+      "city": "Eagle Pass",
+      "state": "TX",
+      "lat": 28.703,
+      "lng": -100.484
+    },
+    {
+      "name": "Edinburg Branch",
+      "city": "Edinburg",
+      "state": "TX",
+      "lat": 26.303,
+      "lng": -98.186
+    },
+    {
+      "name": "N Lee Trevino Dr Branch",
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.753,
+      "lng": -106.317
+    },
+    {
+      "name": "Gateway Blvd E Branch",
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.765,
+      "lng": -106.366
+    },
+    {
+      "name": "Woodrow Bean Branch",
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.897,
+      "lng": -106.436
+    },
+    {
+      "name": "N Zaragoza Rd Branch",
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.75,
+      "lng": -106.279
+    },
+    {
+      "name": "Fort Worth Branch",
+      "city": "Fort Worth",
+      "state": "TX",
+      "lat": 32.681,
+      "lng": -97.415
+    },
+    {
+      "name": "N Mesa St Branch",
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.839,
+      "lng": -106.565
+    },
+    {
+      "name": "E LOOP 820 Branch",
+      "city": "Fort Worth",
+      "state": "TX",
+      "lat": 32.678,
+      "lng": -97.241
+    },
+    {
+      "name": "FRISCO Branch",
+      "city": "Frisco",
+      "state": "TX",
+      "lat": 33.091,
+      "lng": -96.843
+    },
+    {
+      "name": "Floresville Branch",
+      "city": "Floresville",
+      "state": "TX",
+      "lat": 29.143,
+      "lng": -98.158
+    },
+    {
+      "name": "Georgetown Branch",
+      "city": "Georgetown",
+      "state": "TX",
+      "lat": 30.65,
+      "lng": -97.676
+    },
+    {
+      "name": "Friendswood Branch",
+      "city": "Friendswood",
+      "state": "TX",
+      "lat": 29.552,
+      "lng": -95.159
+    },
+    {
+      "name": "E LOOP 820 S Branch",
+      "city": "Fort Worth",
+      "state": "TX",
+      "lat": 32.677,
+      "lng": -97.241
+    },
+    {
+      "name": "Greenville Branch",
+      "city": "Greenville",
+      "state": "TX",
+      "lat": 33.111,
+      "lng": -96.109
+    },
+    {
+      "name": "Grand Prairie Branch",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "lat": 32.681,
+      "lng": -97.008
+    },
+    {
+      "name": "Harlingen Branch",
+      "city": "Harlingen",
+      "state": "TX",
+      "lat": 26.17,
+      "lng": -97.673
+    },
+    {
+      "name": "HOUSTON Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.954,
+      "lng": -95.543
+    },
+    {
+      "name": "Gulf Fwy Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.717,
+      "lng": -95.317
+    },
+    {
+      "name": "Wickchester Ln Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.788,
+      "lng": -95.6
+    },
+    {
+      "name": "FM 529 Rd Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.879,
+      "lng": -95.647
+    },
+    {
+      "name": "Westheimer Rd Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.737,
+      "lng": -95.48
+    },
+    {
+      "name": "Northwest Fwy Branch",
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.854,
+      "lng": -95.513
+    },
+    {
+      "name": "Humble Branch",
+      "city": "Humble",
+      "state": "TX",
+      "lat": 29.998,
+      "lng": -95.178
+    },
+    {
+      "name": "Huntsville Branch",
+      "city": "Huntsville",
+      "state": "TX",
+      "lat": 30.718,
+      "lng": -95.573
+    },
+    {
+      "name": "Katy Branch",
+      "city": "Katy",
+      "state": "TX",
+      "lat": 29.777,
+      "lng": -95.776
+    },
+    {
+      "name": "Kingsville Branch",
+      "city": "Kingsville",
+      "state": "TX",
+      "lat": 27.513,
+      "lng": -97.856
+    },
+    {
+      "name": "Killeen Branch",
+      "city": "Killeen",
+      "state": "TX",
+      "lat": 31.087,
+      "lng": -97.706
+    },
+    {
+      "name": "La Marque Branch",
+      "city": "La Marque",
+      "state": "TX",
+      "lat": 29.404,
+      "lng": -95.036
+    },
+    {
+      "name": "Lake Worth Branch",
+      "city": "Lake Worth",
+      "state": "TX",
+      "lat": 32.813,
+      "lng": -97.43
+    },
+    {
+      "name": "Lake Jackson Branch",
+      "city": "Lake Jackson",
+      "state": "TX",
+      "lat": 29.049,
+      "lng": -95.463
+    },
+    {
+      "name": "Irving Branch",
+      "city": "Irving",
+      "state": "TX",
+      "lat": 32.91,
+      "lng": -96.957
+    },
+    {
+      "name": "Clark Blvd Branch",
+      "city": "Laredo",
+      "state": "TX",
+      "lat": 27.516,
+      "lng": -99.452
+    },
+    {
+      "name": "E Del Mar Blvd Branch",
+      "city": "Laredo",
+      "state": "TX",
+      "lat": 27.575,
+      "lng": -99.473
+    },
+    {
+      "name": "Little Elm Branch",
+      "city": "Little Elm",
+      "state": "TX",
+      "lat": 33.171,
+      "lng": -96.888
+    },
+    {
+      "name": "Longview Branch",
+      "city": "Longview",
+      "state": "TX",
+      "lat": 32.539,
+      "lng": -94.765
+    },
+    {
+      "name": "Slide Rd Branch",
+      "city": "Lubbock",
+      "state": "TX",
+      "lat": 33.532,
+      "lng": -101.925
+    },
+    {
+      "name": "University Ave Branch",
+      "city": "Lubbock",
+      "state": "TX",
+      "lat": 33.526,
+      "lng": -101.871
+    },
+    {
+      "name": "Lufkin Branch",
+      "city": "Lufkin",
+      "state": "TX",
+      "lat": 31.314,
+      "lng": -94.721
+    },
+    {
+      "name": "McAllen Branch",
+      "city": "Mcallen",
+      "state": "TX",
+      "lat": 26.232,
+      "lng": -98.242
+    },
+    {
+      "name": "Mesquite Branch",
+      "city": "Mesquite",
+      "state": "TX",
+      "lat": 32.8,
+      "lng": -96.634
+    },
+    {
+      "name": "Mission Branch",
+      "city": "Mission",
+      "state": "TX",
+      "lat": 26.199,
+      "lng": -98.288
+    },
+    {
+      "name": "Midland Branch",
+      "city": "Midland",
+      "state": "TX",
+      "lat": 32.029,
+      "lng": -102.143
+    },
+    {
+      "name": "McKinney Branch",
+      "city": "Mckinney",
+      "state": "TX",
+      "lat": 33.17,
+      "lng": -96.638
+    },
+    {
+      "name": "Mount Pleasant Branch",
+      "city": "Mount Pleasant",
+      "state": "TX",
+      "lat": 33.136,
+      "lng": -94.969
+    },
+    {
+      "name": "Odessa Branch",
+      "city": "Odessa",
+      "state": "TX",
+      "lat": 31.892,
+      "lng": -102.344
+    },
+    {
+      "name": "Palestine Branch",
+      "city": "Palestine",
+      "state": "TX",
+      "lat": 31.737,
+      "lng": -95.61
+    },
+    {
+      "name": "New Braunfels Branch",
+      "city": "New Braunfels",
+      "state": "TX",
+      "lat": 29.688,
+      "lng": -98.127
+    },
+    {
+      "name": "Paris Branch",
+      "city": "Paris",
+      "state": "TX",
+      "lat": 33.66,
+      "lng": -95.504
+    },
+    {
+      "name": "Nederland Branch",
+      "city": "Nederland",
+      "state": "TX",
+      "lat": 29.948,
+      "lng": -93.996
+    },
+    {
+      "name": "Pearland Branch",
+      "city": "Pearland",
+      "state": "TX",
+      "lat": 29.557,
+      "lng": -95.372
+    },
+    {
+      "name": "Richardson Branch",
+      "city": "Richardson",
+      "state": "TX",
+      "lat": 32.914,
+      "lng": -96.745
+    },
+    {
+      "name": "Plainview Branch",
+      "city": "Plainview",
+      "state": "TX",
+      "lat": 34.185,
+      "lng": -101.746
+    },
+    {
+      "name": "Rio Grande City Branch",
+      "city": "Rio Grande City",
+      "state": "TX",
+      "lat": 26.365,
+      "lng": -98.793
+    },
+    {
+      "name": "Round Rock Branch",
+      "city": "Round Rock",
+      "state": "TX",
+      "lat": 30.496,
+      "lng": -97.678
+    },
+    {
+      "name": "San Angelo Branch",
+      "city": "San Angelo",
+      "state": "TX",
+      "lat": 31.442,
+      "lng": -100.486
+    },
+    {
+      "name": "Rowlett Branch",
+      "city": "Rowlett",
+      "state": "TX",
+      "lat": 32.92,
+      "lng": -96.516
+    },
+    {
+      "name": "San Pedro Ave Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.598,
+      "lng": -98.473
+    },
+    {
+      "name": "SE Military Dr Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.352,
+      "lng": -98.443
+    },
+    {
+      "name": "W Loop 1604 N Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.494,
+      "lng": -98.706
+    },
+    {
+      "name": "W IH 10 Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.486,
+      "lng": -98.544
+    },
+    {
+      "name": "SW Loop 410 Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.414,
+      "lng": -98.651
+    },
+    {
+      "name": "San Pedro Ave Branch",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.506,
+      "lng": -98.498
+    },
+    {
+      "name": "Selma Branch",
+      "city": "Selma",
+      "state": "TX",
+      "lat": 29.569,
+      "lng": -98.329
+    },
+    {
+      "name": "San Juan Branch",
+      "city": "San Juan",
+      "state": "TX",
+      "lat": 26.206,
+      "lng": -98.152
+    },
+    {
+      "name": "San Marcos Branch",
+      "city": "San Marcos",
+      "state": "TX",
+      "lat": 29.883,
+      "lng": -97.918
+    },
+    {
+      "name": "Spring Branch",
+      "city": "Spring",
+      "state": "TX",
+      "lat": 30.051,
+      "lng": -95.43
+    },
+    {
+      "name": "Sugar Land Branch",
+      "city": "Sugar Land",
+      "state": "TX",
+      "lat": 29.598,
+      "lng": -95.626
+    },
+    {
+      "name": "Sulphur Springs Branch",
+      "city": "Sulphur Springs",
+      "state": "TX",
+      "lat": 33.108,
+      "lng": -95.598
+    },
+    {
+      "name": "Temple Branch",
+      "city": "Temple",
+      "state": "TX",
+      "lat": 31.088,
+      "lng": -97.387
+    },
+    {
+      "name": "TOMBALL Branch",
+      "city": "Tomball",
+      "state": "TX",
+      "lat": 30.088,
+      "lng": -95.639
+    },
+    {
+      "name": "Terrell Branch",
+      "city": "Terrell",
+      "state": "TX",
+      "lat": 32.742,
+      "lng": -96.305
+    },
+    {
+      "name": "Texarkana Branch",
+      "city": "Texarkana",
+      "state": "TX",
+      "lat": 33.453,
+      "lng": -94.079
+    },
+    {
+      "name": "Tyler Branch",
+      "city": "Tyler",
+      "state": "TX",
+      "lat": 32.3,
+      "lng": -95.3
+    },
+    {
+      "name": "Uvalde Branch",
+      "city": "Uvalde",
+      "state": "TX",
+      "lat": 29.232,
+      "lng": -99.755
+    },
+    {
+      "name": "Victoria Branch",
+      "city": "Victoria",
+      "state": "TX",
+      "lat": 28.816,
+      "lng": -97.0
+    },
+    {
+      "name": "Waco Branch",
+      "city": "Waco",
+      "state": "TX",
+      "lat": 31.518,
+      "lng": -97.18
+    },
+    {
+      "name": "Watauga Branch",
+      "city": "Watauga",
+      "state": "TX",
+      "lat": 32.894,
+      "lng": -97.257
+    },
+    {
+      "name": "Waxahachie Branch",
+      "city": "Waxahachie",
+      "state": "TX",
+      "lat": 32.429,
+      "lng": -96.842
+    },
+    {
+      "name": "Weatherford Branch",
+      "city": "Weatherford",
+      "state": "TX",
+      "lat": 32.728,
+      "lng": -97.787
+    },
+    {
+      "name": "Weslaco Branch",
+      "city": "Weslaco",
+      "state": "TX",
+      "lat": 26.16,
+      "lng": -97.996
+    },
+    {
+      "name": "Wharton Branch",
+      "city": "Wharton",
+      "state": "TX",
+      "lat": 29.328,
+      "lng": -96.122
+    },
+    {
+      "name": "Wichita Falls Branch",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "lat": 33.879,
+      "lng": -98.55
+    },
+    {
+      "name": "Layton Branch",
+      "city": "Layton",
+      "state": "UT",
+      "lat": 41.071,
+      "lng": -111.979
+    },
+    {
+      "name": "Orem Branch",
+      "city": "Orem",
+      "state": "UT",
+      "lat": 40.298,
+      "lng": -111.7
+    },
+    {
+      "name": "Salt Lake City Branch",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.648,
+      "lng": -111.941
+    },
+    {
+      "name": "Abingdon Branch",
+      "city": "Abingdon",
+      "state": "VA",
+      "lat": 36.708,
+      "lng": -81.999
+    },
+    {
+      "name": "Alexandria Branch",
+      "city": "Alexandria",
+      "state": "VA",
+      "lat": 38.802,
+      "lng": -77.082
+    },
+    {
+      "name": "Blackstone Branch",
+      "city": "Blackstone",
+      "state": "VA",
+      "lat": 37.06,
+      "lng": -78.008
+    },
+    {
+      "name": "Chase City Branch",
+      "city": "Chase City",
+      "state": "VA",
+      "lat": 36.801,
+      "lng": -78.448
+    },
+    {
+      "name": "Charlottesville Branch",
+      "city": "Charlottesville",
+      "state": "VA",
+      "lat": 38.089,
+      "lng": -78.474
+    },
+    {
+      "name": "Riverdale Branch",
+      "city": "Riverdale",
+      "state": "UT",
+      "lat": 41.188,
+      "lng": -111.986
+    },
+    {
+      "name": "Portsmouth Blvd Branch",
+      "city": "Chesapeake",
+      "state": "VA",
+      "lat": 36.824,
+      "lng": -76.42
+    },
+    {
+      "name": "Battlefield Blvd N Branch",
+      "city": "Chesapeake",
+      "state": "VA",
+      "lat": 36.762,
+      "lng": -76.251
+    },
+    {
+      "name": "Colonial Heights Branch",
+      "city": "Colonial Heights",
+      "state": "VA",
+      "lat": 37.249,
+      "lng": -77.39
+    },
+    {
+      "name": "Covington Branch",
+      "city": "Covington",
+      "state": "VA",
+      "lat": 37.78,
+      "lng": -79.991
+    },
+    {
+      "name": "Culpeper Branch",
+      "city": "Culpeper",
+      "state": "VA",
+      "lat": 38.463,
+      "lng": -78.003
+    },
+    {
+      "name": "Christiansburg Branch",
+      "city": "Christiansburg",
+      "state": "VA",
+      "lat": 37.152,
+      "lng": -80.416
+    },
+    {
+      "name": "Danville Branch",
+      "city": "Danville",
+      "state": "VA",
+      "lat": 36.626,
+      "lng": -79.403
+    },
+    {
+      "name": "Elkton Branch",
+      "city": "Elkton",
+      "state": "VA",
+      "lat": 38.416,
+      "lng": -78.622
+    },
+    {
+      "name": "Emporia Branch",
+      "city": "Emporia",
+      "state": "VA",
+      "lat": 36.706,
+      "lng": -77.547
+    },
+    {
+      "name": "Fairlawn Branch",
+      "city": "Fairlawn",
+      "state": "VA",
+      "lat": 37.148,
+      "lng": -80.587
+    },
+    {
+      "name": "Central Park Blvd Branch",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "lat": 38.303,
+      "lng": -77.513
+    },
+    {
+      "name": "Farmville Branch",
+      "city": "Farmville",
+      "state": "VA",
+      "lat": 37.283,
+      "lng": -78.395
+    },
+    {
+      "name": "Jefferson Davis Hwy Branch",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "lat": 38.222,
+      "lng": -77.504
+    },
+    {
+      "name": "Front Royal Branch",
+      "city": "Front Royal",
+      "state": "VA",
+      "lat": 38.911,
+      "lng": -78.188
+    },
+    {
+      "name": "Galax Branch",
+      "city": "Galax",
+      "state": "VA",
+      "lat": 36.682,
+      "lng": -80.892
+    },
+    {
+      "name": "Glen Allen Branch",
+      "city": "Glen Allen",
+      "state": "VA",
+      "lat": 37.653,
+      "lng": -77.608
+    },
+    {
+      "name": "W Mercury Blvd Branch",
+      "city": "Hampton",
+      "state": "VA",
+      "lat": 37.033,
+      "lng": -76.415
+    },
+    {
+      "name": "Harrisonburg Branch",
+      "city": "Harrisonburg",
+      "state": "VA",
+      "lat": 38.433,
+      "lng": -78.901
+    },
+    {
+      "name": "Cunningham Dr Branch",
+      "city": "Hampton",
+      "state": "VA",
+      "lat": 37.046,
+      "lng": -76.389
+    },
+    {
+      "name": "Herndon Branch",
+      "city": "Herndon",
+      "state": "VA",
+      "lat": 38.965,
+      "lng": -77.382
+    },
+    {
+      "name": "Leesburg Branch",
+      "city": "Leesburg",
+      "state": "VA",
+      "lat": 39.11,
+      "lng": -77.551
+    },
+    {
+      "name": "Lexington Branch",
+      "city": "Lexington",
+      "state": "VA",
+      "lat": 37.774,
+      "lng": -79.434
+    },
+    {
+      "name": "Louisa Branch",
+      "city": "Louisa",
+      "state": "VA",
+      "lat": 38.021,
+      "lng": -77.991
+    },
+    {
+      "name": "Manassas Branch",
+      "city": "Manassas",
+      "state": "VA",
+      "lat": 38.801,
+      "lng": -77.511
+    },
+    {
+      "name": "Lynchburg Branch",
+      "city": "Lynchburg",
+      "state": "VA",
+      "lat": 37.373,
+      "lng": -79.184
+    },
+    {
+      "name": "Martinsville Branch",
+      "city": "Martinsville",
+      "state": "VA",
+      "lat": 36.696,
+      "lng": -79.879
+    },
+    {
+      "name": "Mechanicsville Branch",
+      "city": "Mechanicsville",
+      "state": "VA",
+      "lat": 37.605,
+      "lng": -77.353
+    },
+    {
+      "name": "Midlothian Branch",
+      "city": "Midlothian",
+      "state": "VA",
+      "lat": 37.506,
+      "lng": -77.629
+    },
+    {
+      "name": "Newport News Branch",
+      "city": "Newport News",
+      "state": "VA",
+      "lat": 37.137,
+      "lng": -76.521
+    },
+    {
+      "name": "N Military Hwy Branch",
+      "city": "Norfolk",
+      "state": "VA",
+      "lat": 36.868,
+      "lng": -76.213
+    },
+    {
+      "name": "E Little Creek Rd Branch",
+      "city": "Norfolk",
+      "state": "VA",
+      "lat": 36.915,
+      "lng": -76.253
+    },
+    {
+      "name": "North Chesterfield Branch",
+      "city": "North Chesterfield",
+      "state": "VA",
+      "lat": 37.443,
+      "lng": -77.579
+    },
+    {
+      "name": "Onley Branch",
+      "city": "Onley",
+      "state": "VA",
+      "lat": 37.698,
+      "lng": -75.719
+    },
+    {
+      "name": "Norton Branch",
+      "city": "Norton",
+      "state": "VA",
+      "lat": 36.955,
+      "lng": -82.603
+    },
+    {
+      "name": "Orange Branch",
+      "city": "Orange",
+      "state": "VA",
+      "lat": 38.257,
+      "lng": -78.114
+    },
+    {
+      "name": "Roanoke Branch",
+      "city": "Roanoke",
+      "state": "VA",
+      "lat": 37.32,
+      "lng": -79.962
+    },
+    {
+      "name": "Springfield Branch",
+      "city": "Springfield",
+      "state": "VA",
+      "lat": 38.781,
+      "lng": -77.191
+    },
+    {
+      "name": "Pounding Mill Branch",
+      "city": "Pounding Mill",
+      "state": "VA",
+      "lat": 37.064,
+      "lng": -81.745
+    },
+    {
+      "name": "Rocky Mount Branch",
+      "city": "Rocky Mount",
+      "state": "VA",
+      "lat": 37.013,
+      "lng": -79.867
+    },
+    {
+      "name": "South Boston Branch",
+      "city": "South Boston",
+      "state": "VA",
+      "lat": 36.735,
+      "lng": -78.913
+    },
+    {
+      "name": "Suffolk Branch",
+      "city": "Suffolk",
+      "state": "VA",
+      "lat": 36.769,
+      "lng": -76.587
+    },
+    {
+      "name": "Stafford Branch",
+      "city": "Stafford",
+      "state": "VA",
+      "lat": 38.474,
+      "lng": -77.437
+    },
+    {
+      "name": "Providence Square Shopping Ctr Branch",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "lat": 36.812,
+      "lng": -76.167
+    },
+    {
+      "name": "Virginia Beach Blvd Branch",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "lat": 36.843,
+      "lng": -76.114
+    },
+    {
+      "name": "Waynesboro Branch",
+      "city": "Waynesboro",
+      "state": "VA",
+      "lat": 38.056,
+      "lng": -78.942
+    },
+    {
+      "name": "Williamsburg Branch",
+      "city": "Williamsburg",
+      "state": "VA",
+      "lat": 37.337,
+      "lng": -76.736
+    },
+    {
+      "name": "Winchester Branch",
+      "city": "Winchester",
+      "state": "VA",
+      "lat": 39.163,
+      "lng": -78.174
+    },
+    {
+      "name": "Woodbridge Branch",
+      "city": "Woodbridge",
+      "state": "VA",
+      "lat": 38.658,
+      "lng": -77.294
+    },
+    {
+      "name": "Woodstock Branch",
+      "city": "Woodstock",
+      "state": "VA",
+      "lat": 38.874,
+      "lng": -78.533
+    },
+    {
+      "name": "Wytheville Branch",
+      "city": "Wytheville",
+      "state": "VA",
+      "lat": 36.959,
+      "lng": -81.099
+    },
+    {
+      "name": "Warsaw Branch",
+      "city": "Warsaw",
+      "state": "VA",
+      "lat": 37.959,
+      "lng": -76.772
+    },
+    {
+      "name": "Aberdeen Branch",
+      "city": "Aberdeen",
+      "state": "WA",
+      "lat": 46.977,
+      "lng": -123.805
+    },
+    {
+      "name": "Auburn Branch",
+      "city": "Auburn",
+      "state": "WA",
+      "lat": 47.319,
+      "lng": -122.224
+    },
+    {
+      "name": "Bellevue Branch",
+      "city": "Bellevue",
+      "state": "WA",
+      "lat": 47.623,
+      "lng": -122.161
+    },
+    {
+      "name": "Burien Branch",
+      "city": "Burien",
+      "state": "WA",
+      "lat": 47.476,
+      "lng": -122.333
+    },
+    {
+      "name": "Bellingham Branch",
+      "city": "Bellingham",
+      "state": "WA",
+      "lat": 48.791,
+      "lng": -122.489
+    },
+    {
+      "name": "Burlington Branch",
+      "city": "Burlington",
+      "state": "WA",
+      "lat": 48.47,
+      "lng": -122.335
+    },
+    {
+      "name": "Chehalis Branch",
+      "city": "Chehalis",
+      "state": "WA",
+      "lat": 46.678,
+      "lng": -122.977
+    },
+    {
+      "name": "Everett Branch",
+      "city": "Everett",
+      "state": "WA",
+      "lat": 47.909,
+      "lng": -122.229
+    },
+    {
+      "name": "Federal Way Branch",
+      "city": "Federal Way",
+      "state": "WA",
+      "lat": 47.292,
+      "lng": -122.312
+    },
+    {
+      "name": "Kelso Branch",
+      "city": "Kelso",
+      "state": "WA",
+      "lat": 46.144,
+      "lng": -122.895
+    },
+    {
+      "name": "Kennewick Branch",
+      "city": "Kennewick",
+      "state": "WA",
+      "lat": 46.224,
+      "lng": -119.221
+    },
+    {
+      "name": "Kent Branch",
+      "city": "Kent",
+      "state": "WA",
+      "lat": 47.37,
+      "lng": -122.201
+    },
+    {
+      "name": "Lacey Branch",
+      "city": "Lacey",
+      "state": "WA",
+      "lat": 47.041,
+      "lng": -122.836
+    },
+    {
+      "name": "Lynnwood Branch",
+      "city": "Lynnwood",
+      "state": "WA",
+      "lat": 47.824,
+      "lng": -122.272
+    },
+    {
+      "name": "Marysville Branch",
+      "city": "Marysville",
+      "state": "WA",
+      "lat": 48.077,
+      "lng": -122.183
+    },
+    {
+      "name": "Olympia Branch",
+      "city": "Olympia",
+      "state": "WA",
+      "lat": 47.035,
+      "lng": -122.936
+    },
+    {
+      "name": "S Meridian Branch",
+      "city": "Puyallup",
+      "state": "WA",
+      "lat": 47.149,
+      "lng": -122.293
+    },
+    {
+      "name": "Renton Branch",
+      "city": "Renton",
+      "state": "WA",
+      "lat": 47.442,
+      "lng": -122.222
+    },
+    {
+      "name": "E Main Branch",
+      "city": "Puyallup",
+      "state": "WA",
+      "lat": 47.191,
+      "lng": -122.276
+    },
+    {
+      "name": "Silverdale Branch",
+      "city": "Silverdale",
+      "state": "WA",
+      "lat": 47.658,
+      "lng": -122.686
+    },
+    {
+      "name": "Seattle Branch",
+      "city": "Seattle",
+      "state": "WA",
+      "lat": 47.708,
+      "lng": -122.333
+    },
+    {
+      "name": "Spanaway Branch",
+      "city": "Spanaway",
+      "state": "WA",
+      "lat": 47.099,
+      "lng": -122.434
+    },
+    {
+      "name": "Spokane Valley Branch",
+      "city": "Spokane Valley",
+      "state": "WA",
+      "lat": 47.66,
+      "lng": -117.281
+    },
+    {
+      "name": "Spokane Branch",
+      "city": "Spokane",
+      "state": "WA",
+      "lat": 47.741,
+      "lng": -117.413
+    },
+    {
+      "name": "Pacific Ave S Branch",
+      "city": "Tacoma",
+      "state": "WA",
+      "lat": 47.164,
+      "lng": -122.435
+    },
+    {
+      "name": "615A SE Chkalov Dr Branch",
+      "city": "Vancouver",
+      "state": "WA",
+      "lat": 45.617,
+      "lng": -122.554
+    },
+    {
+      "name": "S Mildred St Branch",
+      "city": "Tacoma",
+      "state": "WA",
+      "lat": 47.245,
+      "lng": -122.527
+    },
+    {
+      "name": "Wenatchee Branch",
+      "city": "Wenatchee",
+      "state": "WA",
+      "lat": 47.44,
+      "lng": -120.324
+    },
+    {
+      "name": "NE 12th Ave Branch",
+      "city": "Vancouver",
+      "state": "WA",
+      "lat": 45.718,
+      "lng": -122.659
+    },
+    {
+      "name": "Woodinville Branch",
+      "city": "Woodinville",
+      "state": "WA",
+      "lat": 47.754,
+      "lng": -122.161
+    },
+    {
+      "name": "Beckley Branch",
+      "city": "Beckley",
+      "state": "WV",
+      "lat": 37.753,
+      "lng": -81.219
+    },
+    {
+      "name": "Yakima Branch",
+      "city": "Yakima",
+      "state": "WA",
+      "lat": 46.607,
+      "lng": -120.489
+    },
+    {
+      "name": "Huntington Branch",
+      "city": "Huntington",
+      "state": "WV",
+      "lat": 38.411,
+      "lng": -82.366
+    },
+    {
+      "name": "Charleston Branch",
+      "city": "Charleston",
+      "state": "WV",
+      "lat": 38.347,
+      "lng": -81.639
+    },
+    {
+      "name": "Clarksburg Branch",
+      "city": "Clarksburg",
+      "state": "WV",
+      "lat": 39.266,
+      "lng": -80.286
+    },
+    {
+      "name": "Inwood Branch",
+      "city": "Inwood",
+      "state": "WV",
+      "lat": 39.358,
+      "lng": -78.038
+    },
+    {
+      "name": "Keyser Branch",
+      "city": "Keyser",
+      "state": "WV",
+      "lat": 39.401,
+      "lng": -79.014
+    },
+    {
+      "name": "Lewisburg Branch",
+      "city": "Lewisburg",
+      "state": "WV",
+      "lat": 37.815,
+      "lng": -80.428
+    },
+    {
+      "name": "Logan Branch",
+      "city": "Logan",
+      "state": "WV",
+      "lat": 37.849,
+      "lng": -81.995
+    },
+    {
+      "name": "Martinsburg Branch",
+      "city": "Martinsburg",
+      "state": "WV",
+      "lat": 39.48,
+      "lng": -77.958
+    },
+    {
+      "name": "Buckhannon Branch",
+      "city": "Buckhannon",
+      "state": "WV",
+      "lat": 38.993,
+      "lng": -80.235
+    },
+    {
+      "name": "Oak Hill Branch",
+      "city": "Oak Hill",
+      "state": "WV",
+      "lat": 38.011,
+      "lng": -81.129
+    },
+    {
+      "name": "Parkersburg Branch",
+      "city": "Parkersburg",
+      "state": "WV",
+      "lat": 39.219,
+      "lng": -81.545
+    },
+    {
+      "name": "Princeton Branch",
+      "city": "Princeton",
+      "state": "WV",
+      "lat": 37.36,
+      "lng": -81.096
+    },
+    {
+      "name": "Wheeling Branch",
+      "city": "Wheeling",
+      "state": "WV",
+      "lat": 40.079,
+      "lng": -80.688
+    },
+    {
+      "name": "Appleton Branch",
+      "city": "Appleton",
+      "state": "WI",
+      "lat": 44.263,
+      "lng": -88.45
+    },
+    {
+      "name": "White Hall Branch",
+      "city": "White Hall",
+      "state": "WV",
+      "lat": 39.423,
+      "lng": -80.188
+    },
+    {
+      "name": "Westover Branch",
+      "city": "Westover",
+      "state": "WV",
+      "lat": 39.632,
+      "lng": -79.982
+    },
+    {
+      "name": "Beaver Dam Branch",
+      "city": "Beaver Dam",
+      "state": "WI",
+      "lat": 43.487,
+      "lng": -88.811
+    },
+    {
+      "name": "Eau Claire Branch",
+      "city": "Eau Claire",
+      "state": "WI",
+      "lat": 44.803,
+      "lng": -91.469
+    },
+    {
+      "name": "Elkhorn Branch",
+      "city": "Elkhorn",
+      "state": "WI",
+      "lat": 42.694,
+      "lng": -88.543
+    },
+    {
+      "name": "Greenfield Branch",
+      "city": "Greenfield",
+      "state": "WI",
+      "lat": 42.956,
+      "lng": -87.95
+    },
+    {
+      "name": "Glendale Branch",
+      "city": "Glendale",
+      "state": "WI",
+      "lat": 43.141,
+      "lng": -87.934
+    },
+    {
+      "name": "Green Bay Branch",
+      "city": "Green Bay",
+      "state": "WI",
+      "lat": 44.525,
+      "lng": -88.075
+    },
+    {
+      "name": "HUDSON Branch",
+      "city": "Hudson",
+      "state": "WI",
+      "lat": 44.962,
+      "lng": -92.727
+    },
+    {
+      "name": "Lien Rd Branch",
+      "city": "Madison",
+      "state": "WI",
+      "lat": 43.121,
+      "lng": -89.308
+    },
+    {
+      "name": "Janesville Branch",
+      "city": "Janesville",
+      "state": "WI",
+      "lat": 42.718,
+      "lng": -88.999
+    },
+    {
+      "name": "Kenosha Branch",
+      "city": "Kenosha",
+      "state": "WI",
+      "lat": 42.566,
+      "lng": -87.879
+    },
+    {
+      "name": "Mineral Point Rd Branch",
+      "city": "Madison",
+      "state": "WI",
+      "lat": 43.06,
+      "lng": -89.496
+    },
+    {
+      "name": "Hales Corners Branch",
+      "city": "Hales Corners",
+      "state": "WI",
+      "lat": 42.951,
+      "lng": -88.049
+    },
+    {
+      "name": "Oshkosh Branch",
+      "city": "Oshkosh",
+      "state": "WI",
+      "lat": 44.014,
+      "lng": -88.582
+    },
+    {
+      "name": "Marinette Branch",
+      "city": "Marinette",
+      "state": "WI",
+      "lat": 45.099,
+      "lng": -87.635
+    },
+    {
+      "name": "Plover Branch",
+      "city": "Plover",
+      "state": "WI",
+      "lat": 44.497,
+      "lng": -89.513
+    },
+    {
+      "name": "Racine Branch",
+      "city": "Racine",
+      "state": "WI",
+      "lat": 42.703,
+      "lng": -87.826
+    },
+    {
+      "name": "Platteville Branch",
+      "city": "Platteville",
+      "state": "WI",
+      "lat": 42.72,
+      "lng": -90.486
+    },
+    {
+      "name": "Rice Lake Branch",
+      "city": "Rice Lake",
+      "state": "WI",
+      "lat": 45.493,
+      "lng": -91.734
+    },
+    {
+      "name": "Rhinelander Branch",
+      "city": "Rhinelander",
+      "state": "WI",
+      "lat": 45.633,
+      "lng": -89.381
+    },
+    {
+      "name": "Sparta Branch",
+      "city": "Sparta",
+      "state": "WI",
+      "lat": 43.94,
+      "lng": -90.819
+    },
+    {
+      "name": "Waukesha Branch",
+      "city": "Waukesha",
+      "state": "WI",
+      "lat": 43.021,
+      "lng": -88.252
+    },
+    {
+      "name": "Sheboygan Branch",
+      "city": "Sheboygan",
+      "state": "WI",
+      "lat": 43.723,
+      "lng": -87.739
+    },
+    {
+      "name": "West Allis Branch",
+      "city": "West Allis",
+      "state": "WI",
+      "lat": 42.999,
+      "lng": -88.041
+    },
+    {
+      "name": "Wauwatosa Branch",
+      "city": "Wauwatosa",
+      "state": "WI",
+      "lat": 43.067,
+      "lng": -88.049
+    },
+    {
+      "name": "Wausau Branch",
+      "city": "Wausau",
+      "state": "WI",
+      "lat": 44.933,
+      "lng": -89.661
+    },
+    {
+      "name": "West Bend Branch",
+      "city": "West Bend",
+      "state": "WI",
+      "lat": 43.429,
+      "lng": -88.213
+    },
+    {
+      "name": "Casper Branch",
+      "city": "Casper",
+      "state": "WY",
+      "lat": 42.847,
+      "lng": -106.263
+    },
+    {
+      "name": "Cheyenne Branch",
+      "city": "Cheyenne",
+      "state": "WY",
+      "lat": 41.161,
+      "lng": -104.79
+    },
+    {
+      "name": "Riverton Branch",
+      "city": "Riverton",
+      "state": "WY",
+      "lat": 43.025,
+      "lng": -108.386
+    },
+    {
+      "name": "Gillette Branch",
+      "city": "Gillette",
+      "state": "WY",
+      "lat": 44.27,
+      "lng": -105.484
+    }
+  ]
+}
