@@ -28,12 +28,22 @@ jobs:
         run: python refresh.py
         env:
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
-
-      - name: Publish refreshed data
-        run: |
           
+            - name: Publish refreshed data
+        run: |
+          echo "Generated coverage file:"
+          ls -lh coverage.json
+          python -c "import json; d=json.load(open('coverage.json')); print('Legislators:', len(d.get('legislators', [])), 'Branches:', d.get('branch_count'))"
+
           git config user.name "coverage-refresh"
           git config user.email "actions@users.noreply.github.com"
-          git add coverage.json data/ 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "Refresh nationwide OneMain coverage"
-          git push
+          git add -f coverage.json
+          git status --short
+
+          if git diff --cached --quiet; then
+            echo "ERROR: coverage.json was not changed"
+            exit 1
+          fi
+
+          git commit -m "Refresh nationwide legislative coverage"
+          git push origin HEAD:main
