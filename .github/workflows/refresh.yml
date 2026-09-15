@@ -1,0 +1,41 @@
+name: Refresh nationwide coverage
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get website files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Build nationwide coverage
+        run: python refresh.py
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+
+      - name: Publish refreshed data
+        run: |
+          if [ -f data/coverage.json ]; then
+            cp data/coverage.json coverage.json
+          fi
+          git config user.name "coverage-refresh"
+          git config user.email "actions@users.noreply.github.com"
+          git add coverage.json data/ 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Refresh nationwide OneMain coverage"
+          git push
