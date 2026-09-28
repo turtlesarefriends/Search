@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-28",
   "branch_count": 1323,
   "legislators": [
     {
@@ -2529,28 +2529,6 @@
           "address": "Flagstaff, AZ",
           "lat": 35.207,
           "lng": -111.646
-        }
-      ]
-    },
-    {
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "level": "upper",
-      "chamber": "State Senate",
-      "district": "10",
-      "party": "Democratic",
-      "branches": [
-        {
-          "name": "Hayward Branch",
-          "address": "Hayward, CA",
-          "lat": 37.684,
-          "lng": -122.091
-        },
-        {
-          "name": "Newark Branch",
-          "address": "Newark, CA",
-          "lat": 37.55,
-          "lng": -122.051
         }
       ]
     },
@@ -21041,22 +21019,6 @@
       ]
     },
     {
-      "name": "Aaron Crossley",
-      "state": "MO",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "29",
-      "party": "Democratic",
-      "branches": [
-        {
-          "name": "Independence Branch",
-          "address": "Independence, MO",
-          "lat": 39.044,
-          "lng": -94.416
-        }
-      ]
-    },
-    {
       "name": "Alex Riley",
       "state": "MO",
       "level": "lower",
@@ -22223,22 +22185,6 @@
           "address": "Batesville, MS",
           "lat": 34.316,
           "lng": -89.944
-        }
-      ]
-    },
-    {
-      "name": "Juan Barnett",
-      "state": "MS",
-      "level": "upper",
-      "chamber": "State Senate",
-      "district": "34",
-      "party": "Democratic",
-      "branches": [
-        {
-          "name": "Laurel Branch",
-          "address": "Laurel, MS",
-          "lat": 31.718,
-          "lng": -89.147
         }
       ]
     },
@@ -24073,6 +24019,28 @@
           "address": "Hendersonville, NC",
           "lat": 35.306,
           "lng": -82.455
+        }
+      ]
+    },
+    {
+      "name": "Jerry Tillett",
+      "state": "NC",
+      "level": "upper",
+      "chamber": "State Senate",
+      "district": "1",
+      "party": "Republican",
+      "branches": [
+        {
+          "name": "Ahoskie Branch",
+          "address": "Ahoskie, NC",
+          "lat": 36.277,
+          "lng": -76.98
+        },
+        {
+          "name": "Elizabeth City Branch",
+          "address": "Elizabeth City, NC",
+          "lat": 36.297,
+          "lng": -76.233
         }
       ]
     },
@@ -30793,38 +30761,6 @@
           "address": "Waverly, OH",
           "lat": 39.134,
           "lng": -82.977
-        }
-      ]
-    },
-    {
-      "name": "Sharon Ray",
-      "state": "OH",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "66",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "Medina Branch",
-          "address": "Medina, OH",
-          "lat": 41.157,
-          "lng": -81.864
-        }
-      ]
-    },
-    {
-      "name": "Sharon Ray",
-      "state": "OH",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "69",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "Heath Branch",
-          "address": "Heath, OH",
-          "lat": 40.036,
-          "lng": -82.432
         }
       ]
     },
@@ -38005,28 +37941,6 @@
           "address": "Sugar Land, TX",
           "lat": 29.598,
           "lng": -95.626
-        }
-      ]
-    },
-    {
-      "name": "Gary VanDeaver",
-      "state": "TX",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "1",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "Paris Branch",
-          "address": "Paris, TX",
-          "lat": 33.66,
-          "lng": -95.504
-        },
-        {
-          "name": "Texarkana Branch",
-          "address": "Texarkana, TX",
-          "lat": 33.453,
-          "lng": -94.079
         }
       ]
     },
