@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "branch_count": 1323,
-  "legislator_count": 6409,
+  "legislator_count": 6406,
   "legislators": [
     {
       "name": "A.J. McCampbell",
@@ -13994,15 +13994,6 @@
       "branches": []
     },
     {
-      "name": "Jon Dunwell",
-      "state": "IA",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "38",
-      "party": "Republican",
-      "branches": []
-    },
-    {
       "name": "Josh Meggers",
       "state": "IA",
       "level": "lower",
@@ -24449,15 +24440,6 @@
       "level": "upper",
       "chamber": "State Senate",
       "district": "25",
-      "party": "Republican",
-      "branches": []
-    },
-    {
-      "name": "Mark Wright",
-      "state": "LA",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "77",
       "party": "Republican",
       "branches": []
     },
@@ -53190,6 +53172,22 @@
       ]
     },
     {
+      "name": "Sean Hutson",
+      "state": "OH",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "66",
+      "party": "Republican",
+      "branches": [
+        {
+          "name": "Medina Branch",
+          "address": "Medina, OH",
+          "lat": 41.157,
+          "lng": -81.864
+        }
+      ]
+    },
+    {
       "name": "Shane Wilkin",
       "state": "OH",
       "level": "upper",
@@ -54348,15 +54346,6 @@
       "chamber": "State House / Assembly",
       "district": "38",
       "party": "Republican",
-      "branches": []
-    },
-    {
-      "name": "John Waldron",
-      "state": "OK",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "77",
-      "party": "Democratic",
       "branches": []
     },
     {
@@ -68224,15 +68213,6 @@
       "level": "lower",
       "chamber": "State House / Assembly",
       "district": "45",
-      "party": "Republican",
-      "branches": []
-    },
-    {
-      "name": "Trevor Lee",
-      "state": "UT",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "16",
       "party": "Republican",
       "branches": []
     },
