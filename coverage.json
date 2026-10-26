@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "branch_count": 1323,
   "legislator_count": 6406,
   "legislators": [
@@ -37014,7 +37014,7 @@
       "branches": []
     },
     {
-      "name": "Frank Smith",
+      "name": "Frank J. Smith",
       "state": "MT",
       "level": "lower",
       "chamber": "State House / Assembly",
@@ -50842,7 +50842,7 @@
       "level": "upper",
       "chamber": "State Senate",
       "district": "54",
-      "party": "Republican/Conservative/Independence",
+      "party": "Republican/Conservative",
       "branches": [
         {
           "name": "Canandaigua Branch",
