@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "branch_count": 1323,
   "legislator_count": 6406,
   "legislators": [
@@ -6061,6 +6061,15 @@
       "branches": []
     },
     {
+      "name": "Mar\u00eda Gonz\u00e1lez",
+      "state": "CO",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "32",
+      "party": "Democratic",
+      "branches": []
+    },
+    {
       "name": "Matt Ball",
       "state": "CO",
       "level": "upper",
@@ -10469,6 +10478,22 @@
           "address": "Athens, GA",
           "lat": 33.925,
           "lng": -83.341
+        }
+      ]
+    },
+    {
+      "name": "Freddie Sims",
+      "state": "GA",
+      "level": "upper",
+      "chamber": "State Senate",
+      "district": "12",
+      "party": "Democratic",
+      "branches": [
+        {
+          "name": "Albany Branch",
+          "address": "Albany, GA",
+          "lat": 31.61,
+          "lng": -84.213
         }
       ]
     },
@@ -47308,22 +47333,6 @@
       "branches": []
     },
     {
-      "name": "Andi Reeb",
-      "state": "NM",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "64",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "Roswell Branch",
-          "address": "Roswell, NM",
-          "lat": 33.45,
-          "lng": -104.523
-        }
-      ]
-    },
-    {
       "name": "Andrea Romero",
       "state": "NM",
       "level": "lower",
@@ -52017,22 +52026,6 @@
       "district": "11",
       "party": "Democratic",
       "branches": []
-    },
-    {
-      "name": "D.J. Swearingen",
-      "state": "OH",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "89",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "Sandusky Branch",
-          "address": "Sandusky, OH",
-          "lat": 41.409,
-          "lng": -82.665
-        }
-      ]
     },
     {
       "name": "Dan Troy",
