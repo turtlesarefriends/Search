@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "branch_count": 1323,
   "legislator_count": 6406,
   "legislators": [
@@ -48445,6 +48445,31 @@
       "branches": []
     },
     {
+      "name": "Alex Pereszlenyi",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "29",
+      "party": "Democratic",
+      "branches": [
+        {
+          "name": "Henderson Branch",
+          "address": "Henderson, NV",
+          "lat": 36.066,
+          "lng": -115.037
+        }
+      ]
+    },
+    {
+      "name": "Alexis Esparza",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "1",
+      "party": "Democratic",
+      "branches": []
+    },
+    {
       "name": "Alexis Hansen",
       "state": "NV",
       "level": "lower",
@@ -48488,15 +48513,6 @@
       "branches": []
     },
     {
-      "name": "Brian Hibbetts",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "13",
-      "party": "Republican",
-      "branches": []
-    },
-    {
       "name": "Brittney Miller",
       "state": "NV",
       "level": "lower",
@@ -48511,6 +48527,15 @@
           "lng": -115.286
         }
       ]
+    },
+    {
+      "name": "C.H. Miller",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "7",
+      "party": "Democratic",
+      "branches": []
     },
     {
       "name": "Carrie Buck",
@@ -48554,20 +48579,20 @@
       "branches": []
     },
     {
-      "name": "Daniele Monroe-Moreno",
+      "name": "Dan Andrews",
       "state": "NV",
       "level": "lower",
       "chamber": "State House / Assembly",
-      "district": "1",
+      "district": "13",
       "party": "Democratic",
       "branches": []
     },
     {
       "name": "Danielle Gallant",
       "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "23",
+      "level": "upper",
+      "chamber": "State Senate",
+      "district": "20",
       "party": "Republican",
       "branches": []
     },
@@ -48578,6 +48603,15 @@
       "chamber": "State House / Assembly",
       "district": "20",
       "party": "Democratic",
+      "branches": []
+    },
+    {
+      "name": "Denise Fanning",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "23",
+      "party": "Republican",
       "branches": []
     },
     {
@@ -48604,6 +48638,15 @@
       "level": "upper",
       "chamber": "State Senate",
       "district": "2",
+      "party": "Democratic",
+      "branches": []
+    },
+    {
+      "name": "Eileen Eady",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "4",
       "party": "Democratic",
       "branches": []
     },
@@ -48694,31 +48737,6 @@
       "branches": []
     },
     {
-      "name": "Heidi Kasama",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "2",
-      "party": "Republican",
-      "branches": [
-        {
-          "name": "S Fort Apache Rd Branch",
-          "address": "Las Vegas, NV",
-          "lat": 36.098,
-          "lng": -115.299
-        }
-      ]
-    },
-    {
-      "name": "Howard Watts",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "15",
-      "party": "Democratic",
-      "branches": []
-    },
-    {
       "name": "Ira Hansen",
       "state": "NV",
       "level": "upper",
@@ -48760,15 +48778,6 @@
       "branches": []
     },
     {
-      "name": "Jeff Stone",
-      "state": "NV",
-      "level": "upper",
-      "chamber": "State Senate",
-      "district": "20",
-      "party": "Republican",
-      "branches": []
-    },
-    {
       "name": "Jill Dickman",
       "state": "NV",
       "level": "lower",
@@ -48785,20 +48794,13 @@
       ]
     },
     {
-      "name": "Joe Dalia",
+      "name": "Joe Spica",
       "state": "NV",
       "level": "lower",
       "chamber": "State House / Assembly",
-      "district": "29",
+      "district": "35",
       "party": "Democratic",
-      "branches": [
-        {
-          "name": "Henderson Branch",
-          "address": "Henderson, NV",
-          "lat": 36.066,
-          "lng": -115.037
-        }
-      ]
+      "branches": []
     },
     {
       "name": "John Ellison",
@@ -48828,6 +48830,15 @@
       "branches": []
     },
     {
+      "name": "Julie Butler",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "40",
+      "party": "Republican",
+      "branches": []
+    },
+    {
       "name": "Julie Pazina",
       "state": "NV",
       "level": "upper",
@@ -48835,6 +48846,22 @@
       "district": "12",
       "party": "Democratic",
       "branches": []
+    },
+    {
+      "name": "Kamilah Bywaters",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "2",
+      "party": "Democratic",
+      "branches": [
+        {
+          "name": "S Fort Apache Rd Branch",
+          "address": "Las Vegas, NV",
+          "lat": 36.098,
+          "lng": -115.299
+        }
+      ]
     },
     {
       "name": "Linda Hunt",
@@ -48851,15 +48878,6 @@
           "lng": -115.132
         }
       ]
-    },
-    {
-      "name": "Lisa Cole",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "4",
-      "party": "Republican",
-      "branches": []
     },
     {
       "name": "Lisa Krasner",
@@ -48927,12 +48945,12 @@
       "branches": []
     },
     {
-      "name": "Melissa Hardy",
+      "name": "Miguel D\u00e1vila",
       "state": "NV",
       "level": "lower",
       "chamber": "State House / Assembly",
-      "district": "22",
-      "party": "Republican",
+      "district": "15",
+      "party": "Democratic",
       "branches": []
     },
     {
@@ -48959,24 +48977,6 @@
           "lng": -115.249
         }
       ]
-    },
-    {
-      "name": "P.K. O'Neill",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "40",
-      "party": "Republican",
-      "branches": []
-    },
-    {
-      "name": "Rebecca Edgeworth",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "35",
-      "party": "Republican",
-      "branches": []
     },
     {
       "name": "Reuben D'Silva",
@@ -49024,11 +49024,11 @@
       "branches": []
     },
     {
-      "name": "Sandra Jauregui",
+      "name": "Ryan Hampton",
       "state": "NV",
       "level": "lower",
       "chamber": "State House / Assembly",
-      "district": "41",
+      "district": "9",
       "party": "Democratic",
       "branches": []
     },
@@ -49083,29 +49083,20 @@
       ]
     },
     {
+      "name": "Shenea Booth",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "22",
+      "party": "Democratic",
+      "branches": []
+    },
+    {
       "name": "Skip Daly",
       "state": "NV",
       "level": "upper",
       "chamber": "State Senate",
       "district": "13",
-      "party": "Democratic",
-      "branches": []
-    },
-    {
-      "name": "Steve Yeager",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "9",
-      "party": "Democratic",
-      "branches": []
-    },
-    {
-      "name": "Tanya Flanagan",
-      "state": "NV",
-      "level": "lower",
-      "chamber": "State House / Assembly",
-      "district": "7",
       "party": "Democratic",
       "branches": []
     },
@@ -49133,6 +49124,15 @@
       "level": "lower",
       "chamber": "State House / Assembly",
       "district": "10",
+      "party": "Democratic",
+      "branches": []
+    },
+    {
+      "name": "Vinny Spotleson",
+      "state": "NV",
+      "level": "lower",
+      "chamber": "State House / Assembly",
+      "district": "41",
       "party": "Democratic",
       "branches": []
     },
@@ -75843,7 +75843,7 @@
       "branches": []
     },
     {
-      "name": "Laura Taliaferro",
+      "name": "Laura Pearson",
       "state": "WY",
       "level": "upper",
       "chamber": "State Senate",
